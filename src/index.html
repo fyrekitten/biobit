@@ -1,0 +1,185 @@
+<html>
+  
+<head>
+  <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="BioBit, unlimited fun, play with your friends!">
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="minimal-ui, width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+<script type="text/javascript"> var infolinks_pid = 3158245; var infolinks_wsid = 0; </script> <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"> </script>
+  
+  <title> BioBit v1.0 | Eat bits, get big. </title>
+<style>
+
+#snackbar {
+  visibility: hidden;
+  min-width: 250px;
+  margin-left: -125px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 2px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1;
+  left: 50%;
+  bottom: 30px;
+  font-size: 17px;
+}
+
+#snackbar.show {
+  visibility: visible;
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+  from {bottom: 0; opacity: 0;} 
+  to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;} 
+  to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
+
+</style>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <link id="favicon" rel="icon" type="image/png" href="assets/img/favicon.png">
+  <link href="https://fonts.googleapis.com/css?family=Odibee+Sans:700" rel="stylesheet" type="text/css">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+  <link href="index.css" rel="stylesheet">
+  <link href="gallery.css" rel="stylesheet">
+<script src="quadtree.js"> </script>
+<script src="main_out_privateserver.js"> </script>
+
+</head>
+
+<body>
+
+    <div id="gallery" onclick="if (event.target == this) this.hide()" style="display: none;">
+      <div id="gallery-content">
+        <div id="gallery-header">Settings</div>
+        <div id="gallery-body"></div>
+  <center>
+    <div id="settings" class="checkbox">
+      <div style="margin: 6px;">
+        <label> <input id="showNames" type="checkbox"> Show Names </label>
+        <label> <input id="showColor" type="checkbox"> Show Colour </label>
+        <label> <input id="showSkins" type="checkbox"> Skin </label>
+        <label> <input id="fillSkin" type="checkbox"> Fill Skin </label>
+        <label> <input id="showMass" type="checkbox"> Show Mass </label>
+        <label> <input id="jellyPhysics" type="checkbox"> Jelly Physics </label>
+        <label> <input id="showBorder" type="checkbox"> Show Map Border </label>
+        <label> <input id="showMinimap" type="checkbox"> Show Minimap </label>
+        <label> <input id="showPosition" type="checkbox"> Show Position </label>
+        <label> <input id="moreZoom" type="checkbox"> More Zoom </label>
+        <label> <input id="showGrid" type="checkbox"> Show Grid </label>
+        <label> <input id="backgroundSectors" type="checkbox"> Background Selectors </label>
+        <label> <input id="showChat" type="checkbox"> Show Chat </label>
+        <label><input id="darkTheme" type="checkbox">Dark Theme</label>
+      </div>
+    </div>
+  </center>
+      </div>
+    </div>
+    <div id="overlays" style="display: none;">
+      <div id="helloDialog">
+        <div class="form-group">
+          <strong><h1>BioBit v1.0</h1></strong>
+        </div>
+    	<div id="leftPanel">
+        <span>Featured YouTuber: BigFatGrub</span>
+              <iframe src="https://www.youtube.com/embed/FzwDFVVc9Ss" style="border:0px #ffffff none; border-radius: 5px;" name="YouTube" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="230pxpx" width="320px" allowfullscreen></iframe>
+        <span>Official Discord</span>
+              <iframe src="https://www.youtube.com/channel/UCuEOuIMwp8rk9ogpp3JUvVg" style="border:0px #ffffff none; border-radius: 5px;" name="YouTube" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="230pxpx" width="320px" allowfullscreen></iframe>
+      </div>
+    	<div id="rightPanel">
+        <strong><span>News:</span></strong>
+        <br>
+        <strong><span>- Welcome To BioBit v1.0</span></strong>
+        <br>
+        <strong><span>- Improved Interface</span></strong>
+        <br>
+        <strong><span>- Added More Servers</span></strong>
+        <br>
+        <strong><span>--------------------------------------------</span></strong>
+        <br>
+        <strong><span>Gameplay:</span></strong>
+        The objective of the game is to grow a cell, a circular player-controlled object, by swallowing both pellets and smaller cells without being swallowed by bigger cells. It can be played in a deathmatch or between teams. There is no set goal; players restart when all of their cells are swallowed.
+
+The game contains three entities: pellets, cells and viruses:
+
+Pellets, or food, are randomly scattered among the map. When swallowed, they slightly increase a cells mass.
+
+Cells are controlled by players. Only opponent cells that are smaller can be swallowed; they can be swallowed directly, or by splitting, as described below. Cells move slower with heavier mass and gradually lose mass over time.
+
+Viruses split larger cells into many pieces. Smaller cells can hide behind them for protection against larger cells. They can be fed to create another virus launched at a direction the player chooses.
+
+Players can split a part of their cell, flinging one of the divided cells at the direction of the cursor. This can be used as a ranged attack to swallow other cells, to escape from a difficult situation, or to move more quickly around the map. Split cells eventually merge into one. Players can also release a small fraction of their mass to grow other cells or to feed viruses, which splits them when done several times.
+
+      </div>
+        <div class="form-group">
+          <input id="nick" class="form-control" placeholder="This Is the Tale Of..." maxlength="25">
+          <select id="gamemode" class="form-control" onchange="setserver(this.value);gtag('event', 'agariosetserver');" required="">
+<optgroup label="- - - - - - - - - - - - - - - -">
+                  <optgroup label="Servers">
+<option value="biobit.bigfatgrub.repl.co"> FFA </option>
+<option value="biobit-ffa2.topdown.repl.co"> FFA </option>
+<optgroup label="- - - - - - - - - - - - - - - -">
+<option value="biobit-teams.topdown.repl.co"> Teams </option>  <option value="biobit-teams2.topdown.repl.co"> Teams </option>
+<optgroup label="- - - - - - - - - - - - - - - -">
+<option value="biobit-arena.topdown.repl.co"> Arena </option>
+<option value="biobit-arena2.topdown.repl.co"> Arena </option>
+                  </optgroup> </select>
+        </div>
+            <button id="play-btn" class="btn btn-play btn-primary btn-needs-server"> Play </button>
+            <button id="spectate-btn" onclick="spectate()" class="btn btn-warning btn-spectate btn-needs-server glyphicon glyphicon-eye-open"i style="box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;"> </button>
+          <button id="gallery-btn" onclick="openSkinsList()" class="btn btn-play btn-primary btn-needs-server btn-info"> Settings </button>
+            <div id="instructions">
+                <hr>
+              <center>
+                <span class="text-muted">
+                  <b style="color:#ff0000";>How to play?</b> <br>
+                  <b style="color:#ffff00";>Move with the mouse!</b> <br>
+                  <b style="color:#ffff00";>Divide with Space!</b> <br>
+                  <b style="color:#ffff00";>Throw mass with W!</b> <br>
+                </span>
+              </center>
+            </div>
+            <hr>
+            <div id="footer">
+              <button class="btn btn-success" onclick="window.open('https://about:blank/')" style="box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;"> More Games! </button>
+            </div>
+      </div>
+    </div>
+    <div id="connecting">
+      <div id="connecting-content">
+        <h2>Connecting...</h2>
+        <p>Servers may take up to 30 seconds to load, if not, change servers or try again.</p>
+      </div>
+    </div>
+
+    <canvas id="canvas" width="800" height="600"> </canvas>
+    <input type="text" id="chat_textbox" placeholder="Press Enter to chat!" maxlength="100000">
+
+</body>
+</html>
+
+<div id="showmenubutton" onclick="mainmenu()" class="btn btn-primary" style="color: #00ff00; position: absolute; font-size: 10px; top: 5px; left: 666px; width: 199px; box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;"><strong>Press ESC to return to the main menu!</strong></div>

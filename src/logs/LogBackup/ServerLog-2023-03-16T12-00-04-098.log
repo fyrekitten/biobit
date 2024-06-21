@@ -1,0 +1,123 @@
+=== Started 2023-03-16T08-47-53-939 ===
+[ERROR][08:47:53] Unknown gameserver.ini value: serverWelcome3
+[INFO ][08:47:53] 2 bad words loaded
+[INFO ][08:47:53] 4 user records loaded.
+[INFO ][08:47:53] 0 IP ban records loaded.
+[INFO ][08:47:53] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][08:47:53] WebSocket: ws
+[INFO ][08:47:54] Started stats server on port 1234
+[INFO ][08:47:54] Listening on port 3000
+[INFO ][08:47:54] Current game mode is vFree For All
+[INFO ][08:47:54] Added 4 player bots
+[NONE ][08:47:54]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][09:30:21] CONNECTED 195.194.10.108:57176, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][09:31:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][09:31:35] DISCONNECTED 195.194.10.108:57176, code: 1006, reason: "null", name: "guyslefttoe"
+[ERROR][09:31:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][09:32:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][09:32:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][09:33:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][09:33:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][09:34:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][09:34:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][09:35:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][09:35:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][09:36:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][09:36:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][09:37:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][09:37:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:02:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:02:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:03:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:03:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:04:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:04:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:05:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:05:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:06:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:06:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:07:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:07:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:08:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:08:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:09:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:09:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:10:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:10:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:11:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:11:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:12:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:12:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:13:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:13:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:14:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:14:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:15:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:15:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:16:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:16:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:17:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:17:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:18:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:18:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:19:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:19:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:20:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:20:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:21:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:21:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:22:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:22:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:23:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:23:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:24:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:24:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:25:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:25:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:26:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:26:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:27:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:27:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:28:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:28:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:29:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:29:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:30:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:30:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:31:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:31:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:32:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:32:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:47:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:47:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:48:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:48:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:49:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:49:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:50:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:50:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:51:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:51:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:52:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:52:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:53:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:53:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:54:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:54:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:55:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:55:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:56:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:56:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:57:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:57:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:58:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:58:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:59:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][10:59:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][11:00:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][11:00:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl

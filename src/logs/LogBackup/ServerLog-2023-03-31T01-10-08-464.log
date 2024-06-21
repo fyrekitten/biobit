@@ -1,0 +1,27 @@
+=== Started 2023-03-30T20-39-46-508 ===
+[ERROR][20:39:46] Unknown gameserver.ini value: serverWelcome3
+[INFO ][20:39:46] 2 bad words loaded
+[INFO ][20:39:46] 4 user records loaded.
+[INFO ][20:39:46] 0 IP ban records loaded.
+[INFO ][20:39:46] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][20:39:46] WebSocket: ws
+[INFO ][20:39:46] Started stats server on port 1234
+[INFO ][20:39:46] Listening on port 3000
+[INFO ][20:39:46] Current game mode is vFree For All
+[INFO ][20:39:46] Added 4 player bots
+[NONE ][20:39:46]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][20:40:24] CONNECTED 170.211.157.126:40978, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:50:23] CONNECTED 170.211.157.125:47686, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:52:57] DISCONNECTED 170.211.157.125:47686, code: 1001, reason: "", name: "Manny"
+[NONE ][20:53:04] CONNECTED 170.211.157.125:50436, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:58:04] DISCONNECTED 170.211.157.125:50436, code: 1001, reason: "", name: "AHh is a Nigga"
+[NONE ][20:58:15] CONNECTED 170.211.157.125:37570, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][21:01:37] DISCONNECTED 170.211.157.126:40978, code: 1001, reason: "", name: "AAAAAHHHHHHHHH"
+[NONE ][21:01:52] DISCONNECTED 170.211.157.125:37570, code: 1001, reason: "", name: "AHHHHHHHHHHHHH is a Nigga"
+[NONE ][21:02:04] CONNECTED 170.211.157.125:52508, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][21:03:57] DISCONNECTED 170.211.157.125:52508, code: 1001, reason: "", name: ""

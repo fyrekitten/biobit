@@ -1,0 +1,27 @@
+=== Started 2023-05-17T04-04-36-868 ===
+[ERROR][04:04:36] Unknown gameserver.ini value: serverWelcome3
+[INFO ][04:04:36] 2 bad words loaded
+[INFO ][04:04:36] 4 user records loaded.
+[INFO ][04:04:36] 0 IP ban records loaded.
+[INFO ][04:04:36] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][04:04:36] WebSocket: ws
+[INFO ][04:04:37] Started stats server on port 1234
+[INFO ][04:04:37] Listening on port 3000
+[INFO ][04:04:37] Current game mode is vFree For All
+[INFO ][04:04:37] Added 4 player bots
+[NONE ][04:04:37]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][04:05:19] CONNECTED 2.50.131.2:58628, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][04:06:27] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][04:06:28] DISCONNECTED 2.50.131.2:58628, code: 1006, reason: "null", name: "الماوري "
+[NONE ][04:06:35] CONNECTED 2.50.131.2:40408, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:06:53] DISCONNECTED 2.50.131.2:40408, code: 1001, reason: "", name: "الماوري "
+[NONE ][04:08:49] CONNECTED 2.50.131.2:37412, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:09:48] DISCONNECTED 2.50.131.2:37412, code: 1001, reason: "", name: "الماوري "
+[NONE ][04:36:02] CONNECTED 217.165.57.157:46588, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:37:21] DISCONNECTED 217.165.57.157:46588, code: 1001, reason: "", name: "الماوري "
+[NONE ][04:54:54] CONNECTED 217.165.57.157:46906, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"

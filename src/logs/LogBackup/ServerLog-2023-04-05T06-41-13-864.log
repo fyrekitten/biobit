@@ -1,0 +1,26 @@
+=== Started 2023-04-05T04-51-55-690 ===
+[ERROR][04:51:55] Unknown gameserver.ini value: serverWelcome3
+[INFO ][04:51:55] 2 bad words loaded
+[INFO ][04:51:55] 4 user records loaded.
+[INFO ][04:51:55] 0 IP ban records loaded.
+[INFO ][04:51:55] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][04:51:55] WebSocket: ws
+[INFO ][04:51:55] Started stats server on port 1234
+[INFO ][04:51:55] Listening on port 3000
+[INFO ][04:51:55] Current game mode is vFree For All
+[INFO ][04:51:55] Added 4 player bots
+[NONE ][04:51:55]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][04:51:58] CONNECTED 203.116.55.2:58432, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:54:54] DISCONNECTED 203.116.55.2:58432, code: 1001, reason: "", name: "Player"
+[NONE ][05:37:35] CONNECTED 202.55.72.74:44770, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:37:53] CONNECTED 202.55.72.74:54040, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:49:30] DISCONNECTED 202.55.72.74:54040, code: 1001, reason: "", name: "educational"
+[NONE ][05:52:38] CONNECTED 202.55.72.74:56778, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:56:36] DISCONNECTED 202.55.72.74:56778, code: 1001, reason: "", name: "Player"
+[NONE ][06:04:36] DISCONNECTED 202.55.72.74:44770, code: 1001, reason: "", name: "yolo"
+[NONE ][06:33:21] CONNECTED 202.55.72.74:40264, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"

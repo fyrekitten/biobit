@@ -1,0 +1,33 @@
+#gallery {
+  opacity: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(15, 15, 15, 0.5);
+  z-index: 201;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#gallery-content {
+  background: ;
+  max-height: 80%;
+  max-width: 60%;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+#gallery-header {
+  font-size: 26px;
+  background: #555;
+  color: #fff;
+  text-align: center;
+}
+#gallery-body {
+  display: flex;
+  min-height: 0;
+  background: #0199d9;
+}

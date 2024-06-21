@@ -1,0 +1,1402 @@
+=== Started 2023-02-07T15-38-26-887 ===
+[ERROR][15:38:26] Unknown gameserver.ini value: serverWelcome3
+[INFO ][15:38:26] 1 bad words loaded
+[INFO ][15:38:26] 4 user records loaded.
+[INFO ][15:38:26] 0 IP ban records loaded.
+[INFO ][15:38:26] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:38:26] WebSocket: ws
+[INFO ][15:38:27] Started stats server on port 1234
+[INFO ][15:38:27] Listening on port 3000
+[INFO ][15:38:27] Current game mode is Free For All
+[INFO ][15:38:27] Added 4 player bots
+[NONE ][15:38:27]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:38:27] CONNECTED 209.237.114.66:43224, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 34.132.169.71:33872, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:27] CONNECTED 69.89.124.118:33884, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 168.10.24.2:58404, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 198.62.219.3:43240, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 50.228.85.250:53308, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:27] CONNECTED 76.3.249.162:53326, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 195.194.136.12:46144, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 69.58.52.209:47396, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 148.77.10.82:46732, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:27] CONNECTED 76.3.249.162:46728, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:38:27] CONNECTED 98.164.58.252:43266, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:27] CONNECTED 98.179.132.2:49002, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 216.176.15.246:45538, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 69.63.166.182:46752, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 12.118.24.86:46768, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 205.118.120.162:46938, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 136.228.45.1:46782, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 212.67.100.53:49204, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 76.3.249.162:49004, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:38:27] CONNECTED 76.3.249.162:46518, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 76.3.249.162:49228, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 72.20.153.166:49242, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:27] CONNECTED 65.190.82.228:38370, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 50.228.85.254:38028, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 12.118.24.86:43040, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 12.15.231.156:33896, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 96.5.249.131:47406, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 208.108.154.6:38388, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:27] CONNECTED 76.3.249.162:53348, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 109.176.113.2:47418, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 199.192.117.90:45560, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 75.151.11.193:38390, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 165.161.16.210:43280, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:27] CONNECTED 76.3.249.162:41672, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:27] CONNECTED 194.83.71.179:49254, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:28] DISCONNECTED 208.108.154.6:38388, code: 1001, reason: "", name: ""
+[NONE ][15:38:28] CONNECTED 205.118.120.162:46956, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:28] CONNECTED 148.77.10.82:43060, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:28] CONNECTED 216.200.134.2:53402, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:28] CONNECTED 65.182.125.31:33906, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:28] CONNECTED 64.254.71.146:53218, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:28] CONNECTED 217.181.20.6:33924, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:28] CONNECTED 136.228.204.196:36306, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:28] CONNECTED 217.181.22.39:49026, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:28] CONNECTED 216.48.132.108:49704, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:28] CONNECTED 50.206.90.26:41732, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:38:28] CONNECTED 98.161.224.186:38422, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:28] CONNECTED 76.3.249.162:45580, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:38:28] CONNECTED 168.10.24.2:38424, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:28] CONNECTED 72.20.153.166:41674, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:28] CONNECTED 208.108.154.6:43286, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:29] DISCONNECTED 12.118.24.86:43040, code: 1001, reason: "", name: ""
+[NONE ][15:38:29] CONNECTED 216.125.37.50:49714, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:29] CONNECTED 206.176.81.10:65355, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:29] CONNECTED 76.3.249.162:46536, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:29] CONNECTED 148.77.10.82:43288, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:29] CONNECTED 207.192.244.242:43068, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:29] CONNECTED 195.194.136.12:43302, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:30] CONNECTED 168.10.24.2:41746, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:30] CONNECTED 76.3.249.162:33940, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:30] CONNECTED 170.185.147.218:53414, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:30] CONNECTED 217.181.22.7:46156, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:30] CONNECTED 148.77.10.82:60260, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:38:32] CONNECTED 50.236.20.86:46168, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:32] CONNECTED 165.166.63.71:30860, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:34] CONNECTED 165.139.71.211:49032, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:34] CONNECTED 50.236.20.86:36564, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:34] CONNECTED 76.3.249.162:53282, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:34] CONNECTED 165.155.162.116:56624, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:35] CONNECTED 207.157.127.91:38576, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:35] DISCONNECTED 168.10.24.2:41746, code: 1000, reason: "", name: ""
+[NONE ][15:38:37] DISCONNECTED 168.10.24.2:58404, code: 1000, reason: "", name: ""
+[NONE ][15:38:39] DISCONNECTED 136.228.204.196:36306, code: 1001, reason: "", name: ""
+[NONE ][15:38:39] DISCONNECTED 168.10.24.2:38424, code: 1000, reason: "", name: ""
+[NONE ][15:38:42] CONNECTED 77.98.41.195:41898, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:38:43] CONNECTED 12.118.24.86:34912, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:44] DISCONNECTED 50.228.85.254:38028, code: 1001, reason: "", name: ""
+[NONE ][15:38:44] CONNECTED 165.139.71.211:33134, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:48] DISCONNECTED 216.200.134.2:53402, code: 1001, reason: "", name: ""
+[NONE ][15:38:48] DISCONNECTED 198.62.219.3:43240, code: 1001, reason: "", name: "Morbius"
+[NONE ][15:38:49] DISCONNECTED 76.3.249.162:53348, code: 1001, reason: "", name: ""
+[NONE ][15:38:49] CONNECTED 50.228.85.254:53568, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:49] CONNECTED 216.200.134.2:36606, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:50] DISCONNECTED 199.192.117.90:45560, code: 1001, reason: "", name: ""
+[NONE ][15:38:51] CONNECTED 202.153.80.35:36616, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:53] CONNECTED 199.192.117.90:51858, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:55] DISCONNECTED 165.155.162.116:56624, code: 1001, reason: "", name: ""
+[NONE ][15:38:56] CONNECTED 76.3.249.162:36626, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:57] DISCONNECTED 76.3.249.162:33940, code: 1000, reason: "", name: ""
+[NONE ][15:38:58] DISCONNECTED 76.3.249.162:46728, code: 1001, reason: "", name: ""
+[NONE ][15:38:59] DISCONNECTED 109.176.113.2:47418, code: 1001, reason: "", name: ""
+[NONE ][15:39:00] CONNECTED 76.3.249.162:53846, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:39:01] CONNECTED 109.176.113.2:46744, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:01] CONNECTED 165.155.162.116:42688, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:06] DISCONNECTED 76.3.249.162:41672, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:06] DISCONNECTED 69.63.166.182:46752, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:06] DISCONNECTED 212.67.100.53:49204, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:06] DISCONNECTED 216.176.15.246:45538, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:07] DISCONNECTED 65.190.82.228:38370, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:07] DISCONNECTED 64.254.71.146:53218, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:07] DISCONNECTED 136.228.45.1:46782, code: 1001, reason: "", name: ""
+[NONE ][15:39:08] CONNECTED 76.3.249.162:59726, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:08] CONNECTED 212.67.100.53:49100, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:08] CONNECTED 69.63.166.182:56530, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:09] CONNECTED 216.176.15.246:42620, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:09] CONNECTED 65.190.82.228:59510, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:09] CONNECTED 50.201.145.131:58928, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:39:09] CONNECTED 64.254.71.146:46998, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:14] DISCONNECTED 207.157.127.91:38576, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:14] DISCONNECTED 98.179.132.2:49002, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:14] DISCONNECTED 202.153.80.35:36616, code: 1000, reason: "", name: ""
+[NONE ][15:39:15] CONNECTED 98.164.58.239:44246, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:39:15] DISCONNECTED 69.58.52.209:47396, code: null, reason: "null", name: ""
+[NONE ][15:39:15] CONNECTED 136.228.45.1:44258, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:16] CONNECTED 207.157.127.91:33410, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:39:16] DISCONNECTED 98.164.58.239:44246, code: 1000, reason: "", name: ""
+[NONE ][15:39:16] CONNECTED 98.179.132.2:33510, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:16] DISCONNECTED 207.192.244.242:43068, code: 1001, reason: "", name: ""
+[NONE ][15:39:18] CONNECTED 207.192.244.242:49608, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:18] DISCONNECTED 206.176.81.10:65355, code: 1000, reason: "", name: "Player"
+[NONE ][15:39:23] CONNECTED 206.176.81.10:59736, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:23] DISCONNECTED 206.176.81.10:59736, code: null, reason: "null", name: ""
+[NONE ][15:39:24] CONNECTED 206.176.81.10:51162, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:27] DISCONNECTED 165.161.16.210:43280, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:29] DISCONNECTED 98.161.224.186:38422, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:29] CONNECTED 165.161.29.210:58034, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:39:30] CONNECTED 76.3.249.162:57786, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:31] DISCONNECTED 77.98.41.195:41898, code: null, reason: "null", name: ""
+[NONE ][15:39:31] DISCONNECTED 77.98.41.195:41898, code: null, reason: "null", name: ""
+[NONE ][15:39:31] DISCONNECTED 12.15.231.156:33896, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:32] CONNECTED 98.161.224.186:49794, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:39:33] CONNECTED 12.15.231.156:38054, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:33] DISCONNECTED 76.3.249.162:46536, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:33] CONNECTED 168.10.24.2:44376, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:33] CONNECTED 86.54.114.20:55244, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:35] CONNECTED 77.98.41.195:50374, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:39:35] CONNECTED 76.3.249.162:54686, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[ERROR][15:39:37] [172.31.128.1:53308] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:39:37] DISCONNECTED 50.228.85.250:53308, code: 1006, reason: "", name: "Player"
+[NONE ][15:39:39] CONNECTED 168.10.24.2:41636, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:39:45] CONNECTED 205.202.34.41:56458, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:47] DISCONNECTED 76.3.249.162:53326, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:47] DISCONNECTED 212.67.100.53:49100, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:48] DISCONNECTED 65.190.82.228:59510, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:48] DISCONNECTED 64.254.71.146:46998, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:49] CONNECTED 76.3.249.162:38452, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:49] CONNECTED 212.67.100.53:44958, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:50] CONNECTED 64.254.71.146:56472, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:50] CONNECTED 65.190.82.228:41432, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:50] DISCONNECTED 216.176.15.246:42620, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:39:52] CONNECTED 216.176.15.246:56476, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:59] DISCONNECTED 168.10.24.2:41636, code: 1000, reason: "", name: ""
+[NONE ][15:40:01] DISCONNECTED 76.3.249.162:59726, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:40:03] DISCONNECTED 136.228.45.1:44258, code: null, reason: "null", name: "moneky"
+[NONE ][15:40:04] CONNECTED 76.3.249.162:60672, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:05] DISCONNECTED 69.63.166.182:56530, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:40:06] DISCONNECTED 207.157.127.91:33410, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:40:07] CONNECTED 98.164.58.246:50064, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:07] CONNECTED 69.63.166.182:56626, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:08] DISCONNECTED 206.176.81.10:51162, code: null, reason: "null", name: ""
+[NONE ][15:40:09] CONNECTED 76.3.249.162:47208, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:10] CONNECTED 207.157.127.91:53924, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:40:11] CONNECTED 131.109.81.42:47768, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:40:11] CONNECTED 69.94.180.55:37802, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:13] CONNECTED 98.164.58.246:43624, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:40:13] CONNECTED 168.9.19.224:44782, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:14] DISCONNECTED 98.179.132.2:33510, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:40:16] CONNECTED 98.179.132.2:53690, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:17] CONNECTED 165.155.131.20:54896, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:19] DISCONNECTED 50.228.85.254:53568, code: 1001, reason: "", name: "Player"
+[NONE ][15:40:22] DISCONNECTED 194.83.71.179:49254, code: 1001, reason: "", name: ""
+[NONE ][15:40:27] CONNECTED 38.45.96.67:59984, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:28] DISCONNECTED 165.161.29.210:58034, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:40:28] DISCONNECTED 165.139.71.211:33134, code: 1000, reason: "", name: "An unnamed cell"
+[NONE ][15:40:28] DISCONNECTED 76.3.249.162:53282, code: 1001, reason: "", name: ""
+[NONE ][15:40:29] DISCONNECTED 98.161.224.186:49794, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:40:31] CONNECTED 98.161.224.186:60000, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:40:31] DISCONNECTED 12.15.231.156:38054, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:40:32] DISCONNECTED 205.202.34.41:56458, code: null, reason: "null", name: "Player"
+[NONE ][15:40:33] DISCONNECTED 76.3.249.162:54686, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:40:35] CONNECTED 12.15.231.156:39242, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:35] CONNECTED 76.3.249.162:49070, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:37] CONNECTED 165.161.29.210:50042, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:40:38] DISCONNECTED 65.190.82.228:41432, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:40:38] DISCONNECTED 212.67.100.53:44958, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:40:39] DISCONNECTED 76.3.249.162:57786, code: 1001, reason: "", name: "truce "
+[NONE ][15:40:40] DISCONNECTED 208.108.154.6:43286, code: null, reason: "null", name: "armput"
+[NONE ][15:40:40] CONNECTED 65.190.82.228:47962, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:40] CONNECTED 212.67.100.53:48624, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:45] DISCONNECTED 217.181.22.7:46156, code: 1001, reason: "", name: ""
+[NONE ][15:40:47] DISCONNECTED 76.3.249.162:38452, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:40:47] DISCONNECTED 165.139.71.211:49032, code: 1000, reason: "", name: "Player"
+[NONE ][15:40:48] DISCONNECTED 64.254.71.146:56472, code: 1000, reason: "Connection timeout", name: ""
+[ERROR][15:40:48] [172.31.128.1:33924] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:40:48] DISCONNECTED 217.181.20.6:33924, code: 1006, reason: "", name: "Player335436345"
+[NONE ][15:40:49] CONNECTED 76.3.249.162:57204, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:49] DISCONNECTED 77.98.41.195:50374, code: null, reason: "null", name: ""
+[NONE ][15:40:49] DISCONNECTED 76.3.249.162:47208, code: null, reason: "null", name: ""
+[NONE ][15:40:49] DISCONNECTED 76.3.249.162:47208, code: null, reason: "null", name: ""
+[NONE ][15:40:49] DISCONNECTED 77.98.41.195:50374, code: null, reason: "null", name: ""
+[NONE ][15:40:50] DISCONNECTED 69.94.180.55:37802, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:40:50] DISCONNECTED 216.176.15.246:56476, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:40:51] CONNECTED 64.254.71.146:53376, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:52] CONNECTED 69.94.180.55:44592, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:53] CONNECTED 216.176.15.246:53392, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:57] DISCONNECTED 38.45.96.67:59984, code: 1000, reason: "", name: ""
+[NONE ][15:41:01] DISCONNECTED 76.3.249.162:60672, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:03] CONNECTED 76.3.249.162:57806, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:05] DISCONNECTED 96.5.249.131:47406, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:05] DISCONNECTED 69.63.166.182:56626, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:06] DISCONNECTED 207.157.127.91:53924, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:06] CONNECTED 168.216.133.11:52264, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:06] DISCONNECTED 131.109.81.42:47768, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:07] CONNECTED 96.5.249.131:35464, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:07] CONNECTED 69.63.166.182:55310, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:08] CONNECTED 207.157.127.91:55220, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:41:08] CONNECTED 131.109.81.42:55326, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:41:10] DISCONNECTED 165.155.131.20:54896, code: 1001, reason: "", name: ""
+[NONE ][15:41:12] CONNECTED 165.139.71.211:59522, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:14] DISCONNECTED 98.179.132.2:53690, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:15] CONNECTED 193.39.158.202:40762, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:41:16] DISCONNECTED 168.216.133.11:52264, code: 1000, reason: "", name: ""
+[NONE ][15:41:16] CONNECTED 98.179.132.2:52354, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:17] DISCONNECTED 165.161.29.210:50042, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:18] CONNECTED 168.216.133.11:33648, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:24] CONNECTED 193.39.158.202:52290, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:28] CONNECTED 193.39.158.202:58010, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:41:29] DISCONNECTED 98.161.224.186:60000, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:31] DISCONNECTED 12.15.231.156:39242, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:31] DISCONNECTED 168.10.24.2:44376, code: 1006, reason: "null", name: ""
+[NONE ][15:41:32] DISCONNECTED 69.89.124.118:33884, code: 1006, reason: "null", name: "PLAYER1"
+[NONE ][15:41:32] DISCONNECTED 34.132.169.71:33872, code: 1006, reason: "null", name: "Brisingaro"
+[NONE ][15:41:32] DISCONNECTED 65.182.125.31:33906, code: 1006, reason: "null", name: ""
+[NONE ][15:41:32] CONNECTED 98.161.224.186:38684, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:41:32] DISCONNECTED 168.216.133.11:33648, code: 1001, reason: "", name: ""
+[NONE ][15:41:33] DISCONNECTED 76.3.249.162:49070, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:33] CONNECTED 12.15.231.156:53098, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:33] DISCONNECTED 69.94.180.55:44592, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:34] CONNECTED 168.10.24.2:47466, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:34] CONNECTED 34.132.169.71:43338, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:41:34] CONNECTED 69.89.124.118:32922, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:34] CONNECTED 65.182.125.31:58018, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:35] CONNECTED 216.73.65.95:44796, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:35] CONNECTED 76.3.249.162:48744, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:36] CONNECTED 69.94.180.55:36352, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:36] CONNECTED 199.91.200.226:44804, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:37] DISCONNECTED 98.161.224.186:38684, code: 1006, reason: "null", name: ""
+[NONE ][15:41:37] DISCONNECTED 76.3.249.162:45580, code: 1006, reason: "null", name: "Chimken Nungit"
+[NONE ][15:41:38] DISCONNECTED 65.190.82.228:47962, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:38] DISCONNECTED 212.67.100.53:48624, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:39] DISCONNECTED 165.139.71.211:59522, code: 1000, reason: "", name: "Player"
+[NONE ][15:41:39] CONNECTED 76.3.249.162:45306, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:41:40] CONNECTED 98.161.224.186:45670, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:41:40] DISCONNECTED 69.63.166.182:55310, code: null, reason: "null", name: ""
+[NONE ][15:41:41] CONNECTED 212.67.100.53:48222, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:41] CONNECTED 65.190.82.228:48034, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:43] DISCONNECTED 168.10.24.2:47466, code: 1001, reason: "", name: ""
+[NONE ][15:41:46] DISCONNECTED 96.5.249.131:35464, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:46] CONNECTED 96.4.180.17:48146, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:41:46] CONNECTED 165.161.29.210:45740, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:41:46] CONNECTED 38.45.96.67:52358, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:48] CONNECTED 96.5.249.131:45750, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:48] DISCONNECTED 64.254.71.146:53376, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:49] DISCONNECTED 38.45.96.67:52358, code: 1000, reason: "", name: ""
+[NONE ][15:41:50] CONNECTED 64.254.71.146:48156, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:50] DISCONNECTED 216.176.15.246:53392, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:51] CONNECTED 165.139.71.211:48170, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:41:53] CONNECTED 216.176.15.246:46592, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:01] DISCONNECTED 76.3.249.162:57806, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:03] CONNECTED 76.3.249.162:43792, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:05] CONNECTED 96.5.247.162:55518, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:06] DISCONNECTED 207.157.127.91:55220, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:06] DISCONNECTED 131.109.81.42:55326, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:08] CONNECTED 207.157.127.91:52778, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:42:09] CONNECTED 131.109.81.42:59206, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:42:12] CONNECTED 71.204.171.12:34818, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:14] DISCONNECTED 98.179.132.2:52354, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:16] CONNECTED 98.179.132.2:46912, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:17] CONNECTED 207.235.134.28:38468, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:19] DISCONNECTED 76.3.249.162:46518, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:21] CONNECTED 76.3.249.162:41200, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:24] CONNECTED 168.213.254.20:54778, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:25] CONNECTED 82.203.87.4:34186, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:26] DISCONNECTED 193.39.158.202:58010, code: 1000, reason: "", name: "Player"
+[NONE ][15:42:29] DISCONNECTED 98.161.224.186:45670, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:29] DISCONNECTED 165.161.29.210:45740, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:31] CONNECTED 98.161.224.186:49236, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:42:31] DISCONNECTED 12.15.231.156:53098, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:33] DISCONNECTED 76.3.249.162:48744, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:33] CONNECTED 12.15.231.156:49450, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:35] CONNECTED 76.3.249.162:46426, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:36] DISCONNECTED 69.94.180.55:36352, code: 1001, reason: "", name: ""
+[NONE ][15:42:37] DISCONNECTED 96.5.249.131:45750, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:38] CONNECTED 64.107.112.21:34034, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:38] DISCONNECTED 65.190.82.228:48034, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:38] DISCONNECTED 212.67.100.53:48222, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:40] DISCONNECTED 193.39.158.202:52290, code: 1001, reason: "", name: ""
+[NONE ][15:42:40] CONNECTED 96.5.249.131:38042, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:40] CONNECTED 212.67.100.53:54834, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:41] CONNECTED 65.190.82.228:59506, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:42] DISCONNECTED 65.182.125.31:58018, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:42] DISCONNECTED 216.73.65.95:44796, code: 1001, reason: "", name: "Player"
+[NONE ][15:42:44] CONNECTED 65.182.125.31:58228, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:48] DISCONNECTED 64.254.71.146:48156, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:50] CONNECTED 64.254.71.146:39396, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:50] DISCONNECTED 216.176.15.246:46592, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:42:51] CONNECTED 165.161.25.210:48730, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:42:53] CONNECTED 216.176.15.246:44274, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:54] DISCONNECTED 76.3.249.162:36626, code: 1001, reason: "", name: "fuck all niggers"
+[NONE ][15:42:55] CONNECTED 170.177.216.170:40644, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:56] CONNECTED 76.3.249.162:48736, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:42:57] DISCONNECTED 64.107.112.21:34034, code: 1000, reason: "", name: ""
+[NONE ][15:42:59] CONNECTED 64.107.112.21:58662, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:00] CONNECTED 76.3.249.162:57896, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:00] DISCONNECTED 170.177.216.170:40644, code: 1001, reason: "", name: ""
+[NONE ][15:43:01] DISCONNECTED 76.3.249.162:43792, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:01] CONNECTED 170.177.216.170:43126, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:43:03] DISCONNECTED 75.151.11.193:38390, code: null, reason: "null", name: "Woj's Oily bum"
+[NONE ][15:43:04] CONNECTED 76.3.249.162:45530, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:05] DISCONNECTED 12.118.24.86:34912, code: null, reason: "null", name: "JT"
+[NONE ][15:43:06] DISCONNECTED 207.157.127.91:52778, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:06] DISCONNECTED 131.109.81.42:59206, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:08] CONNECTED 207.157.127.91:38020, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:43:08] CONNECTED 131.109.81.42:41326, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:43:09] CONNECTED 38.45.96.67:38072, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[ERROR][15:43:10] [172.31.128.1:46768] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:43:10] DISCONNECTED 12.118.24.86:46768, code: 1006, reason: "", name: "woj"
+[NONE ][15:43:11] DISCONNECTED 76.3.249.162:41200, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:11] CONNECTED 50.201.145.131:58462, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:43:13] CONNECTED 76.3.249.162:33834, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:13] DISCONNECTED 38.45.96.67:38072, code: 1000, reason: "", name: "EEEEEEEEEEEEEEEEEEEEEEEEE"
+[NONE ][15:43:14] CONNECTED 186.96.24.58:38080, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:14] DISCONNECTED 98.179.132.2:46912, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:16] CONNECTED 98.179.132.2:60556, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:18] CONNECTED 38.45.96.67:48002, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:20] CONNECTED 104.225.186.62:36020, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:20] DISCONNECTED 170.177.216.170:43126, code: 1000, reason: "", name: ""
+[NONE ][15:43:22] CONNECTED 170.177.216.170:36022, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:43:28] DISCONNECTED 72.20.153.166:41674, code: null, reason: "null", name: "I’m better"
+[NONE ][15:43:28] DISCONNECTED 72.20.153.166:49242, code: null, reason: "null", name: ""
+[NONE ][15:43:29] DISCONNECTED 165.161.25.210:48730, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:29] CONNECTED 166.91.253.61:45948, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:29] DISCONNECTED 98.161.224.186:49236, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:31] DISCONNECTED 12.15.231.156:49450, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:31] DISCONNECTED 131.109.81.42:41326, code: null, reason: "null", name: ""
+[NONE ][15:43:32] CONNECTED 98.161.224.186:34638, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:43:33] CONNECTED 12.15.231.156:52614, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:33] DISCONNECTED 76.3.249.162:46426, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:35] CONNECTED 76.3.249.162:49838, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:37] DISCONNECTED 96.5.249.131:38042, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:38] DISCONNECTED 65.190.82.228:59506, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:38] DISCONNECTED 212.67.100.53:54834, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:40] CONNECTED 96.5.249.131:58724, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:40] CONNECTED 65.190.82.228:59934, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:40] CONNECTED 164.52.225.194:52710, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:40] CONNECTED 212.67.100.53:34768, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:42] DISCONNECTED 65.182.125.31:58228, code: 1000, reason: "Connection timeout", name: ""
+[ERROR][15:43:42] [172.31.128.1:38468] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:43:42] DISCONNECTED 207.235.134.28:38468, code: 1006, reason: "", name: "Player"
+[NONE ][15:43:44] CONNECTED 65.182.125.31:55320, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:46] DISCONNECTED 109.176.113.2:46744, code: 1001, reason: "", name: "Player"
+[NONE ][15:43:47] CONNECTED 97.105.90.162:37794, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:48] DISCONNECTED 64.254.71.146:39396, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:50] CONNECTED 64.254.71.146:54880, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:50] DISCONNECTED 216.176.15.246:44274, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:43:52] DISCONNECTED 76.3.249.162:48736, code: 1006, reason: "null", name: ""
+[NONE ][15:43:52] CONNECTED 216.176.15.246:58992, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:43:54] DISCONNECTED 164.52.225.194:52710, code: 1000, reason: "", name: ""
+[NONE ][15:43:57] CONNECTED 165.161.29.210:55808, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:44:01] DISCONNECTED 76.3.249.162:45530, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:01] CONNECTED 205.213.6.67:54998, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:44:03] CONNECTED 76.3.249.162:44262, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:04] DISCONNECTED 50.236.20.86:46168, code: 1000, reason: "", name: "Player"
+[NONE ][15:44:06] DISCONNECTED 207.157.127.91:38020, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:06] DISCONNECTED 50.236.20.86:36564, code: null, reason: "null", name: "WWWWWWWWWWWWWWWWWWWWWWWWW"
+[NONE ][15:44:06] DISCONNECTED 50.236.20.86:36564, code: null, reason: "null", name: "WWWWWWWWWWWWWWWWWWWWWWWWW"
+[NONE ][15:44:07] CONNECTED 76.3.249.162:55010, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:07] DISCONNECTED 50.201.145.131:58928, code: 1001, reason: "", name: "Player"
+[NONE ][15:44:08] DISCONNECTED 195.194.136.12:46144, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:08] DISCONNECTED 205.213.6.67:54998, code: 1000, reason: "", name: ""
+[NONE ][15:44:08] CONNECTED 207.157.127.91:35242, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:44:08] CONNECTED 50.201.145.131:49688, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:44:09] CONNECTED 131.156.136.98:53800, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:10] CONNECTED 205.213.6.67:35258, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:44:10] CONNECTED 195.194.136.12:44264, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:11] DISCONNECTED 76.3.249.162:33834, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:11] DISCONNECTED 205.213.6.67:35258, code: 1001, reason: "", name: ""
+[NONE ][15:44:13] DISCONNECTED 131.156.136.98:53800, code: 1000, reason: "", name: ""
+[NONE ][15:44:13] CONNECTED 76.3.249.162:37622, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:14] CONNECTED 131.156.136.98:33946, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:14] DISCONNECTED 98.179.132.2:60556, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:16] CONNECTED 98.179.132.2:37880, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:19] CONNECTED 205.213.6.67:32846, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:44:19] DISCONNECTED 148.77.10.82:43060, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:21] CONNECTED 148.77.10.82:60440, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:44:29] DISCONNECTED 98.161.224.186:34638, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:31] DISCONNECTED 12.15.231.156:52614, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:32] CONNECTED 98.161.224.186:51256, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:44:33] CONNECTED 12.15.231.156:52284, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:33] DISCONNECTED 76.3.249.162:49838, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:34] DISCONNECTED 186.96.24.58:38080, code: 1001, reason: "", name: "Player"
+[NONE ][15:44:35] DISCONNECTED 165.161.29.210:55808, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:35] CONNECTED 76.3.249.162:48908, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:37] DISCONNECTED 205.118.120.162:46938, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:37] CONNECTED 165.161.29.210:48914, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:44:38] DISCONNECTED 96.5.249.131:58724, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:38] DISCONNECTED 65.190.82.228:59934, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:38] DISCONNECTED 212.67.100.53:34768, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:39] CONNECTED 205.118.120.162:38060, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:40] CONNECTED 96.5.249.131:57280, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:40] CONNECTED 65.190.82.228:60252, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:41] CONNECTED 212.67.100.53:33980, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:41] CONNECTED 66.85.41.53:57470, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:41] DISCONNECTED 71.204.171.12:34818, code: 1001, reason: "", name: "Player"
+[NONE ][15:44:42] DISCONNECTED 195.194.136.12:43302, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:42] DISCONNECTED 65.182.125.31:55320, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:44] CONNECTED 195.194.136.12:33620, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:44] CONNECTED 65.182.125.31:54674, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:48] DISCONNECTED 64.254.71.146:54880, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:50] DISCONNECTED 216.176.15.246:58992, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:44:51] CONNECTED 64.254.71.146:34686, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:54] CONNECTED 216.176.15.246:60336, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:44:57] DISCONNECTED 98.179.132.2:37880, code: null, reason: "null", name: ""
+[NONE ][15:44:57] DISCONNECTED 98.179.132.2:37880, code: null, reason: "null", name: ""
+[NONE ][15:44:59] DISCONNECTED 96.5.247.162:55518, code: 1001, reason: "", name: "Player"
+[NONE ][15:45:01] DISCONNECTED 76.3.249.162:44262, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:03] CONNECTED 76.3.249.162:44988, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:05] CONNECTED 165.138.121.108:60080, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:05] CONNECTED 165.138.121.108:40598, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:45:06] DISCONNECTED 207.157.127.91:35242, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:06] CONNECTED 98.179.132.2:36982, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:08] DISCONNECTED 195.194.136.12:44264, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:08] CONNECTED 207.157.127.91:42952, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:45:10] CONNECTED 195.194.136.12:59430, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:10] DISCONNECTED 50.201.145.131:49688, code: 1001, reason: "", name: ""
+[NONE ][15:45:10] DISCONNECTED 165.138.121.108:40598, code: null, reason: "null", name: ""
+[NONE ][15:45:10] DISCONNECTED 165.138.121.108:60080, code: null, reason: "null", name: ""
+[NONE ][15:45:11] DISCONNECTED 76.3.249.162:37622, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:11] CONNECTED 50.201.145.131:35416, origin: "https://biobit.bigfatgrub.repl.co"
+[ERROR][15:45:11] [172.31.128.1:40762] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:45:11] DISCONNECTED 193.39.158.202:40762, code: 1006, reason: "", name: "Big boi "
+[NONE ][15:45:13] CONNECTED 76.3.249.162:34298, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:15] CONNECTED 192.107.137.18:53076, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:19] DISCONNECTED 69.89.124.118:32922, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:19] DISCONNECTED 148.77.10.82:60440, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:21] CONNECTED 69.89.124.118:43242, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:21] CONNECTED 148.77.10.82:41128, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:45:23] CONNECTED 165.139.179.173:42118, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:25] DISCONNECTED 165.139.179.173:42118, code: 1001, reason: "", name: ""
+[NONE ][15:45:25] CONNECTED 96.230.39.114:37280, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:28] DISCONNECTED 165.161.29.210:48914, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:29] DISCONNECTED 98.161.224.186:51256, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:30] CONNECTED 165.161.29.210:38228, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:45:31] CONNECTED 98.161.224.186:53378, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:45:31] DISCONNECTED 12.15.231.156:52284, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:33] CONNECTED 151.71.224.109:51408, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:33] CONNECTED 12.15.231.156:51824, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:33] DISCONNECTED 76.3.249.162:48908, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:35] CONNECTED 76.3.249.162:39322, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:37] DISCONNECTED 205.118.120.162:38060, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:37] DISCONNECTED 96.5.249.131:57280, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:38] DISCONNECTED 65.190.82.228:60252, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:38] DISCONNECTED 212.67.100.53:33980, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:39] CONNECTED 205.118.120.162:47762, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:39] CONNECTED 96.5.193.199:42660, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:39] CONNECTED 96.5.249.131:39272, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:40] DISCONNECTED 98.164.58.246:50064, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:40] CONNECTED 212.67.100.53:36894, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:41] CONNECTED 131.109.81.42:36902, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:45:42] DISCONNECTED 195.194.136.12:33620, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:42] DISCONNECTED 65.182.125.31:54674, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:43] CONNECTED 98.164.58.246:39336, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:44] CONNECTED 195.194.136.12:46432, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:44] CONNECTED 65.182.125.31:46438, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:44] CONNECTED 65.190.82.228:35904, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:46] CONNECTED 192.33.136.15:50768, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:47] CONNECTED 207.235.134.11:35590, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:48] DISCONNECTED 64.254.71.146:34686, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:45:50] CONNECTED 64.254.71.146:44738, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:45:51] DISCONNECTED 216.176.15.246:60336, code: 1000, reason: "Connection timeout", name: ""
+[ERROR][15:45:51] [172.31.128.1:43288] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:45:51] DISCONNECTED 148.77.10.82:43288, code: 1006, reason: "", name: "omg"
+[NONE ][15:45:51] CONNECTED 192.33.136.15:35202, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:45:53] DISCONNECTED 76.3.249.162:49004, code: null, reason: "null", name: ""
+[NONE ][15:45:54] CONNECTED 216.176.15.246:35146, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[ERROR][15:45:56] [172.31.128.1:37280] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:45:56] DISCONNECTED 96.230.39.114:37280, code: 1006, reason: "", name: "Player"
+[NONE ][15:45:58] DISCONNECTED 98.179.132.2:36982, code: null, reason: "null", name: ""
+[NONE ][15:45:58] DISCONNECTED 98.179.132.2:36982, code: null, reason: "null", name: ""
+[NONE ][15:46:00] DISCONNECTED 69.89.124.118:43242, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:01] DISCONNECTED 76.3.249.162:44988, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:02] CONNECTED 69.89.124.118:40296, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:03] CONNECTED 76.3.249.162:48566, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:03] CONNECTED 199.91.200.226:50608, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:06] DISCONNECTED 207.157.127.91:42952, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:08] DISCONNECTED 195.194.136.12:59430, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:08] CONNECTED 76.3.249.162:49722, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:46:08] CONNECTED 207.157.127.91:41820, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:46:08] CONNECTED 98.179.132.2:54144, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:10] DISCONNECTED 151.71.224.109:51408, code: 1001, reason: "", name: "Player"
+[NONE ][15:46:10] CONNECTED 195.194.136.12:34318, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:11] DISCONNECTED 76.3.249.162:34298, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:13] CONNECTED 76.3.249.162:39376, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:18] CONNECTED 205.213.6.67:54532, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:46:19] DISCONNECTED 148.77.10.82:41128, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:20] DISCONNECTED 131.109.81.42:36902, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:20] CONNECTED 69.63.166.182:39260, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:21] CONNECTED 64.58.253.220:43798, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:21] CONNECTED 148.77.10.82:34576, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:46:22] CONNECTED 131.109.81.42:54140, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:46:27] DISCONNECTED 165.161.29.210:38228, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:29] DISCONNECTED 98.161.224.186:53378, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:29] CONNECTED 205.118.120.168:60628, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:30] CONNECTED 165.161.16.210:53332, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:46:31] CONNECTED 98.161.224.186:40768, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:46:31] DISCONNECTED 12.15.231.156:51824, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:33] CONNECTED 12.15.231.156:38314, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:33] DISCONNECTED 76.3.249.162:39322, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:35] CONNECTED 76.3.249.162:33412, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:37] DISCONNECTED 98.164.58.246:39336, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:37] DISCONNECTED 205.118.120.162:47762, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:37] DISCONNECTED 96.5.249.131:39272, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:38] DISCONNECTED 65.190.82.228:35904, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:38] DISCONNECTED 212.67.100.53:36894, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:39] CONNECTED 205.118.120.162:53356, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:39] CONNECTED 96.5.249.131:51114, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:40] CONNECTED 98.164.58.246:34264, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:40] DISCONNECTED 64.58.253.220:43798, code: 1000, reason: "", name: ""
+[NONE ][15:46:40] CONNECTED 65.190.82.228:51122, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:40] CONNECTED 212.67.100.53:35830, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:41] DISCONNECTED 76.3.249.162:55010, code: null, reason: "null", name: ""
+[NONE ][15:46:42] DISCONNECTED 195.194.136.12:46432, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:42] CONNECTED 64.58.253.220:51344, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:42] DISCONNECTED 65.182.125.31:46438, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:44] CONNECTED 195.194.136.12:60888, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:45] CONNECTED 65.182.125.31:41730, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:47] DISCONNECTED 170.185.147.218:53414, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:48] DISCONNECTED 64.254.71.146:44738, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:49] CONNECTED 170.185.147.218:44940, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:50] CONNECTED 64.254.71.146:51004, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:50] DISCONNECTED 216.176.15.246:35146, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:54] CONNECTED 216.176.15.246:45812, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:46:57] DISCONNECTED 69.89.124.118:40296, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:46:59] CONNECTED 69.89.124.118:57940, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:01] DISCONNECTED 76.3.249.162:48566, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:02] DISCONNECTED 131.156.136.98:33946, code: 1001, reason: "", name: "Player"
+[NONE ][15:47:03] CONNECTED 76.3.249.162:56358, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:04] DISCONNECTED 192.33.136.15:35202, code: null, reason: "null", name: "Shard"
+[NONE ][15:47:04] DISCONNECTED 192.33.136.15:50768, code: null, reason: "null", name: ""
+[NONE ][15:47:04] DISCONNECTED 69.63.166.182:39260, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:06] DISCONNECTED 207.157.127.91:41820, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:06] CONNECTED 69.63.166.182:41352, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:07] CONNECTED 192.33.136.15:43774, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:47:07] DISCONNECTED 131.109.81.42:54140, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:08] DISCONNECTED 195.194.136.12:34318, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:08] CONNECTED 207.157.127.91:51568, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:47:08] DISCONNECTED 192.33.136.15:43774, code: null, reason: "null", name: ""
+[NONE ][15:47:09] CONNECTED 131.109.81.42:41216, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:47:10] CONNECTED 195.194.136.12:43776, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:11] DISCONNECTED 76.3.249.162:39376, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:13] CONNECTED 76.3.249.162:44736, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:14] DISCONNECTED 98.179.132.2:54144, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:15] DISCONNECTED 205.213.6.67:32846, code: 1001, reason: "", name: ""
+[NONE ][15:47:16] CONNECTED 205.213.6.67:53164, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:47:16] CONNECTED 98.179.132.2:46926, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:19] DISCONNECTED 148.77.10.82:34576, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:20] CONNECTED 94.13.109.212:57678, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:22] CONNECTED 148.77.10.82:38768, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:47:27] CONNECTED 217.180.33.5:57782, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:27] DISCONNECTED 165.161.16.210:53332, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:28] CONNECTED 131.156.136.98:51298, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:29] DISCONNECTED 98.161.224.186:40768, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:30] CONNECTED 165.161.29.210:60758, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:47:31] DISCONNECTED 12.15.231.156:38314, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:32] CONNECTED 98.161.224.186:46128, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:47:33] CONNECTED 12.15.231.156:40898, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:33] DISCONNECTED 76.3.249.162:33412, code: 1000, reason: "Connection timeout", name: ""
+[ERROR][15:47:33] [172.31.128.1:49714] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:47:33] DISCONNECTED 216.125.37.50:49714, code: 1006, reason: "", name: "kill your self"
+[NONE ][15:47:34] CONNECTED 216.125.37.50:33850, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:47:35] CONNECTED 76.3.249.162:60764, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:37] DISCONNECTED 98.164.58.246:34264, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:37] DISCONNECTED 96.5.249.131:51114, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:38] DISCONNECTED 207.192.244.242:49608, code: 1001, reason: "", name: "Player"
+[NONE ][15:47:38] DISCONNECTED 65.190.82.228:51122, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:38] DISCONNECTED 212.67.100.53:35830, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:39] DISCONNECTED 131.156.136.98:51298, code: 1000, reason: "", name: ""
+[NONE ][15:47:39] CONNECTED 98.164.58.246:53698, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:39] CONNECTED 96.5.249.131:60098, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:40] CONNECTED 65.190.82.228:34642, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:40] CONNECTED 131.156.136.98:54302, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:40] CONNECTED 212.67.100.53:44300, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:42] DISCONNECTED 195.194.136.12:60888, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:42] DISCONNECTED 65.182.125.31:41730, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:42] CONNECTED 206.57.216.125:56318, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:47:44] CONNECTED 195.194.136.12:44304, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:44] CONNECTED 87.42.13.203:57194, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:45] CONNECTED 65.182.125.31:32822, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:47] DISCONNECTED 170.185.147.218:44940, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:47] DISCONNECTED 76.3.249.162:57204, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:48] DISCONNECTED 64.254.71.146:51004, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:48] DISCONNECTED 217.180.33.5:57782, code: 1000, reason: "", name: ""
+[NONE ][15:47:49] CONNECTED 76.3.249.162:38542, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:49] CONNECTED 170.185.147.218:37404, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:50] CONNECTED 64.254.71.146:46644, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:50] CONNECTED 217.180.33.5:55326, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:50] DISCONNECTED 216.176.15.246:45812, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:52] CONNECTED 217.180.33.1:37420, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:52] CONNECTED 216.176.15.246:55330, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:57] DISCONNECTED 69.89.124.118:57940, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:57] DISCONNECTED 82.203.87.4:34186, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:47:59] CONNECTED 69.89.124.118:33418, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:47:59] CONNECTED 82.203.87.4:52278, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:01] DISCONNECTED 76.3.249.162:56358, code: 1000, reason: "Connection timeout", name: ""
+[ERROR][15:48:03] [172.31.128.1:57194] Error: write ECONNRESET
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:48:03] DISCONNECTED 87.42.13.203:57194, code: 1006, reason: "", name: "Player"
+[NONE ][15:48:03] CONNECTED 94.13.109.212:38374, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:48:03] CONNECTED 165.138.82.254:46790, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:04] CONNECTED 76.3.249.162:59696, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:05] DISCONNECTED 76.3.249.162:49722, code: 1001, reason: "", name: ""
+[NONE ][15:48:06] DISCONNECTED 207.157.127.91:51568, code: null, reason: "null", name: ""
+[NONE ][15:48:06] DISCONNECTED 207.157.127.91:51568, code: null, reason: "null", name: ""
+[NONE ][15:48:06] DISCONNECTED 94.13.109.212:38374, code: 1001, reason: "", name: ""
+[NONE ][15:48:07] CONNECTED 76.3.249.162:55352, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:48:07] DISCONNECTED 131.109.81.42:41216, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:08] DISCONNECTED 195.194.136.12:43776, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:08] CONNECTED 207.157.127.91:56370, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:48:09] CONNECTED 198.203.84.8:38264, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:09] CONNECTED 131.109.81.42:36466, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:48:10] CONNECTED 195.194.136.12:51438, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:11] DISCONNECTED 76.3.249.162:44736, code: 1000, reason: "Connection timeout", name: ""
+[ERROR][15:48:11] [172.31.128.1:57678] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:48:11] DISCONNECTED 94.13.109.212:57678, code: 1006, reason: "", name: "Player"
+[NONE ][15:48:12] DISCONNECTED 198.203.84.8:38264, code: 1000, reason: "", name: ""
+[NONE ][15:48:13] CONNECTED 76.3.249.162:38994, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:14] DISCONNECTED 165.138.82.254:46790, code: 1000, reason: "", name: ""
+[NONE ][15:48:14] DISCONNECTED 98.179.132.2:46926, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:15] CONNECTED 198.203.84.8:34682, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:15] CONNECTED 165.138.82.254:48674, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:16] CONNECTED 98.179.132.2:49180, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:19] DISCONNECTED 148.77.10.82:38768, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:19] CONNECTED 45.236.70.9:49676, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:20] CONNECTED 171.33.192.148:38576, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:48:21] CONNECTED 148.77.10.82:34600, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:48:22] CONNECTED 145.224.65.206:57738, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:24] DISCONNECTED 217.180.33.5:55326, code: 1000, reason: "", name: "GUY FAWLKES"
+[NONE ][15:48:26] DISCONNECTED 217.180.33.1:37420, code: 1000, reason: "", name: ""
+[NONE ][15:48:26] CONNECTED 207.242.81.5:42626, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:27] DISCONNECTED 145.224.65.206:57738, code: 1000, reason: "", name: ""
+[NONE ][15:48:27] DISCONNECTED 64.254.71.146:46644, code: null, reason: "null", name: ""
+[NONE ][15:48:29] CONNECTED 145.224.65.206:55622, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:29] DISCONNECTED 98.161.224.186:46128, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:31] DISCONNECTED 165.161.29.210:60758, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:31] DISCONNECTED 12.15.231.156:40898, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:32] DISCONNECTED 205.213.6.67:54532, code: 1001, reason: "", name: "burger"
+[NONE ][15:48:32] CONNECTED 98.161.224.186:46240, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:48:33] DISCONNECTED 207.242.81.5:42626, code: 1000, reason: "", name: ""
+[NONE ][15:48:33] DISCONNECTED 76.3.249.162:60764, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:33] CONNECTED 165.161.25.210:48820, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:48:33] CONNECTED 12.15.231.156:55630, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:35] CONNECTED 205.213.208.110:44648, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:35] CONNECTED 76.3.249.162:44654, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:37] DISCONNECTED 98.164.58.246:53698, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:37] DISCONNECTED 96.5.249.131:60098, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:38] DISCONNECTED 65.190.82.228:34642, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:38] DISCONNECTED 212.67.100.53:44300, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:39] CONNECTED 98.164.58.246:40018, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:39] CONNECTED 98.164.58.245:39778, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:39] CONNECTED 96.5.249.131:54664, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[ERROR][15:48:40] [172.31.128.1:51858] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:48:40] DISCONNECTED 199.192.117.90:51858, code: 1006, reason: "", name: "Player"
+[NONE ][15:48:40] CONNECTED 212.67.100.53:34676, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:41] CONNECTED 65.190.82.228:44660, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:42] DISCONNECTED 195.194.136.12:44304, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:42] DISCONNECTED 50.206.90.26:41732, code: null, reason: "null", name: "defter"
+[NONE ][15:48:42] DISCONNECTED 65.182.125.31:32822, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:42] CONNECTED 77.98.41.195:35208, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:48:44] CONNECTED 195.194.136.12:45308, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:44] CONNECTED 65.182.125.31:55554, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:45] DISCONNECTED 145.224.65.206:55622, code: 1001, reason: "", name: "Player"
+[NONE ][15:48:47] DISCONNECTED 170.185.147.218:37404, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:47] DISCONNECTED 76.3.249.162:38542, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:47] CONNECTED 45.236.70.9:36922, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:48] DISCONNECTED 165.138.82.254:48674, code: 1000, reason: "", name: ""
+[NONE ][15:48:50] CONNECTED 165.138.82.254:43590, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:50] CONNECTED 76.3.249.162:33580, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:50] DISCONNECTED 216.176.15.246:55330, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:51] CONNECTED 170.185.147.218:33594, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:51] DISCONNECTED 82.203.87.4:52278, code: null, reason: "null", name: ""
+[NONE ][15:48:51] DISCONNECTED 82.203.87.4:52278, code: null, reason: "null", name: ""
+[NONE ][15:48:53] CONNECTED 82.203.87.4:33598, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:53] CONNECTED 216.176.15.246:54508, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:48:55] DISCONNECTED 66.85.41.53:57470, code: 1001, reason: "", name: "Player"
+[NONE ][15:48:57] DISCONNECTED 69.89.124.118:33418, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:48:59] CONNECTED 69.89.124.118:58046, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:00] DISCONNECTED 97.105.90.162:37794, code: 1001, reason: "", name: "song bro"
+[NONE ][15:49:01] DISCONNECTED 76.3.249.162:59696, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:03] CONNECTED 76.3.249.162:33986, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:04] DISCONNECTED 38.45.96.67:48002, code: null, reason: "null", name: "EEEEEEEEEEEEEEEEEEEEEEEEE"
+[NONE ][15:49:05] DISCONNECTED 165.138.82.254:43590, code: 1000, reason: "", name: ""
+[NONE ][15:49:06] DISCONNECTED 207.157.127.91:56370, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:07] CONNECTED 167.217.31.19:58636, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:07] DISCONNECTED 131.109.81.42:36466, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:07] DISCONNECTED 167.217.31.19:58636, code: 1001, reason: "", name: ""
+[NONE ][15:49:08] CONNECTED 207.157.127.91:58056, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:49:08] DISCONNECTED 195.194.136.12:51438, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:08] DISCONNECTED 98.164.58.245:39778, code: 1000, reason: "", name: ""
+[NONE ][15:49:09] CONNECTED 131.109.81.42:33348, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:49:09] DISCONNECTED 198.203.84.8:34682, code: 1001, reason: "", name: ""
+[NONE ][15:49:10] CONNECTED 195.194.136.12:35626, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:10] CONNECTED 98.164.58.245:53120, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:11] DISCONNECTED 76.3.249.162:38994, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:13] CONNECTED 76.3.249.162:33360, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:13] CONNECTED 168.9.212.123:55298, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:14] DISCONNECTED 98.179.132.2:49180, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:16] CONNECTED 98.179.132.2:43432, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[ERROR][15:49:18] [172.31.128.1:33598] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:49:18] DISCONNECTED 82.203.87.4:33598, code: 1006, reason: "", name: "Player"
+[NONE ][15:49:19] DISCONNECTED 148.77.10.82:34600, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:21] CONNECTED 148.77.10.82:38918, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:49:26] CONNECTED 170.211.106.126:51852, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:27] DISCONNECTED 148.77.10.82:60260, code: 1000, reason: "Connection timeout", name: "omg 2"
+[NONE ][15:49:28] DISCONNECTED 166.91.253.61:45948, code: 1001, reason: "", name: "biggestbird"
+[NONE ][15:49:29] DISCONNECTED 165.161.25.210:48820, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:29] DISCONNECTED 98.161.224.186:46240, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:29] CONNECTED 148.77.10.82:41474, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:49:31] DISCONNECTED 12.15.231.156:55630, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:31] CONNECTED 165.161.29.210:58048, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:49:32] CONNECTED 98.161.224.186:51856, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:49:32] DISCONNECTED 205.213.208.110:44648, code: 1001, reason: "", name: "Player"
+[NONE ][15:49:32] CONNECTED 186.96.24.58:34100, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:33] CONNECTED 12.15.231.156:49930, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:33] DISCONNECTED 76.3.249.162:44654, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:36] CONNECTED 76.3.249.162:38256, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:37] DISCONNECTED 98.164.58.246:40018, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:37] DISCONNECTED 96.5.249.131:54664, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:38] DISCONNECTED 65.190.82.228:44660, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:38] DISCONNECTED 212.67.100.53:34676, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:39] CONNECTED 98.164.58.246:47898, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:39] CONNECTED 96.5.249.131:60798, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:40] CONNECTED 212.67.100.53:52654, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:41] CONNECTED 65.190.82.228:51566, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:42] DISCONNECTED 195.194.136.12:45308, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:42] DISCONNECTED 168.213.254.20:54778, code: 1001, reason: "", name: "Breeze0505"
+[NONE ][15:49:42] DISCONNECTED 65.182.125.31:55554, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:44] CONNECTED 168.9.35.207:37228, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:44] CONNECTED 195.194.136.12:39584, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:44] CONNECTED 65.182.125.31:35210, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:45] DISCONNECTED 45.236.70.9:49676, code: null, reason: "null", name: "Player"
+[NONE ][15:49:45] DISCONNECTED 77.98.41.195:35208, code: null, reason: "null", name: ""
+[NONE ][15:49:45] DISCONNECTED 77.98.41.195:35208, code: null, reason: "null", name: ""
+[NONE ][15:49:45] DISCONNECTED 45.236.70.9:49676, code: null, reason: "null", name: "Player"
+[NONE ][15:49:47] DISCONNECTED 186.96.24.58:34100, code: 1001, reason: "", name: ""
+[NONE ][15:49:47] DISCONNECTED 76.3.249.162:33580, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:47] DISCONNECTED 170.185.147.218:33594, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:49] CONNECTED 76.3.249.162:34978, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:50] CONNECTED 170.185.147.218:52862, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:50] DISCONNECTED 170.185.147.218:52862, code: null, reason: "null", name: ""
+[NONE ][15:49:51] DISCONNECTED 216.176.15.246:54508, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:49:55] CONNECTED 216.176.15.246:1433, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:49:56] CONNECTED 205.213.6.67:52314, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:50:01] DISCONNECTED 76.3.249.162:33986, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:03] CONNECTED 76.3.249.162:54920, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:04] DISCONNECTED 34.132.169.71:43338, code: null, reason: "null", name: "Brisingaro"
+[NONE ][15:50:04] DISCONNECTED 168.9.212.123:55298, code: 1001, reason: "", name: "Player"
+[NONE ][15:50:05] CONNECTED 77.98.41.195:43930, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:50:06] DISCONNECTED 207.157.127.91:58056, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:07] DISCONNECTED 131.109.81.42:33348, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:08] DISCONNECTED 195.194.136.12:35626, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:08] DISCONNECTED 148.77.10.82:41474, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:08] CONNECTED 207.157.127.91:58296, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:50:09] CONNECTED 131.109.81.42:55952, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:50:10] CONNECTED 195.194.136.12:43150, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:10] CONNECTED 148.77.10.82:37358, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:50:11] DISCONNECTED 76.3.249.162:33360, code: 1000, reason: "Connection timeout", name: ""
+[ERROR][15:50:12] [172.31.128.1:48146] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:50:12] DISCONNECTED 96.4.180.17:48146, code: 1006, reason: "", name: "Amogus"
+[ERROR][15:50:12] [172.31.128.1:53076] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:50:12] DISCONNECTED 192.107.137.18:53076, code: 1006, reason: "", name: "why"
+[NONE ][15:50:13] CONNECTED 76.3.249.162:34656, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:14] DISCONNECTED 98.179.132.2:43432, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:16] CONNECTED 98.179.132.2:54766, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:19] DISCONNECTED 148.77.10.82:38918, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:21] CONNECTED 148.77.10.82:46996, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:50:25] DISCONNECTED 170.211.106.126:51852, code: 1001, reason: "", name: "Player"
+[NONE ][15:50:26] DISCONNECTED 45.236.70.9:36922, code: 1001, reason: "", name: ""
+[NONE ][15:50:27] CONNECTED 66.203.38.25:33104, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:27] DISCONNECTED 165.161.29.210:58048, code: 1000, reason: "Connection timeout", name: ""
+[ERROR][15:50:28] [172.31.128.1:37228] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:50:28] DISCONNECTED 168.9.35.207:37228, code: 1006, reason: "", name: ""
+[NONE ][15:50:29] DISCONNECTED 98.161.224.186:51856, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:29] CONNECTED 165.161.29.210:48588, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:50:31] CONNECTED 216.180.209.66:46552, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:31] DISCONNECTED 12.15.231.156:49930, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:33] CONNECTED 98.161.224.186:56164, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:50:33] DISCONNECTED 50.201.145.131:58462, code: 1001, reason: "", name: "mak"
+[NONE ][15:50:33] CONNECTED 12.15.231.156:33252, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:33] DISCONNECTED 76.3.249.162:38256, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:34] DISCONNECTED 76.3.249.162:57896, code: null, reason: "null", name: "fuck all niggers"
+[NONE ][15:50:35] CONNECTED 76.3.249.162:54636, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:36] CONNECTED 76.3.249.162:42966, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:37] DISCONNECTED 98.164.58.246:47898, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:37] DISCONNECTED 96.5.249.131:60798, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:38] DISCONNECTED 65.190.82.228:51566, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:38] DISCONNECTED 212.67.100.53:52654, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:39] CONNECTED 98.164.58.246:59332, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:39] DISCONNECTED 216.125.37.50:33850, code: 1001, reason: "", name: "kill your self"
+[NONE ][15:50:39] CONNECTED 96.5.249.131:47927, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:40] CONNECTED 216.125.37.50:49736, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:50:40] CONNECTED 212.67.100.53:34350, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:41] CONNECTED 65.190.82.228:54644, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:42] DISCONNECTED 195.194.136.12:39584, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:42] DISCONNECTED 65.182.125.31:35210, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:43] CONNECTED 4.7.4.98:59560, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:44] CONNECTED 195.194.136.12:56454, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:44] CONNECTED 65.182.125.31:43942, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:45] CONNECTED 69.67.89.2:49842, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:46] DISCONNECTED 98.164.58.252:43266, code: null, reason: "null", name: ""
+[NONE ][15:50:47] DISCONNECTED 76.3.249.162:34978, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:49] CONNECTED 76.3.249.162:37726, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:50:50] DISCONNECTED 216.176.15.246:1433, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:50:51] DISCONNECTED 4.7.4.98:59560, code: 1001, reason: "", name: ""
+[NONE ][15:50:52] DISCONNECTED 77.98.41.195:43930, code: null, reason: "null", name: ""
+[NONE ][15:50:52] DISCONNECTED 77.98.41.195:43930, code: null, reason: "null", name: ""
+[NONE ][15:50:53] CONNECTED 216.176.15.246:44000, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:01] DISCONNECTED 98.164.58.245:53120, code: 1001, reason: "", name: "honket donkey balls69420"
+[NONE ][15:51:01] DISCONNECTED 76.3.249.162:54920, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:03] CONNECTED 76.3.249.162:58700, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:05] CONNECTED 38.45.96.67:49236, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:06] DISCONNECTED 148.77.10.82:37358, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:06] DISCONNECTED 207.157.127.91:58296, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:07] DISCONNECTED 131.109.81.42:55952, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:08] DISCONNECTED 195.194.136.12:43150, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:08] CONNECTED 148.77.10.82:54214, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:51:08] CONNECTED 207.157.127.91:54498, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:51:09] CONNECTED 131.109.81.42:59842, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:51:10] CONNECTED 195.194.136.12:59854, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:10] CONNECTED 207.251.101.3:40730, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:11] DISCONNECTED 76.3.249.162:34656, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:13] CONNECTED 76.3.249.162:60676, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:14] DISCONNECTED 98.179.132.2:54766, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:15] DISCONNECTED 38.45.96.67:49236, code: null, reason: "null", name: ""
+[NONE ][15:51:16] CONNECTED 98.179.132.2:34038, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:19] DISCONNECTED 148.77.10.82:46996, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:21] DISCONNECTED 168.9.19.224:44782, code: 1001, reason: "", name: "Player"
+[NONE ][15:51:21] CONNECTED 148.77.10.82:45470, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:51:23] CONNECTED 76.3.249.162:51926, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:51:24] CONNECTED 76.3.249.162:42730, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:27] DISCONNECTED 165.161.29.210:48588, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:29] DISCONNECTED 98.161.224.186:56164, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:29] CONNECTED 165.161.25.210:34984, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:51:31] DISCONNECTED 12.15.231.156:33252, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:31] DISCONNECTED 217.181.22.39:49026, code: null, reason: "null", name: "shushy"
+[NONE ][15:51:31] DISCONNECTED 217.181.22.39:49026, code: null, reason: "null", name: "shushy"
+[NONE ][15:51:32] CONNECTED 98.161.224.186:41418, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:51:33] DISCONNECTED 76.3.249.162:54636, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:33] CONNECTED 12.15.231.156:33834, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:34] CONNECTED 217.181.22.39:36560, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:35] CONNECTED 76.3.249.162:40396, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:37] DISCONNECTED 98.164.58.246:59332, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:37] DISCONNECTED 96.5.249.131:47927, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:38] DISCONNECTED 65.190.82.228:54644, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:38] CONNECTED 165.155.129.128:47130, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:51:38] DISCONNECTED 212.67.100.53:34350, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:39] CONNECTED 96.5.249.131:46644, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:40] CONNECTED 98.164.58.246:58862, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:40] CONNECTED 65.190.82.228:54096, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:40] DISCONNECTED 76.3.249.162:42966, code: 1006, reason: "null", name: ""
+[NONE ][15:51:40] CONNECTED 212.67.100.53:57156, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:42] DISCONNECTED 195.194.136.12:56454, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:42] DISCONNECTED 65.182.125.31:43942, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:44] CONNECTED 195.194.136.12:41152, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:44] CONNECTED 65.182.125.31:36184, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:45] CONNECTED 162.155.165.40:48466, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:48] CONNECTED 165.155.131.65:49370, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:51:50] DISCONNECTED 216.176.15.246:44000, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:51] CONNECTED 75.151.11.193:51634, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:52] CONNECTED 216.176.15.246:33270, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:55] CONNECTED 207.235.134.11:34224, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:56] CONNECTED 205.202.34.41:39248, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:51:56] DISCONNECTED 205.213.6.67:53164, code: 1001, reason: "", name: "Pro"
+[NONE ][15:51:57] CONNECTED 64.98.67.185:49150, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:52:00] CONNECTED 38.45.96.67:49158, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:01] DISCONNECTED 76.3.249.162:58700, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:02] DISCONNECTED 207.235.134.11:34224, code: 1000, reason: "", name: ""
+[NONE ][15:52:03] CONNECTED 163.116.130.27:38474, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:03] CONNECTED 76.77.117.2:46670, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:03] CONNECTED 76.3.249.162:37194, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:04] CONNECTED 207.235.134.11:55348, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:06] DISCONNECTED 207.157.127.91:54498, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:06] DISCONNECTED 148.77.10.82:54214, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:08] DISCONNECTED 195.194.136.12:59854, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:08] CONNECTED 207.157.127.91:37016, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:52:08] CONNECTED 148.77.10.82:46524, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:52:09] DISCONNECTED 131.109.81.42:59842, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:10] CONNECTED 195.194.136.12:44184, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:11] DISCONNECTED 76.3.249.162:60676, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:11] CONNECTED 131.109.81.42:37206, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:52:13] CONNECTED 76.3.249.162:33636, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:14] DISCONNECTED 98.179.132.2:34038, code: 1000, reason: "Connection timeout", name: ""
+[ERROR][15:52:15] [172.31.128.1:51634] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:52:15] DISCONNECTED 75.151.11.193:51634, code: 1006, reason: "", name: "Woj's Oily bum"
+[NONE ][15:52:16] CONNECTED 98.179.132.2:44300, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[ERROR][15:52:17] [172.31.128.1:33104] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:52:17] DISCONNECTED 66.203.38.25:33104, code: 1006, reason: "", name: "Player"
+[NONE ][15:52:17] CONNECTED 12.118.24.86:35120, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:19] DISCONNECTED 64.58.253.220:51344, code: null, reason: "null", name: "TEsttsts"
+[NONE ][15:52:19] DISCONNECTED 205.213.6.67:52314, code: null, reason: "null", name: "burger"
+[NONE ][15:52:19] DISCONNECTED 148.77.10.82:45470, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:21] CONNECTED 148.77.10.82:48342, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:52:22] DISCONNECTED 38.45.96.67:49158, code: 1000, reason: "", name: ""
+[NONE ][15:52:28] DISCONNECTED 165.161.25.210:34984, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:29] DISCONNECTED 98.161.224.186:41418, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:30] CONNECTED 165.161.29.210:41782, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:52:31] DISCONNECTED 12.15.231.156:33834, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:32] DISCONNECTED 217.181.22.39:36560, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:32] CONNECTED 98.161.224.186:50392, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:52:32] CONNECTED 204.100.125.2:43184, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:33] CONNECTED 12.15.231.156:49784, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:33] DISCONNECTED 76.3.249.162:40396, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:34] CONNECTED 217.181.22.39:59830, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:35] CONNECTED 76.3.249.162:34374, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:37] DISCONNECTED 98.164.58.246:58862, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:37] DISCONNECTED 96.5.249.131:46644, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:38] DISCONNECTED 65.190.82.228:54096, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:38] DISCONNECTED 165.139.71.211:48170, code: 1000, reason: "Connection timeout", name: "Slavery"
+[NONE ][15:52:38] DISCONNECTED 212.67.100.53:57156, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:39] CONNECTED 98.164.58.246:38948, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:39] CONNECTED 96.5.249.131:42234, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:40] CONNECTED 165.139.71.211:41236, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:40] CONNECTED 212.67.100.53:48282, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:41] CONNECTED 65.190.82.228:50164, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:42] DISCONNECTED 195.194.136.12:41152, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:42] DISCONNECTED 65.182.125.31:36184, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:44] CONNECTED 195.194.136.12:39026, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:44] CONNECTED 65.182.125.31:52000, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:45] DISCONNECTED 76.3.249.162:42730, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:47] DISCONNECTED 69.67.89.2:49842, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:47] CONNECTED 76.3.249.162:58928, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:48] CONNECTED 65.182.127.18:38088, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:49] DISCONNECTED 76.77.117.2:46670, code: 1001, reason: "", name: "Playerjjjj"
+[NONE ][15:52:49] CONNECTED 69.67.89.2:33488, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:52:50] DISCONNECTED 216.176.15.246:33270, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:52:53] CONNECTED 216.176.15.246:38022, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[ERROR][15:52:53] [172.31.128.1:49370] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:52:53] DISCONNECTED 165.155.131.65:49370, code: 1006, reason: "", name: "JACk"
+[NONE ][15:52:54] CONNECTED 38.146.204.154:33580, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[ERROR][15:52:58] [172.31.128.1:59830] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:52:58] DISCONNECTED 217.181.22.39:59830, code: 1006, reason: "", name: ""
+[NONE ][15:53:01] CONNECTED 47.19.185.30:53866, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:01] DISCONNECTED 204.100.125.2:43184, code: 1006, reason: "null", name: "Player"
+[NONE ][15:53:01] DISCONNECTED 104.225.186.62:36020, code: null, reason: "null", name: "oink"
+[NONE ][15:53:01] DISCONNECTED 76.3.249.162:37194, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:02] CONNECTED 217.180.33.1:45734, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:03] CONNECTED 76.3.249.162:52676, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:04] DISCONNECTED 69.63.166.182:41352, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:05] DISCONNECTED 65.182.127.18:38088, code: 1001, reason: "", name: "Player"
+[NONE ][15:53:06] DISCONNECTED 207.157.127.91:37016, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:06] DISCONNECTED 148.77.10.82:46524, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:06] CONNECTED 69.63.166.182:42204, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:07] DISCONNECTED 131.109.81.42:37206, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:08] DISCONNECTED 195.194.136.12:44184, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:08] CONNECTED 207.157.127.91:45156, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:53:08] CONNECTED 148.77.10.82:52894, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:53:09] CONNECTED 131.109.81.42:57878, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:53:10] CONNECTED 195.194.136.12:34636, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:11] DISCONNECTED 76.3.249.162:33636, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:12] DISCONNECTED 50.201.145.131:35416, code: null, reason: "null", name: "Player"
+[NONE ][15:53:13] CONNECTED 76.3.249.162:36730, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:14] DISCONNECTED 98.179.132.2:44300, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:16] CONNECTED 50.201.145.131:48356, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:53:16] CONNECTED 47.19.185.30:56828, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:16] CONNECTED 98.179.132.2:48940, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:19] DISCONNECTED 148.77.10.82:48342, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:21] CONNECTED 148.77.10.82:50752, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:53:24] CONNECTED 98.164.58.252:48370, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:53:28] DISCONNECTED 165.161.29.210:41782, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:29] DISCONNECTED 98.161.224.186:50392, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:29] DISCONNECTED 69.67.89.2:33488, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:30] CONNECTED 165.161.29.210:33104, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:53:31] CONNECTED 98.161.224.186:48064, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:53:31] DISCONNECTED 12.15.231.156:49784, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:31] CONNECTED 69.67.89.2:47968, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[ERROR][15:53:32] [172.31.128.1:45734] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:53:32] DISCONNECTED 217.180.33.1:45734, code: 1006, reason: "", name: ""
+[NONE ][15:53:33] CONNECTED 216.163.221.211:22521, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:33] CONNECTED 12.15.231.156:36332, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:33] DISCONNECTED 76.3.249.162:34374, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:35] CONNECTED 76.3.249.162:46180, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:35] DISCONNECTED 64.98.67.185:49150, code: 1006, reason: "", name: "Player"
+[NONE ][15:53:35] DISCONNECTED 163.116.130.27:38474, code: 1001, reason: "", name: "Player"
+[NONE ][15:53:37] DISCONNECTED 98.164.58.246:38948, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:37] DISCONNECTED 96.5.249.131:42234, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:38] DISCONNECTED 65.190.82.228:50164, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:39] DISCONNECTED 212.67.100.53:48282, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:39] CONNECTED 96.5.249.131:44182, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:39] CONNECTED 98.164.58.246:46196, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:40] CONNECTED 65.190.82.228:43336, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:40] DISCONNECTED 216.176.15.246:38022, code: 1001, reason: "", name: ""
+[NONE ][15:53:42] CONNECTED 212.67.100.53:37558, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:42] DISCONNECTED 195.194.136.12:39026, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:44] CONNECTED 195.194.136.12:38918, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:53:45] DISCONNECTED 76.3.249.162:58928, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:53:47] CONNECTED 76.3.249.162:60666, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[ERROR][15:53:55] [172.31.128.1:36022] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:53:55] DISCONNECTED 170.177.216.170:36022, code: 1006, reason: "", name: "Doom"
+[ERROR][15:53:56] [172.31.128.1:22521] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:53:56] DISCONNECTED 216.163.221.211:22521, code: 1006, reason: "", name: "Player"
+[NONE ][15:53:57] CONNECTED 96.4.48.237:56346, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:01] DISCONNECTED 76.3.249.162:52676, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:03] CONNECTED 76.3.249.162:43724, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:04] DISCONNECTED 69.63.166.182:42204, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:06] DISCONNECTED 207.157.127.91:45156, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:06] DISCONNECTED 148.77.10.82:52894, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:07] DISCONNECTED 131.109.81.42:57878, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:07] CONNECTED 69.63.166.182:34422, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:08] DISCONNECTED 195.194.136.12:34636, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:08] CONNECTED 207.157.127.91:52052, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:54:08] CONNECTED 148.77.10.82:39830, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:54:09] DISCONNECTED 148.77.10.82:46732, code: 1000, reason: "Connection timeout", name: "Player"
+[NONE ][15:54:09] CONNECTED 131.109.81.42:44446, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:54:10] DISCONNECTED 96.4.48.237:56346, code: 1001, reason: "", name: "Player"
+[NONE ][15:54:11] DISCONNECTED 76.3.249.162:36730, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:12] CONNECTED 148.77.10.82:38780, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:54:13] CONNECTED 76.3.249.162:33026, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:14] DISCONNECTED 207.235.134.11:35590, code: 1001, reason: "", name: "DIEuBOZO"
+[NONE ][15:54:14] CONNECTED 96.4.48.237:33030, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:14] DISCONNECTED 98.179.132.2:48940, code: 1000, reason: "Connection timeout", name: ""
+[ERROR][15:54:15] [172.31.128.1:33580] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:54:15] DISCONNECTED 38.146.204.154:33580, code: 1006, reason: "", name: "Player"
+[NONE ][15:54:16] CONNECTED 98.179.132.2:35234, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:18] DISCONNECTED 50.201.145.131:48356, code: 1006, reason: "null", name: ""
+[NONE ][15:54:18] DISCONNECTED 206.57.216.125:56318, code: null, reason: "null", name: "1MP0$TER"
+[NONE ][15:54:18] DISCONNECTED 206.57.216.125:56318, code: null, reason: "null", name: "1MP0$TER"
+[NONE ][15:54:18] CONNECTED 195.194.136.12:47670, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:19] DISCONNECTED 148.77.10.82:50752, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:20] CONNECTED 50.206.58.164:39158, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:54:20] CONNECTED 207.235.134.11:32826, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:20] CONNECTED 206.57.216.125:56568, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:54:21] CONNECTED 148.77.10.82:42906, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:54:23] CONNECTED 206.57.216.125:56574, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:54:24] CONNECTED 216.56.22.185:54176, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:26] CONNECTED 47.19.185.30:39260, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:27] DISCONNECTED 165.161.29.210:33104, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:29] DISCONNECTED 69.67.89.2:47968, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:29] DISCONNECTED 98.161.224.186:48064, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:31] DISCONNECTED 12.15.231.156:36332, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:32] CONNECTED 69.67.89.2:41772, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:32] CONNECTED 98.161.224.186:57606, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:54:32] CONNECTED 165.161.29.210:54188, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:54:32] DISCONNECTED 12.118.24.86:35120, code: 1006, reason: "null", name: "woj"
+[NONE ][15:54:33] CONNECTED 12.15.231.156:51942, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:33] DISCONNECTED 76.3.249.162:46180, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:35] CONNECTED 76.3.249.162:45820, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:37] DISCONNECTED 98.164.58.246:46196, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:37] DISCONNECTED 96.5.249.131:44182, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:38] DISCONNECTED 206.57.216.125:56568, code: null, reason: "null", name: ""
+[NONE ][15:54:38] DISCONNECTED 206.57.216.125:56574, code: null, reason: "null", name: ""
+[NONE ][15:54:38] DISCONNECTED 65.190.82.228:43336, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:38] DISCONNECTED 212.67.100.53:37558, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:39] CONNECTED 98.164.58.246:45836, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:39] CONNECTED 96.5.249.131:45356, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:40] CONNECTED 65.190.82.228:40886, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:41] CONNECTED 212.67.100.53:45358, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:42] DISCONNECTED 195.194.136.12:38918, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:44] CONNECTED 195.194.136.12:50870, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:45] DISCONNECTED 76.3.249.162:60666, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:54:47] CONNECTED 76.3.249.162:45688, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:54:48] DISCONNECTED 171.33.192.148:38576, code: 1001, reason: "", name: "Player"
+[NONE ][15:55:01] DISCONNECTED 76.3.249.162:43724, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:03] DISCONNECTED 162.155.165.40:48466, code: 1001, reason: "", name: "Player"
+[NONE ][15:55:03] CONNECTED 76.3.249.162:41832, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:04] DISCONNECTED 69.63.166.182:34422, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:06] DISCONNECTED 148.77.10.82:39830, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:07] CONNECTED 69.63.166.182:43216, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:07] DISCONNECTED 131.109.81.42:44446, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:08] DISCONNECTED 195.194.136.12:47670, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:09] CONNECTED 148.77.10.82:45704, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][15:55:09] CONNECTED 131.109.81.42:37310, origin: "https://biobit.bigfatgrub.repl.co"
+[ERROR][15:55:09] [172.31.128.1:45306] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][15:55:09] DISCONNECTED 76.3.249.162:45306, code: 1006, reason: "", name: "Chimken Nungit"
+[NONE ][15:55:09] DISCONNECTED 148.77.10.82:38780, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:10] CONNECTED 195.194.136.12:43714, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:11] DISCONNECTED 76.3.249.162:33026, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:11] CONNECTED 148.77.10.82:41404, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:55:13] DISCONNECTED 76.3.249.162:53846, code: 1001, reason: "", name: "grants a jew"
+[NONE ][15:55:13] CONNECTED 76.3.249.162:51598, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:15] DISCONNECTED 76.3.249.162:45820, code: 1001, reason: "", name: ""
+[NONE ][15:55:17] CONNECTED 96.4.180.17:34412, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:55:19] DISCONNECTED 148.77.10.82:42906, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:19] DISCONNECTED 98.179.132.2:35234, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:21] DISCONNECTED 86.54.114.20:55244, code: 1000, reason: "Connection timeout", name: "Player"
+[NONE ][15:55:21] CONNECTED 148.77.10.82:55850, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:55:21] CONNECTED 98.179.132.2:43824, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:23] CONNECTED 86.54.114.20:46142, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:25] CONNECTED 98.164.58.239:40154, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:27] DISCONNECTED 205.118.120.162:46956, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:28] DISCONNECTED 165.161.29.210:54188, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:29] DISCONNECTED 207.157.127.91:52052, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:29] DISCONNECTED 69.67.89.2:41772, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:29] DISCONNECTED 98.161.224.186:57606, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:30] CONNECTED 98.164.58.239:47810, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:55:30] CONNECTED 165.161.25.210:51790, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:55:30] CONNECTED 205.118.120.162:50760, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:31] DISCONNECTED 12.15.231.156:51942, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:31] CONNECTED 69.67.89.2:42752, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:31] CONNECTED 207.157.127.91:51922, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:55:32] CONNECTED 98.161.224.186:51928, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:55:34] CONNECTED 12.15.231.156:49842, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:34] DISCONNECTED 47.19.185.30:39260, code: 1001, reason: "", name: "Yashou"
+[NONE ][15:55:37] DISCONNECTED 98.164.58.246:45836, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:37] DISCONNECTED 96.5.249.131:45356, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:38] DISCONNECTED 65.190.82.228:40886, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:38] DISCONNECTED 212.67.100.53:45358, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:39] CONNECTED 98.164.58.246:36026, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:39] CONNECTED 96.5.249.131:53346, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:40] CONNECTED 65.190.82.228:44532, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:42] DISCONNECTED 195.194.136.12:50870, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:44] DISCONNECTED 216.56.22.185:54176, code: 1001, reason: "", name: "Player"
+[NONE ][15:55:44] CONNECTED 195.194.136.12:39816, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:45] DISCONNECTED 76.3.249.162:45688, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:55:47] CONNECTED 76.3.249.162:50600, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:48] CONNECTED 216.176.15.246:51556, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:49] CONNECTED 192.33.136.15:45186, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:55:49] DISCONNECTED 98.164.58.239:47810, code: 1000, reason: "", name: ""
+[NONE ][15:55:51] CONNECTED 98.164.58.239:56152, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:55:53] CONNECTED 170.158.66.14:44780, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:55:53] DISCONNECTED 165.155.129.128:47130, code: null, reason: "null", name: "Player"
+[NONE ][15:55:54] DISCONNECTED 192.33.136.15:45186, code: null, reason: "null", name: ""
+[NONE ][15:55:55] CONNECTED 165.155.129.128:35916, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:55:56] DISCONNECTED 98.164.58.239:56152, code: 1000, reason: "", name: ""
+[FATAL][15:55:59] RangeError: Maximum call stack size exceeded
+    at Receiver.readBuffer (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:71:14)
+    at Receiver.start (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:158:22)
+    at Receiver.dataMessage (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:373:10)
+    at Receiver.getData (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:319:12)
+    at Receiver.getMask (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:295:10)
+    at Receiver.haveLength (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:278:12)
+    at Receiver.start (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:226:12)
+    at Receiver.dataMessage (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:373:10)
+    at Receiver.getData (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:319:12)
+    at Receiver.getMask (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:295:10)
+[DEBUG][15:55:59] process.exit(1)
+=== Shutdown 2023-02-07T15-55-59-286 ===

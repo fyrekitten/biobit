@@ -1,0 +1,813 @@
+=== Started 2023-05-02T03-35-35-057 ===
+[ERROR][03:35:35] Unknown gameserver.ini value: serverWelcome3
+[INFO ][03:35:35] 2 bad words loaded
+[INFO ][03:35:35] 4 user records loaded.
+[INFO ][03:35:35] 0 IP ban records loaded.
+[INFO ][03:35:35] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][03:35:35] WebSocket: ws
+[INFO ][03:35:35] Started stats server on port 1234
+[INFO ][03:35:35] Listening on port 3000
+[INFO ][03:35:35] Current game mode is vFree For All
+[INFO ][03:35:35] Added 4 player bots
+[NONE ][03:35:35]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][03:35:52] CONNECTED 217.165.57.157:58472, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:36:27] DISCONNECTED 217.165.57.157:58472, code: 1001, reason: "", name: ""
+[NONE ][03:36:33] CONNECTED 217.165.57.157:42682, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:36:55] CONNECTED 217.165.57.157:55010, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:38:28] CONNECTED 2.50.131.2:42372, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:43:38] CONNECTED 217.165.57.157:55622, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:47:23] CONNECTED 217.165.57.157:52446, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:47:40] CONNECTED 217.165.57.157:36782, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:50:52] DISCONNECTED 217.165.57.157:42682, code: 1000, reason: "Connection timeout", name: "بابابابابابابابامبارك"
+[NONE ][03:50:54] CONNECTED 217.165.57.157:53140, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:51:42] DISCONNECTED 217.165.57.157:53140, code: 1001, reason: "", name: ""
+[NONE ][03:51:46] CONNECTED 217.165.57.157:58812, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:55:40] DISCONNECTED 217.165.57.157:58812, code: 1001, reason: "", name: "بابابابابابابابامبارك"
+[NONE ][03:55:44] CONNECTED 217.165.57.157:37006, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][03:55:49] [172.31.128.1:52446] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][03:55:49] DISCONNECTED 217.165.57.157:52446, code: 1006, reason: "", name: "Bo salem"
+[NONE ][03:58:27] CONNECTED 217.165.57.157:59708, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:58:35] DISCONNECTED 217.165.57.157:59708, code: 1001, reason: "", name: "Bo salem"
+[NONE ][03:58:38] CONNECTED 217.165.57.157:38706, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:00:20] CONNECTED 2.50.131.2:51544, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:00:23] CONNECTED 217.165.57.157:53116, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:00:35] DISCONNECTED 2.50.131.2:51544, code: 1000, reason: "", name: ""
+[NONE ][04:00:55] DISCONNECTED 217.165.57.157:53116, code: 1001, reason: "", name: "باباسنفور"
+[NONE ][04:01:03] CONNECTED 217.165.57.157:50422, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:01:09] CONNECTED 2.50.131.2:58892, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:01:11] DISCONNECTED 2.50.131.2:58892, code: 1000, reason: "", name: ""
+[ERROR][04:01:12] [172.31.128.1:55010] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][04:01:12] DISCONNECTED 217.165.57.157:55010, code: 1006, reason: "", name: "بابا حمنيي"
+[NONE ][04:01:46] CONNECTED 217.165.57.157:40046, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:02:01] CONNECTED 2.50.131.2:41482, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:04:04] DISCONNECTED 217.165.57.157:40046, code: 1001, reason: "", name: "بابا حمنيي"
+[NONE ][04:04:06] CONNECTED 217.165.57.157:43232, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:04:23] CONNECTED 217.165.57.157:42666, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:05:02] DISCONNECTED 217.165.57.157:42666, code: 1001, reason: "", name: "Player"
+[NONE ][04:05:21] CONNECTED 217.165.57.157:46480, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:06:53] CONNECTED 2.50.131.2:34862, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:07:08] DISCONNECTED 217.165.57.157:46480, code: 1001, reason: "", name: "ماما بروكي"
+[NONE ][04:07:12] CONNECTED 217.165.57.157:51974, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:08:08] DISCONNECTED 2.50.131.2:34862, code: 1001, reason: "", name: "زحوفي مسلم"
+[NONE ][04:08:13] CONNECTED 2.50.131.2:60746, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:08:28] DISCONNECTED 2.50.131.2:60746, code: 1001, reason: "", name: "زحوفي مسلم"
+[NONE ][04:08:39] CONNECTED 2.50.131.2:53186, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:08:50] CONNECTED 217.165.57.157:47960, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:09:36] DISCONNECTED 217.165.57.157:55622, code: 1001, reason: "", name: "Player"
+[NONE ][04:10:21] DISCONNECTED 217.165.57.157:43232, code: 1001, reason: "", name: "بابا حمنيي"
+[NONE ][04:10:34] CONNECTED 217.165.57.157:49224, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:12:09] DISCONNECTED 217.165.57.157:47960, code: 1001, reason: "", name: "Playerاحمد"
+[NONE ][04:13:43] DISCONNECTED 2.50.131.2:53186, code: 1001, reason: "", name: "زحوفي مسلم"
+[NONE ][04:13:55] CONNECTED 2.50.131.2:59324, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:14:12] CONNECTED 217.165.57.157:60794, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:14:46] DISCONNECTED 2.50.131.2:59324, code: 1001, reason: "", name: "سيف خليفه بكوراه"
+[NONE ][04:15:59] CONNECTED 217.165.57.157:33844, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:16:57] DISCONNECTED 217.165.57.157:37006, code: 1001, reason: "", name: "بابابابابابابابامبارك"
+[NONE ][04:17:02] CONNECTED 217.165.57.157:45582, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:17:03] CONNECTED 217.165.57.157:52456, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:17:35] DISCONNECTED 217.165.57.157:52456, code: 1001, reason: "", name: "Player"
+[NONE ][04:17:38] CONNECTED 217.165.57.157:58436, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:17:47] DISCONNECTED 217.165.57.157:58436, code: 1001, reason: "", name: "Player"
+[NONE ][04:17:50] CONNECTED 217.165.57.157:43096, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:18:41] CONNECTED 217.165.57.157:40726, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:19:14] CONNECTED 217.165.57.157:53330, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:19:15] CONNECTED 2.50.131.2:38008, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:19:18] CONNECTED 2.50.131.2:45580, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][04:20:19] CONNECTED 5.195.4.246:60750, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][04:20:46] [172.31.128.1:43096] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][04:20:46] DISCONNECTED 217.165.57.157:43096, code: 1006, reason: "", name: "Player"
+[NONE ][04:20:47] CONNECTED 2.50.131.2:51326, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:20:51] CONNECTED 217.165.57.157:49084, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:21:05] DISCONNECTED 2.50.131.2:38008, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:21:08] CONNECTED 2.50.131.2:60168, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:21:26] CONNECTED 2.50.131.2:56342, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:21:46] CONNECTED 217.165.57.157:59544, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:21:54] DISCONNECTED 2.50.131.2:56342, code: 1001, reason: "", name: "ms"
+[NONE ][04:22:00] DISCONNECTED 5.195.4.246:60750, code: 1006, reason: "null", name: "ms"
+[NONE ][04:22:05] DISCONNECTED 2.50.131.2:60168, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:22:07] CONNECTED 2.50.131.2:44098, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:22:20] CONNECTED 2.50.131.2:32888, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:23:05] DISCONNECTED 2.50.131.2:44098, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:23:08] CONNECTED 2.50.131.2:50662, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:23:17] CONNECTED 2.50.131.2:35330, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:23:23] DISCONNECTED 2.50.131.2:41482, code: 1001, reason: "", name: "الكتبي عمكك"
+[ERROR][04:23:38] [172.31.128.1:32888] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][04:23:38] DISCONNECTED 2.50.131.2:32888, code: 1006, reason: "", name: "عمك الشامسي"
+[NONE ][04:23:42] CONNECTED 2.50.131.2:57764, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:23:57] DISCONNECTED 2.50.131.2:57764, code: 1001, reason: "", name: "عمك الشامسي"
+[NONE ][04:24:01] CONNECTED 2.50.131.2:52730, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:24:05] DISCONNECTED 2.50.131.2:50662, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:24:07] CONNECTED 2.50.131.2:34248, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:24:10] DISCONNECTED 217.165.57.157:59544, code: 1001, reason: "", name: "Player"
+[NONE ][04:24:14] CONNECTED 217.165.57.157:57630, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:25:05] DISCONNECTED 2.50.131.2:34248, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:25:07] CONNECTED 2.50.131.2:47988, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:25:32] DISCONNECTED 217.165.57.157:33844, code: 1001, reason: "", name: "بابا حمنيي"
+[NONE ][04:25:34] CONNECTED 217.165.57.157:53854, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:25:40] DISCONNECTED 217.165.57.157:53854, code: 1001, reason: "", name: "بابا حمنيي"
+[NONE ][04:25:42] CONNECTED 217.165.57.157:41546, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:25:42] DISCONNECTED 217.165.57.157:53330, code: 1001, reason: "", name: "Playerاحمد"
+[NONE ][04:25:47] CONNECTED 217.165.57.157:42618, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:26:05] DISCONNECTED 2.50.131.2:47988, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:26:05] DISCONNECTED 217.165.57.157:42618, code: 1001, reason: "", name: "Playerاحمد"
+[NONE ][04:26:08] CONNECTED 2.50.131.2:48696, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:26:12] CONNECTED 217.165.57.157:53986, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:27:05] DISCONNECTED 2.50.131.2:48696, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:27:07] CONNECTED 2.50.131.2:40006, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][04:27:12] [172.31.128.1:49224] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][04:27:12] DISCONNECTED 217.165.57.157:49224, code: 1006, reason: "", name: "العلوي عمك"
+[NONE ][04:27:18] CONNECTED 217.165.57.157:42832, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][04:27:48] [172.31.128.1:53986] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][04:27:48] DISCONNECTED 217.165.57.157:53986, code: 1006, reason: "", name: "Playerاحمد"
+[NONE ][04:27:55] CONNECTED 217.165.57.157:50740, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:28:05] DISCONNECTED 2.50.131.2:40006, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:28:07] CONNECTED 2.50.131.2:48602, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][04:28:50] [172.31.128.1:60794] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][04:28:50] DISCONNECTED 217.165.57.157:60794, code: 1006, reason: "", name: "اخو بابا بروكي"
+[NONE ][04:28:56] CONNECTED 217.165.57.157:53566, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:29:05] DISCONNECTED 2.50.131.2:48602, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:29:07] CONNECTED 2.50.131.2:48678, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:30:05] DISCONNECTED 2.50.131.2:48678, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:30:07] CONNECTED 2.50.131.2:59410, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][04:31:02] [172.31.128.1:57630] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][04:31:02] DISCONNECTED 217.165.57.157:57630, code: 1006, reason: "", name: "Player"
+[NONE ][04:31:05] DISCONNECTED 2.50.131.2:59410, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:31:08] CONNECTED 2.50.131.2:54274, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:31:12] CONNECTED 217.165.57.157:54830, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:31:34] DISCONNECTED 217.165.57.157:49084, code: 1001, reason: "", name: "عيسى"
+[NONE ][04:31:37] CONNECTED 217.165.57.157:44330, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:32:05] DISCONNECTED 2.50.131.2:54274, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:32:08] CONNECTED 2.50.131.2:55842, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:33:05] DISCONNECTED 2.50.131.2:55842, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:33:07] CONNECTED 2.50.131.2:55466, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:33:10] DISCONNECTED 217.165.57.157:38706, code: 1001, reason: "", name: "Bo salem"
+[NONE ][04:33:16] CONNECTED 217.165.57.157:53956, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:34:05] DISCONNECTED 2.50.131.2:55466, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:34:08] CONNECTED 2.50.131.2:39870, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:34:27] CONNECTED 217.165.57.157:49626, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:35:04] DISCONNECTED 2.50.131.2:42372, code: 1001, reason: "", name: "بابا عمر"
+[NONE ][04:35:05] DISCONNECTED 2.50.131.2:39870, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:35:06] CONNECTED 2.50.131.2:36974, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:35:07] CONNECTED 2.50.131.2:56250, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][04:35:38] [172.31.128.1:44330] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][04:35:38] DISCONNECTED 217.165.57.157:44330, code: 1006, reason: "", name: "Player"
+[NONE ][04:35:48] CONNECTED 217.165.57.157:35614, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:35:56] DISCONNECTED 2.50.131.2:51326, code: 1001, reason: "", name: "الماوري"
+[NONE ][04:36:00] CONNECTED 2.50.131.2:36594, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:36:05] DISCONNECTED 2.50.131.2:56250, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:36:07] CONNECTED 2.50.131.2:38572, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:36:17] DISCONNECTED 217.165.57.157:50422, code: 1001, reason: "", name: "باباسنفور"
+[NONE ][04:36:33] CONNECTED 217.165.57.157:37620, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:37:05] DISCONNECTED 2.50.131.2:38572, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:37:08] CONNECTED 2.50.131.2:49194, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:37:20] DISCONNECTED 2.50.131.2:36974, code: 1001, reason: "", name: "بابابابابابابا عمر     "
+[NONE ][04:37:21] CONNECTED 2.50.131.2:56584, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:37:53] DISCONNECTED 2.50.131.2:56584, code: 1001, reason: "", name: " بابابابابابابابابا عمر"
+[NONE ][04:37:55] CONNECTED 2.50.131.2:53132, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:38:05] DISCONNECTED 2.50.131.2:49194, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:38:08] CONNECTED 2.50.131.2:35536, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][04:38:15] [172.31.128.1:37620] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][04:38:15] DISCONNECTED 217.165.57.157:37620, code: 1006, reason: "", name: "باباسنفور"
+[NONE ][04:38:17] DISCONNECTED 2.50.131.2:53132, code: 1001, reason: "", name: "بابابابابا عمر"
+[NONE ][04:38:23] CONNECTED 217.165.57.157:35716, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:38:25] CONNECTED 2.50.131.2:40092, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:38:48] DISCONNECTED 217.165.57.157:35716, code: 1001, reason: "", name: "باباسنفور"
+[NONE ][04:38:53] CONNECTED 217.165.57.157:34482, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:38:55] CONNECTED 217.165.57.157:58506, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:39:05] DISCONNECTED 2.50.131.2:35536, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:39:07] CONNECTED 2.50.131.2:39176, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:39:09] DISCONNECTED 217.165.57.157:34482, code: 1001, reason: "", name: "باباسنفور"
+[NONE ][04:39:24] CONNECTED 217.165.57.157:35158, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:39:26] DISCONNECTED 2.50.131.2:40092, code: 1001, reason: "", name: "tik: 19ksi"
+[NONE ][04:39:28] CONNECTED 2.50.131.2:58606, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:39:28] DISCONNECTED 2.50.131.2:58606, code: null, reason: "null", name: ""
+[NONE ][04:39:31] CONNECTED 2.50.131.2:44784, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:39:32] DISCONNECTED 217.165.57.157:35158, code: 1001, reason: "", name: ""
+[NONE ][04:39:41] CONNECTED 217.165.57.157:49550, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:40:05] DISCONNECTED 2.50.131.2:39176, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:40:07] CONNECTED 2.50.131.2:54012, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:40:13] DISCONNECTED 217.165.57.157:58506, code: 1001, reason: "", name: "كنتكي"
+[NONE ][04:40:20] CONNECTED 217.165.57.157:37956, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:40:22] DISCONNECTED 2.50.131.2:44784, code: 1001, reason: "", name: "عموووريييي"
+[NONE ][04:40:24] CONNECTED 2.50.131.2:58510, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:40:29] DISCONNECTED 2.50.131.2:58510, code: 1001, reason: "", name: "Player"
+[NONE ][04:40:30] CONNECTED 2.50.131.2:55800, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:40:38] DISCONNECTED 217.165.57.157:37956, code: 1001, reason: "", name: "كنتكي"
+[NONE ][04:41:05] DISCONNECTED 2.50.131.2:54012, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:41:08] CONNECTED 2.50.131.2:41676, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:41:14] DISCONNECTED 217.165.57.157:53956, code: 1001, reason: "", name: "Bo salem"
+[NONE ][04:41:19] CONNECTED 217.165.57.157:53808, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:41:25] DISCONNECTED 217.165.57.157:45582, code: 1001, reason: "", name: "بابابابابابابابامبارك"
+[NONE ][04:41:29] CONNECTED 217.165.57.157:51898, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:42:02] DISCONNECTED 2.50.131.2:55800, code: 1001, reason: "", name: "عمر"
+[NONE ][04:42:04] CONNECTED 2.50.131.2:41624, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:42:05] DISCONNECTED 2.50.131.2:41676, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:42:08] CONNECTED 2.50.131.2:43786, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:42:09] DISCONNECTED 217.165.57.157:49626, code: 1001, reason: "", name: "الخنبشي"
+[NONE ][04:42:11] CONNECTED 217.165.57.157:52170, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:42:27] DISCONNECTED 2.50.131.2:41624, code: 1001, reason: "", name: "عمر"
+[NONE ][04:42:29] CONNECTED 2.50.131.2:43450, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:42:38] DISCONNECTED 217.165.57.157:52170, code: 1001, reason: "", name: "Player"
+[NONE ][04:42:40] CONNECTED 217.165.57.157:34510, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:42:43] DISCONNECTED 2.50.131.2:43450, code: 1001, reason: "", name: "يمني"
+[NONE ][04:42:44] CONNECTED 2.50.131.2:45544, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:43:02] DISCONNECTED 217.165.57.157:34510, code: 1001, reason: "", name: "الخنبشي"
+[NONE ][04:43:03] DISCONNECTED 2.50.131.2:45544, code: 1006, reason: "", name: "بوحماد"
+[NONE ][04:43:05] DISCONNECTED 2.50.131.2:43786, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:43:05] CONNECTED 217.165.57.157:44850, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:43:06] CONNECTED 2.50.131.2:47932, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:43:07] CONNECTED 2.50.131.2:60868, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:43:47] DISCONNECTED 2.50.131.2:52730, code: 1001, reason: "", name: "An unnamed cell"
+[NONE ][04:43:52] CONNECTED 2.50.131.2:56100, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:44:04] DISCONNECTED 2.50.131.2:56100, code: 1001, reason: "", name: "An unnamed cell"
+[NONE ][04:44:05] DISCONNECTED 2.50.131.2:60868, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:44:07] CONNECTED 2.50.131.2:53024, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][04:45:00] [172.31.128.1:42832] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][04:45:00] DISCONNECTED 217.165.57.157:42832, code: 1006, reason: "", name: "العلوي عمك"
+[NONE ][04:45:05] DISCONNECTED 2.50.131.2:53024, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:45:08] CONNECTED 2.50.131.2:54600, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:45:11] CONNECTED 217.165.57.157:36124, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:45:47] DISCONNECTED 217.165.57.157:36124, code: 1001, reason: "", name: "العلوي عمك"
+[NONE ][04:45:53] CONNECTED 217.165.57.157:45644, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][04:45:58] [172.31.128.1:49550] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][04:45:58] DISCONNECTED 217.165.57.157:49550, code: 1006, reason: "", name: "باباسنفور"
+[NONE ][04:46:05] DISCONNECTED 2.50.131.2:54600, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:46:07] CONNECTED 2.50.131.2:53064, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:46:09] CONNECTED 217.165.57.157:53102, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:47:05] DISCONNECTED 2.50.131.2:53064, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:47:10] CONNECTED 2.50.131.2:50208, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:47:39] DISCONNECTED 2.50.131.2:47932, code: 1001, reason: "", name: "اليمني"
+[NONE ][04:47:41] CONNECTED 2.50.131.2:51158, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:47:57] DISCONNECTED 2.50.131.2:36594, code: 1001, reason: "", name: "الماوري "
+[NONE ][04:48:05] DISCONNECTED 2.50.131.2:50208, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:48:08] CONNECTED 2.50.131.2:46086, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][04:48:17] [172.31.128.1:51158] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][04:48:17] DISCONNECTED 2.50.131.2:51158, code: 1006, reason: "", name: "بابا عمر"
+[NONE ][04:48:18] CONNECTED 2.50.131.2:55628, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:48:32] DISCONNECTED 2.50.131.2:55628, code: 1001, reason: "", name: "بابا عممر"
+[NONE ][04:48:36] CONNECTED 2.50.131.2:34176, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:48:55] DISCONNECTED 2.50.131.2:34176, code: 1001, reason: "", name: "غناتيه"
+[NONE ][04:48:57] CONNECTED 2.50.131.2:35500, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:49:02] DISCONNECTED 2.50.131.2:35500, code: 1001, reason: "", name: ""
+[NONE ][04:49:05] DISCONNECTED 2.50.131.2:46086, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:49:08] CONNECTED 2.50.131.2:55372, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:49:08] CONNECTED 2.50.131.2:34044, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:50:05] DISCONNECTED 2.50.131.2:55372, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:50:07] CONNECTED 2.50.131.2:49358, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:50:10] DISCONNECTED 217.165.57.157:35614, code: 1001, reason: "", name: "عيسى"
+[NONE ][04:50:13] CONNECTED 217.165.57.157:41834, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:50:16] DISCONNECTED 217.165.57.157:53808, code: 1001, reason: "", name: "Bo salem"
+[NONE ][04:50:19] DISCONNECTED 217.165.57.157:40726, code: 1001, reason: "", name: "731"
+[NONE ][04:50:20] CONNECTED 217.165.57.157:59478, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:50:52] DISCONNECTED 217.165.57.157:53566, code: 1001, reason: "", name: "مستر الماث"
+[NONE ][04:50:57] CONNECTED 217.165.57.157:33520, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:51:05] DISCONNECTED 2.50.131.2:49358, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:51:07] CONNECTED 2.50.131.2:43364, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:52:05] DISCONNECTED 2.50.131.2:43364, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:52:08] CONNECTED 2.50.131.2:33880, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][04:52:43] [172.31.128.1:45644] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][04:52:43] DISCONNECTED 217.165.57.157:45644, code: 1006, reason: "", name: "العلوي عمك"
+[NONE ][04:53:05] DISCONNECTED 2.50.131.2:33880, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:53:05] CONNECTED 217.165.57.157:46922, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:53:07] CONNECTED 2.50.131.2:40158, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:53:40] DISCONNECTED 217.165.57.157:54830, code: 1001, reason: "", name: "Player"
+[NONE ][04:53:46] CONNECTED 217.165.57.157:46940, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:54:05] DISCONNECTED 2.50.131.2:40158, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:54:08] CONNECTED 2.50.131.2:47856, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:54:18] DISCONNECTED 217.165.57.157:33520, code: 1001, reason: "", name: "مستر الماث"
+[NONE ][04:55:05] DISCONNECTED 2.50.131.2:47856, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:55:07] CONNECTED 2.50.131.2:43866, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:55:58] DISCONNECTED 217.165.57.157:51974, code: 1000, reason: "", name: "الفريق الثلاثي"
+[NONE ][04:56:05] DISCONNECTED 2.50.131.2:43866, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:56:08] CONNECTED 2.50.131.2:55576, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:57:05] DISCONNECTED 2.50.131.2:55576, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:57:07] CONNECTED 2.50.131.2:47944, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:57:31] CONNECTED 217.165.57.157:59708, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:58:05] DISCONNECTED 2.50.131.2:47944, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:58:08] CONNECTED 2.50.131.2:46294, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:59:05] DISCONNECTED 2.50.131.2:46294, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:59:07] CONNECTED 2.50.131.2:38292, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:00:05] DISCONNECTED 2.50.131.2:38292, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:00:07] CONNECTED 2.50.131.2:53844, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:00:33] DISCONNECTED 2.50.131.2:35330, code: 1001, reason: "", name: "ms"
+[NONE ][05:00:38] DISCONNECTED 217.165.57.157:44850, code: 1001, reason: "", name: "الخبشي"
+[NONE ][05:00:40] CONNECTED 217.165.57.157:49628, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:01:05] DISCONNECTED 2.50.131.2:53844, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:01:08] CONNECTED 2.50.131.2:42060, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:01:09] DISCONNECTED 2.50.131.2:34044, code: 1001, reason: "", name: "عمور"
+[NONE ][05:01:11] CONNECTED 2.50.131.2:51654, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:01:25] DISCONNECTED 2.50.131.2:51654, code: 1001, reason: "", name: "عمر"
+[NONE ][05:01:27] CONNECTED 2.50.131.2:38318, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:02:05] DISCONNECTED 2.50.131.2:42060, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:02:07] CONNECTED 2.50.131.2:49210, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:02:53] CONNECTED 2.50.187.182:59014, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:02:56] DISCONNECTED 2.50.187.182:59014, code: 1001, reason: "", name: ""
+[NONE ][05:03:05] DISCONNECTED 2.50.131.2:49210, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:03:07] CONNECTED 2.50.131.2:39958, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:04:05] DISCONNECTED 2.50.131.2:39958, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:04:08] CONNECTED 2.50.131.2:33340, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:04:28] DISCONNECTED 217.165.57.157:41834, code: 1001, reason: "", name: "Player"
+[NONE ][05:04:31] CONNECTED 217.165.57.157:41456, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:05:05] DISCONNECTED 2.50.131.2:33340, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:05:08] CONNECTED 2.50.131.2:55630, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:06:04] DISCONNECTED 2.50.131.2:55630, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:06:07] CONNECTED 2.50.131.2:44950, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:07:05] DISCONNECTED 2.50.131.2:44950, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:07:08] CONNECTED 2.50.131.2:34544, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:08:05] DISCONNECTED 2.50.131.2:34544, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:08:07] CONNECTED 2.50.131.2:60734, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:08:30] DISCONNECTED 217.165.57.157:59478, code: 1001, reason: "", name: "الشامسي عمك و عم اجدادك"
+[NONE ][05:08:34] CONNECTED 217.165.57.157:58648, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:08:38] DISCONNECTED 217.165.57.157:58648, code: 1001, reason: "", name: ""
+[NONE ][05:08:41] CONNECTED 217.165.57.157:34582, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:08:55] DISCONNECTED 217.165.57.157:53102, code: 1001, reason: "", name: "باباسنفور الاصلي"
+[NONE ][05:09:02] DISCONNECTED 217.165.57.157:46940, code: 1001, reason: "", name: "ححححححححححححححححححححمدان"
+[NONE ][05:09:02] DISCONNECTED 217.165.57.157:59708, code: 1001, reason: "", name: "الفريق الثلاثي"
+[NONE ][05:09:05] DISCONNECTED 2.50.131.2:60734, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:09:08] CONNECTED 2.50.131.2:34852, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:09:11] DISCONNECTED 217.165.57.157:49628, code: 1001, reason: "", name: "احمد"
+[NONE ][05:09:28] DISCONNECTED 217.165.57.157:36782, code: 1001, reason: "", name: "بابابابابابا بروكي"
+[NONE ][05:09:32] DISCONNECTED 217.165.57.157:51898, code: 1001, reason: "", name: "بابابابابابابابامبارك"
+[NONE ][05:09:47] DISCONNECTED 2.50.131.2:34852, code: 1001, reason: "", name: ""
+[NONE ][05:09:47] DISCONNECTED 2.50.131.2:45580, code: 1001, reason: "", name: "alhassani"
+[NONE ][05:09:52] DISCONNECTED 217.165.57.157:50740, code: 1001, reason: "", name: "Playerاحمد"
+[NONE ][05:10:04] DISCONNECTED 217.165.57.157:46922, code: 1006, reason: "null", name: "العلوي عمك"
+[NONE ][05:14:12] DISCONNECTED 2.50.131.2:38318, code: 1001, reason: "", name: "3mr"
+[NONE ][05:14:13] DISCONNECTED 217.165.57.157:34582, code: 1001, reason: "", name: "الشامسي عمك و عم اجدادك"
+[NONE ][05:15:30] DISCONNECTED 217.165.57.157:41546, code: 1006, reason: "null", name: "بابا حمنيي"
+[NONE ][05:15:32] CONNECTED 217.165.57.157:50624, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:15:42] DISCONNECTED 217.165.57.157:41456, code: 1000, reason: "Connection timeout", name: "عيسى"
+[NONE ][05:15:45] CONNECTED 217.165.57.157:38402, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:16:24] DISCONNECTED 217.165.57.157:38402, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:17:43] DISCONNECTED 217.165.57.157:50624, code: 1006, reason: "null", name: ""
+[NONE ][05:17:45] CONNECTED 217.165.57.157:41494, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:28:02] CONNECTED 2.50.187.182:54602, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:39:04] DISCONNECTED 217.165.57.157:41494, code: 1006, reason: "null", name: ""
+[NONE ][05:39:07] CONNECTED 217.165.57.157:38552, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:39:47] DISCONNECTED 2.50.187.182:54602, code: 1000, reason: "Connection timeout", name: "Player"
+[NONE ][05:39:50] CONNECTED 2.50.187.182:51760, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:40:38] DISCONNECTED 2.50.187.182:51760, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:40:41] CONNECTED 2.50.187.182:52358, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:41:38] DISCONNECTED 2.50.187.182:52358, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:41:40] CONNECTED 2.50.187.182:59368, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:42:38] DISCONNECTED 2.50.187.182:59368, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:42:41] CONNECTED 2.50.187.182:59852, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:43:38] DISCONNECTED 2.50.187.182:59852, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:43:41] CONNECTED 2.50.187.182:57032, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:44:21] DISCONNECTED 217.165.57.157:38552, code: 1001, reason: "", name: ""
+[NONE ][05:46:53] DISCONNECTED 2.50.187.182:57032, code: 1001, reason: "", name: ""
+[NONE ][05:46:59] CONNECTED 2.50.187.179:45538, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:47:21] DISCONNECTED 2.50.187.179:45538, code: 1001, reason: "", name: "Player"
+[NONE ][06:25:43] CONNECTED 217.165.57.157:47520, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:25:51] CONNECTED 217.165.57.157:58540, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:27:00] CONNECTED 217.165.57.157:58090, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:29:40] DISCONNECTED 217.165.57.157:58090, code: 1001, reason: "", name: "باباسنفور"
+[NONE ][06:37:43] CONNECTED 2.50.131.2:49598, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:38:55] CONNECTED 217.165.57.157:47792, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:40:44] CONNECTED 217.165.57.157:42546, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:40:58] DISCONNECTED 217.165.57.157:58540, code: 1006, reason: "null", name: "الكلوي"
+[NONE ][06:42:03] CONNECTED 217.165.57.157:52572, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:42:35] CONNECTED 217.165.57.157:60766, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:46:52] DISCONNECTED 217.165.57.157:47792, code: 1001, reason: "", name: "بابا حمنيي"
+[NONE ][06:47:00] CONNECTED 5.195.47.108:38106, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:47:04] CONNECTED 217.165.57.157:48884, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:49:39] CONNECTED 217.165.57.157:44404, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:49:50] DISCONNECTED 217.165.57.157:48884, code: 1001, reason: "", name: "بابا حمنيي"
+[NONE ][06:49:52] DISCONNECTED 217.165.57.157:44404, code: 1001, reason: "", name: "عيسى"
+[NONE ][06:49:52] CONNECTED 217.165.57.157:42568, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:49:54] CONNECTED 217.165.57.157:58214, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:49:54] DISCONNECTED 5.195.47.108:38106, code: 1006, reason: "null", name: "عيسى"
+[NONE ][06:50:10] DISCONNECTED 217.165.57.157:47520, code: 1001, reason: "", name: "كش"
+[NONE ][06:50:21] CONNECTED 217.165.57.157:38692, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:50:32] DISCONNECTED 217.165.57.157:52572, code: 1001, reason: "", name: " الصلوي"
+[NONE ][06:50:36] CONNECTED 217.165.57.157:54846, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:52:23] CONNECTED 2.50.131.2:47868, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:52:29] CONNECTED 217.165.57.157:49932, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:53:58] DISCONNECTED 2.50.131.2:47868, code: 1001, reason: "", name: "الماوري "
+[NONE ][06:55:10] DISCONNECTED 217.165.57.157:38692, code: 1001, reason: "", name: "٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠"
+[NONE ][06:55:16] CONNECTED 217.165.57.157:45078, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:55:57] CONNECTED 2.50.131.2:58548, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:56:07] CONNECTED 217.165.57.157:34818, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:56:23] DISCONNECTED 217.165.57.157:34818, code: 1001, reason: "", name: "العلوي عمك"
+[NONE ][06:56:36] CONNECTED 217.165.57.157:37286, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:00:21] CONNECTED 2.50.187.179:51952, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:00:31] DISCONNECTED 2.50.187.179:51952, code: 1000, reason: "", name: ""
+[NONE ][07:01:03] DISCONNECTED 217.165.57.157:54846, code: 1001, reason: "", name: " الصلوي"
+[NONE ][07:01:07] CONNECTED 217.165.57.157:52824, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:01:38] DISCONNECTED 217.165.57.157:52824, code: 1001, reason: "", name: " الصلوي"
+[NONE ][07:03:36] CONNECTED 217.165.57.157:57190, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:03:39] CONNECTED 2.50.131.2:56160, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:04:25] CONNECTED 217.165.57.157:59102, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:04:37] CONNECTED 217.165.57.157:42296, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:04:37] DISCONNECTED 217.165.57.157:59102, code: 1001, reason: "", name: "احمد"
+[NONE ][07:04:39] CONNECTED 217.165.57.157:57808, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:05:28] DISCONNECTED 217.165.57.157:57190, code: 1001, reason: "", name: "الخيابي تحت و الشوامس فوق"
+[NONE ][07:05:33] CONNECTED 217.165.57.157:50788, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:06:27] DISCONNECTED 2.50.131.2:58548, code: 1001, reason: "", name: "الفريق الثلاثي"
+[NONE ][07:06:37] DISCONNECTED 217.165.57.157:50788, code: 1001, reason: "", name: "الخيابي تحت و الشوامس فوق"
+[NONE ][07:08:01] DISCONNECTED 217.165.57.157:42296, code: 1000, reason: "Connection timeout", name: "ححححححححححححححححححححمدان"
+[NONE ][07:08:04] CONNECTED 217.165.57.157:41740, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][07:08:16] [172.31.128.1:41740] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][07:08:16] DISCONNECTED 217.165.57.157:41740, code: 1006, reason: "", name: ""
+[NONE ][07:08:20] CONNECTED 217.165.57.157:46828, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:08:24] CONNECTED 217.165.57.157:60520, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:10:23] DISCONNECTED 217.165.57.157:60520, code: 1001, reason: "", name: " العميل74 يموت رافع  راسه"
+[NONE ][07:10:26] CONNECTED 217.165.57.157:50016, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:10:27] CONNECTED 2.50.131.2:45464, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:10:45] DISCONNECTED 217.165.57.157:46828, code: 1001, reason: "", name: "ححححححححححححححححححححمدان"
+[NONE ][07:10:59] DISCONNECTED 217.165.57.157:58214, code: 1001, reason: "", name: "عيسى"
+[NONE ][07:11:03] DISCONNECTED 217.165.57.157:42546, code: 1001, reason: "", name: "تحيه لكل عيال صفي"
+[NONE ][07:11:06] DISCONNECTED 217.165.57.157:57808, code: 1001, reason: "", name: "hf"
+[NONE ][07:11:07] DISCONNECTED 217.165.57.157:50016, code: 1001, reason: "", name: " العميل74 يموت رافع  راسه"
+[NONE ][07:11:29] DISCONNECTED 217.165.57.157:45078, code: 1001, reason: "", name: "٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠"
+[NONE ][07:11:30] DISCONNECTED 2.50.131.2:56160, code: 1001, reason: "", name: "8888888888888888888888888"
+[NONE ][07:11:34] DISCONNECTED 217.165.57.157:60766, code: 1001, reason: "", name: "بابابابابابابابامبارك"
+[NONE ][07:12:26] DISCONNECTED 217.165.57.157:37286, code: 1006, reason: "null", name: "العلوي عمك"
+[NONE ][07:12:33] DISCONNECTED 2.50.131.2:45464, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][07:12:37] CONNECTED 2.50.131.2:42128, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:12:49] DISCONNECTED 2.50.131.2:49598, code: 1006, reason: "null", name: "3mr"
+[NONE ][07:13:06] DISCONNECTED 217.165.57.157:42568, code: 1001, reason: "", name: "بابا حمنيي"
+[NONE ][07:13:33] DISCONNECTED 2.50.131.2:42128, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][07:13:38] CONNECTED 2.50.131.2:51372, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:13:43] CONNECTED 217.165.57.157:47412, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:14:33] DISCONNECTED 2.50.131.2:51372, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][07:14:36] CONNECTED 2.50.131.2:43162, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:14:40] DISCONNECTED 217.165.57.157:47412, code: null, reason: "null", name: "احمد"
+[ERROR][07:14:56] [172.31.128.1:49932] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][07:14:56] DISCONNECTED 217.165.57.157:49932, code: 1006, reason: "", name: "مستر الماث"
+[NONE ][07:15:26] CONNECTED 2.50.131.2:37308, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:15:33] DISCONNECTED 2.50.131.2:43162, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][07:15:37] CONNECTED 2.50.131.2:42890, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:16:41] DISCONNECTED 2.50.131.2:37308, code: 1006, reason: "null", name: "احمد"
+[NONE ][07:16:44] DISCONNECTED 2.50.131.2:42890, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][07:16:47] CONNECTED 2.50.131.2:57210, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:17:27] DISCONNECTED 2.50.131.2:57210, code: null, reason: "null", name: ""
+[NONE ][07:17:27] DISCONNECTED 2.50.131.2:57210, code: null, reason: "null", name: ""
+[NONE ][07:17:29] CONNECTED 2.50.131.2:47804, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:20:01] DISCONNECTED 2.50.131.2:47804, code: 1006, reason: "null", name: "ms"
+[NONE ][07:20:27] CONNECTED 217.165.57.157:58394, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:21:27] CONNECTED 2.50.131.2:55958, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:21:56] DISCONNECTED 217.165.57.157:58394, code: 1001, reason: "", name: "احمد"
+[NONE ][07:22:18] DISCONNECTED 2.50.131.2:55958, code: 1001, reason: "", name: ""
+[NONE ][07:43:11] CONNECTED 217.165.57.157:49068, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:46:09] CONNECTED 2.50.187.182:38330, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:46:12] DISCONNECTED 2.50.187.182:38330, code: 1001, reason: "", name: ""
+[NONE ][07:47:08] CONNECTED 5.195.47.108:34106, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:54:29] DISCONNECTED 5.195.47.108:34106, code: 1001, reason: "", name: "Player"
+[NONE ][07:55:16] DISCONNECTED 217.165.57.157:49068, code: 1001, reason: "", name: "احمد"
+[NONE ][08:42:58] CONNECTED 5.195.47.108:59604, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][08:49:53] DISCONNECTED 5.195.47.108:59604, code: 1006, reason: "null", name: "AB@"
+[NONE ][08:49:56] CONNECTED 5.195.47.108:40284, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][08:51:28] CONNECTED 5.195.4.246:56624, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][08:51:56] CONNECTED 5.195.4.243:60254, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][08:58:10] CONNECTED 5.195.47.111:55276, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][08:59:18] DISCONNECTED 5.195.47.111:55276, code: 1001, reason: "", name: "[];'./,"
+[NONE ][08:59:19] CONNECTED 5.195.47.111:52710, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:01:26] CONNECTED 5.195.4.246:44722, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:03:17] DISCONNECTED 5.195.4.246:56624, code: null, reason: "null", name: "Playerdwdw"
+[NONE ][09:03:34] CONNECTED 5.195.4.246:44782, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:03:44] DISCONNECTED 5.195.4.246:44782, code: null, reason: "null", name: ""
+[NONE ][09:03:51] CONNECTED 5.195.4.246:33138, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:05:54] DISCONNECTED 5.195.4.246:44722, code: null, reason: "null", name: "حمودي رجع🔥"
+[NONE ][09:06:07] CONNECTED 5.195.4.246:50344, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:06:28] CONNECTED 5.195.47.107:41734, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:07:22] DISCONNECTED 5.195.4.246:33138, code: null, reason: "null", name: "Playerdwdw"
+[NONE ][09:07:27] CONNECTED 5.195.4.246:35222, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:09:37] DISCONNECTED 5.195.47.111:52710, code: 1001, reason: "", name: "obaid 3my"
+[NONE ][09:11:06] DISCONNECTED 5.195.4.243:60254, code: null, reason: "null", name: "..."
+[NONE ][09:11:24] CONNECTED 5.195.47.106:56718, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:12:21] DISCONNECTED 5.195.4.246:35222, code: null, reason: "null", name: "Playerdwdw"
+[NONE ][09:13:35] DISCONNECTED 5.195.4.246:50344, code: null, reason: "null", name: "حمودي رجع🔥"
+[NONE ][09:22:00] DISCONNECTED 5.195.47.108:40284, code: 1001, reason: "", name: "AB@"
+[NONE ][09:28:11] DISCONNECTED 5.195.47.107:41734, code: 1001, reason: "", name: "B3B7_S"
+[NONE ][09:33:17] DISCONNECTED 5.195.47.106:56718, code: 1006, reason: "null", name: "كل اكل"
+[INFO ][09:36:20] Added 4 player bots
+[NONE ][09:38:12] CONNECTED 5.195.47.110:43860, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:38:37] CONNECTED 5.195.4.242:49838, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:39:30] CONNECTED 5.195.47.106:35096, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:39:52] CONNECTED 5.195.4.243:37604, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:40:28] CONNECTED 5.195.4.245:50002, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:40:48] CONNECTED 5.195.4.245:47222, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:40:59] DISCONNECTED 5.195.4.245:47222, code: 1000, reason: "", name: ""
+[NONE ][09:43:39] CONNECTED 2.50.131.2:45596, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:44:30] CONNECTED 217.165.57.157:43342, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:45:31] CONNECTED 5.195.47.110:57888, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:47:05] CONNECTED 217.165.57.157:44764, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:47:18] DISCONNECTED 5.195.47.110:43860, code: 1001, reason: "", name: "[M]"
+[NONE ][09:47:25] CONNECTED 217.165.57.157:34484, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:47:40] CONNECTED 5.195.4.246:46520, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:49:04] CONNECTED 5.195.4.244:46940, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:50:42] CONNECTED 217.165.57.157:34576, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:50:44] DISCONNECTED 217.165.57.157:43342, code: 1001, reason: "", name: "عيسى"
+[NONE ][09:50:46] CONNECTED 217.165.57.157:33828, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:51:38] CONNECTED 5.195.47.110:59618, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:51:46] CONNECTED 217.165.57.157:58334, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:52:32] CONNECTED 2.50.131.2:45002, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:53:37] CONNECTED 2.50.131.2:39660, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:53:43] DISCONNECTED 2.50.131.2:39660, code: 1001, reason: "", name: "3mr"
+[NONE ][09:53:45] CONNECTED 2.50.131.2:45720, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:54:09] CONNECTED 217.165.57.157:45896, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:54:13] CONNECTED 217.165.57.157:43312, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][09:54:21] [172.31.128.1:45720] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][09:54:21] DISCONNECTED 2.50.131.2:45720, code: 1006, reason: "", name: "بابا عمر"
+[NONE ][09:54:28] CONNECTED 2.50.131.2:39750, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:54:40] DISCONNECTED 5.195.47.110:59618, code: 1001, reason: "", name: "[M]"
+[NONE ][09:54:59] CONNECTED 2.50.131.2:45976, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:55:10] DISCONNECTED 5.195.4.245:50002, code: 1001, reason: "", name: "Player"
+[NONE ][09:55:18] CONNECTED 5.195.4.245:57286, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:55:27] DISCONNECTED 5.195.4.242:49838, code: null, reason: "null", name: "(A)"
+[NONE ][09:55:35] DISCONNECTED 217.165.57.157:45896, code: 1001, reason: "", name: "ms الms"
+[NONE ][09:55:39] CONNECTED 217.165.57.157:38156, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:55:44] DISCONNECTED 217.165.57.157:38156, code: 1001, reason: "", name: "ms الms"
+[NONE ][09:55:48] CONNECTED 217.165.57.157:41880, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][09:55:56] [172.31.128.1:43312] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][09:55:56] DISCONNECTED 217.165.57.157:43312, code: 1006, reason: "", name: "المطوع     القادحح"
+[NONE ][09:56:00] CONNECTED 217.165.57.157:40020, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:56:25] CONNECTED 217.165.57.157:36174, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:56:36] CONNECTED 5.195.4.247:36838, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:56:37] CONNECTED 217.165.57.157:56542, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:56:53] DISCONNECTED 5.195.4.247:36838, code: null, reason: "null", name: ""
+[NONE ][09:57:02] CONNECTED 5.195.4.247:53434, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:58:13] DISCONNECTED 217.165.57.157:56542, code: 1001, reason: "", name: "باباسنفور"
+[NONE ][09:58:21] DISCONNECTED 5.195.4.246:46520, code: null, reason: "null", name: "ve8yw"
+[NONE ][09:58:39] CONNECTED 5.195.4.246:44170, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:58:51] DISCONNECTED 5.195.4.246:44170, code: null, reason: "null", name: ""
+[NONE ][09:59:00] DISCONNECTED 5.195.4.247:53434, code: null, reason: "null", name: "بطي"
+[NONE ][09:59:09] CONNECTED 5.195.4.247:39612, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:59:10] CONNECTED 5.195.4.246:54004, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:59:14] DISCONNECTED 5.195.4.247:39612, code: null, reason: "null", name: ""
+[NONE ][09:59:16] DISCONNECTED 5.195.47.110:57888, code: 1001, reason: "", name: "Player"
+[NONE ][09:59:25] CONNECTED 5.195.4.247:49656, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:59:26] DISCONNECTED 5.195.4.243:37604, code: null, reason: "null", name: "..."
+[NONE ][09:59:31] DISCONNECTED 5.195.47.106:35096, code: 1001, reason: "", name: "كل اكل"
+[NONE ][09:59:34] DISCONNECTED 5.195.4.247:49656, code: null, reason: "null", name: "بطي"
+[NONE ][09:59:43] DISCONNECTED 5.195.4.246:54004, code: null, reason: "null", name: "حسين عبد الهدايا"
+[NONE ][09:59:45] CONNECTED 5.195.4.247:57792, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:59:56] CONNECTED 5.195.47.106:43158, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][10:00:21] DISCONNECTED 5.195.4.244:46940, code: 1001, reason: "", name: "Mayed"
+[NONE ][10:00:46] DISCONNECTED 5.195.47.106:43158, code: 1001, reason: "", name: "كل اكل"
+[NONE ][10:01:16] DISCONNECTED 5.195.4.247:57792, code: 1001, reason: "", name: "بطي"
+[NONE ][10:01:24] CONNECTED 5.195.4.247:33500, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][10:02:03] DISCONNECTED 217.165.57.157:34484, code: 1001, reason: "", name: "٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠"
+[NONE ][10:02:19] CONNECTED 217.165.57.157:52878, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][10:02:20] DISCONNECTED 5.195.4.245:57286, code: 1001, reason: "", name: "Player"
+[NONE ][10:02:21] DISCONNECTED 2.50.131.2:45976, code: 1001, reason: "", name: " كاتاكي"
+[NONE ][10:02:21] DISCONNECTED 2.50.131.2:45976, code: 1001, reason: "", name: " كاتاكي"
+[NONE ][10:02:24] CONNECTED 2.50.131.2:60164, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][10:02:33] [172.31.128.1:60164] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][10:02:33] DISCONNECTED 2.50.131.2:60164, code: 1006, reason: "", name: "Player"
+[NONE ][10:02:42] CONNECTED 217.165.57.157:35438, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][10:03:24] DISCONNECTED 5.195.4.247:33500, code: 1001, reason: "", name: "عتر"
+[NONE ][10:03:33] DISCONNECTED 2.50.131.2:39750, code: 1001, reason: "", name: "بابا عمر"
+[NONE ][10:03:34] CONNECTED 2.50.131.2:58762, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][10:03:59] [172.31.128.1:33828] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][10:03:59] DISCONNECTED 217.165.57.157:33828, code: 1006, reason: "", name: "عيسى"
+[NONE ][10:04:21] CONNECTED 217.165.57.157:51702, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][10:04:40] DISCONNECTED 217.165.57.157:35438, code: 1001, reason: "", name: "العلوي عمك"
+[NONE ][10:05:33] CONNECTED 217.165.57.157:56912, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][10:06:57] CONNECTED 217.165.57.157:52758, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][10:08:44] DISCONNECTED 217.165.57.157:52758, code: 1001, reason: "", name: "باباسنفور"
+[NONE ][10:08:54] CONNECTED 217.165.57.157:49332, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][10:09:07] DISCONNECTED 217.165.57.157:56912, code: 1001, reason: "", name: "محمد سهيل كلب"
+[NONE ][10:09:14] DISCONNECTED 2.50.131.2:45596, code: 1001, reason: "", name: "ms"
+[NONE ][10:10:26] DISCONNECTED 217.165.57.157:36174, code: 1001, reason: "", name: "hazza"
+[NONE ][10:10:35] DISCONNECTED 217.165.57.157:52878, code: 1001, reason: "", name: "=بااااااااااااااااااااااا"
+[NONE ][10:10:48] CONNECTED 217.165.57.157:49776, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][10:11:51] [172.31.128.1:40020] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][10:11:51] DISCONNECTED 217.165.57.157:40020, code: 1006, reason: "", name: "عوامر"
+[NONE ][10:13:45] CONNECTED 217.165.57.157:34750, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][10:16:45] DISCONNECTED 217.165.57.157:41880, code: 1001, reason: "", name: "ms الms"
+[NONE ][10:20:23] DISCONNECTED 217.165.57.157:49332, code: 1001, reason: "", name: "باباسنفور"
+[NONE ][10:20:27] DISCONNECTED 217.165.57.157:34750, code: 1001, reason: "", name: "عوامر"
+[NONE ][10:20:30] DISCONNECTED 217.165.57.157:44764, code: 1001, reason: "", name: "بابا حمنيي"
+[ERROR][10:20:31] [172.31.128.1:58334] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][10:20:31] DISCONNECTED 217.165.57.157:58334, code: 1006, reason: "", name: "ححححححححححححححححححححمدان"
+[NONE ][10:20:43] DISCONNECTED 217.165.57.157:34576, code: 1001, reason: "", name: "الاحبابي"
+[NONE ][10:20:45] DISCONNECTED 217.165.57.157:49776, code: 1001, reason: "", name: "باباسنفور"
+[NONE ][10:20:48] DISCONNECTED 2.50.131.2:45002, code: 1001, reason: "", name: "الشامسي"
+[NONE ][10:20:53] DISCONNECTED 217.165.57.157:51702, code: 1001, reason: "", name: "عيسى"

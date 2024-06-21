@@ -1,0 +1,27 @@
+=== Started 2023-04-17T00-58-49-101 ===
+[ERROR][00:58:49] Unknown gameserver.ini value: serverWelcome3
+[INFO ][00:58:49] 2 bad words loaded
+[INFO ][00:58:49] 4 user records loaded.
+[INFO ][00:58:49] 0 IP ban records loaded.
+[INFO ][00:58:49] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][00:58:49] WebSocket: ws
+[INFO ][00:58:49] Started stats server on port 1234
+[INFO ][00:58:49] Listening on port 3000
+[INFO ][00:58:49] Current game mode is vFree For All
+[INFO ][00:58:49] Added 4 player bots
+[NONE ][00:58:49]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][00:58:55] CONNECTED 71.215.199.243:43582, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][00:59:34] DISCONNECTED 71.215.199.243:43582, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:59:36] CONNECTED 71.215.199.243:55104, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][01:00:15] DISCONNECTED 71.215.199.243:55104, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][01:00:17] CONNECTED 71.215.199.243:41716, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][01:01:11] DISCONNECTED 71.215.199.243:41716, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][01:01:14] CONNECTED 71.215.199.243:45314, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][01:02:41] DISCONNECTED 71.215.199.243:45314, code: 1006, reason: "null", name: ""
+[NONE ][01:57:59] CONNECTED 202.55.72.74:47046, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][02:01:38] DISCONNECTED 202.55.72.74:47046, code: 1001, reason: "", name: "Player"

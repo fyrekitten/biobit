@@ -1,0 +1,46 @@
+=== Started 2023-03-02T07-35-15-225 ===
+[ERROR][07:35:15] Unknown gameserver.ini value: serverWelcome3
+[INFO ][07:35:15] 2 bad words loaded
+[INFO ][07:35:15] 4 user records loaded.
+[INFO ][07:35:15] 0 IP ban records loaded.
+[INFO ][07:35:15] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][07:35:15] WebSocket: ws
+[INFO ][07:35:15] Started stats server on port 1234
+[INFO ][07:35:15] Listening on port 3000
+[INFO ][07:35:15] Current game mode is vFree For All
+[INFO ][07:35:15] Added 4 player bots
+[NONE ][07:35:15]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][07:38:41] CONNECTED 5.195.47.111:56026, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][07:46:15] DISCONNECTED 5.195.47.111:56026, code: 1001, reason: "", name: "Player"
+[NONE ][08:01:52] CONNECTED 5.195.47.111:43528, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][08:15:43] DISCONNECTED 5.195.47.111:43528, code: 1001, reason: "", name: "Player"
+[NONE ][08:49:29] CONNECTED 5.195.4.241:48664, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][08:50:07] CONNECTED 5.195.47.111:44998, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][08:56:48] DISCONNECTED 5.195.47.111:44998, code: null, reason: "null", name: "اسمي "
+[NONE ][09:00:54] DISCONNECTED 5.195.4.241:48664, code: 1000, reason: "Connection timeout", name: "M$"
+[NONE ][09:00:59] CONNECTED 5.195.4.241:59478, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:01:54] DISCONNECTED 5.195.4.241:59478, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][09:01:59] CONNECTED 5.195.4.241:39002, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:02:54] DISCONNECTED 5.195.4.241:39002, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][09:03:01] CONNECTED 5.195.4.241:52100, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:03:54] DISCONNECTED 5.195.4.241:52100, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][09:03:59] CONNECTED 5.195.4.241:59634, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:04:56] DISCONNECTED 5.195.4.241:59634, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][09:05:04] CONNECTED 5.195.4.241:39534, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:05:13] CONNECTED 5.195.47.109:33686, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:05:57] DISCONNECTED 5.195.4.241:39534, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][09:06:00] CONNECTED 5.195.4.241:45770, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:06:56] DISCONNECTED 5.195.4.241:45770, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][09:06:58] CONNECTED 5.195.4.241:42014, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:07:54] DISCONNECTED 5.195.4.241:42014, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][09:07:58] CONNECTED 5.195.4.241:60774, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:08:02] DISCONNECTED 5.195.47.109:33686, code: 1001, reason: "", name: "Player"
+[NONE ][09:08:54] DISCONNECTED 5.195.4.241:60774, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][09:09:00] CONNECTED 5.195.4.241:39594, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][09:09:54] DISCONNECTED 5.195.4.241:39594, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][09:09:58] CONNECTED 5.195.4.241:57340, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"

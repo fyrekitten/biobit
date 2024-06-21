@@ -1,0 +1,26 @@
+=== Started 2023-03-03T20-32-31-813 ===
+[ERROR][20:32:31] Unknown gameserver.ini value: serverWelcome3
+[INFO ][20:32:31] 2 bad words loaded
+[INFO ][20:32:31] 4 user records loaded.
+[INFO ][20:32:31] 0 IP ban records loaded.
+[INFO ][20:32:31] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][20:32:31] WebSocket: ws
+[INFO ][20:32:31] Started stats server on port 1234
+[INFO ][20:32:31] Listening on port 3000
+[INFO ][20:32:31] Current game mode is vFree For All
+[INFO ][20:32:31] Added 4 player bots
+[NONE ][20:32:31]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][20:32:32] CONNECTED 162.212.22.140:47604, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:32:32] CONNECTED 168.102.1.68:46168, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:32:32] CONNECTED 165.29.56.190:46196, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:32:40] CONNECTED 156.110.28.234:60748, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:33:02] DISCONNECTED 156.110.28.234:60748, code: null, reason: "null", name: ""
+[NONE ][20:33:10] DISCONNECTED 168.102.1.68:46168, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][20:33:12] DISCONNECTED 165.29.56.190:46196, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][20:33:12] CONNECTED 168.102.1.68:38502, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:33:18] CONNECTED 165.29.56.190:55794, origin: "https://biobit-forked.lxtte.repl.co"

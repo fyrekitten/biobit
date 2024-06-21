@@ -1,0 +1,53 @@
+=== Started 2023-04-27T11-56-38-850 ===
+[ERROR][11:56:38] Unknown gameserver.ini value: serverWelcome3
+[INFO ][11:56:38] 2 bad words loaded
+[INFO ][11:56:38] 4 user records loaded.
+[INFO ][11:56:38] 0 IP ban records loaded.
+[INFO ][11:56:38] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][11:56:38] WebSocket: ws
+[INFO ][11:56:39] Started stats server on port 1234
+[INFO ][11:56:39] Listening on port 3000
+[INFO ][11:56:39] Current game mode is vFree For All
+[INFO ][11:56:39] Added 4 player bots
+[NONE ][11:56:39]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][12:49:00] CONNECTED 63.236.213.242:40314, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][12:49:03] DISCONNECTED 63.236.213.242:40314, code: 1001, reason: "", name: ""
+[NONE ][12:50:53] CONNECTED 63.236.213.242:51328, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][12:52:00] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][12:52:30] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][12:52:56] DISCONNECTED 63.236.213.242:51328, code: 1006, reason: "null", name: "Player"
+[NONE ][12:54:11] CONNECTED 63.236.213.242:60230, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][12:55:00] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][12:55:30] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][12:56:00] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][12:56:30] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][12:56:44] DISCONNECTED 63.236.213.242:60230, code: 1006, reason: "null", name: "gay biach"
+[NONE ][13:00:07] CONNECTED 165.29.56.188:43996, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:00:30] DISCONNECTED 165.29.56.188:43996, code: 1001, reason: "", name: "Player"
+[ERROR][13:02:00] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][13:06:41] CONNECTED 75.151.11.193:39052, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:07:36] DISCONNECTED 75.151.11.193:39052, code: 1006, reason: "null", name: "hi"
+[NONE ][13:26:21] CONNECTED 63.236.213.242:54230, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:26:33] DISCONNECTED 63.236.213.242:54230, code: 1001, reason: "", name: "player"
+[ERROR][13:27:31] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][13:32:03] CONNECTED 75.151.11.193:36998, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][13:32:32] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:33:02] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:33:32] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][13:33:39] DISCONNECTED 75.151.11.193:36998, code: null, reason: "null", name: "Player"
+[ERROR][13:33:39] [172.31.128.1:36998] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:393:5)
+    at errorBuffer (node:internal/streams/writable:520:31)
+    at afterWrite (node:internal/streams/writable:504:5)
+    at onwrite (node:internal/streams/writable:480:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[NONE ][13:33:39] DISCONNECTED 75.151.11.193:36998, code: null, reason: "null", name: "Player"
+[ERROR][13:33:57] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][13:39:47] CONNECTED 31.221.58.194:40074, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:39:59] DISCONNECTED 31.221.58.194:40074, code: 1006, reason: "null", name: "Player"
+[NONE ][13:58:04] CONNECTED 63.236.213.242:36230, origin: "https://biobit-forked.lxtte.repl.co"

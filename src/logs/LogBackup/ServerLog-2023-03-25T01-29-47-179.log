@@ -1,0 +1,25 @@
+=== Started 2023-03-24T19-53-32-531 ===
+[ERROR][19:53:32] Unknown gameserver.ini value: serverWelcome3
+[INFO ][19:53:32] 2 bad words loaded
+[INFO ][19:53:32] 4 user records loaded.
+[INFO ][19:53:32] 0 IP ban records loaded.
+[INFO ][19:53:32] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][19:53:32] WebSocket: ws
+[INFO ][19:53:32] Started stats server on port 1234
+[INFO ][19:53:32] Listening on port 3000
+[INFO ][19:53:32] Current game mode is vFree For All
+[INFO ][19:53:32] Added 4 player bots
+[NONE ][19:53:32]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][19:53:37] CONNECTED 96.2.247.202:49316, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:00:02] DISCONNECTED 96.2.247.202:49316, code: 1001, reason: "", name: "Cancer Cell"
+[NONE ][20:00:03] CONNECTED 96.2.247.202:38896, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:00:09] DISCONNECTED 96.2.247.202:38896, code: 1001, reason: "", name: ""
+[NONE ][20:21:54] CONNECTED 96.2.247.202:52438, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:25:36] DISCONNECTED 96.2.247.202:52438, code: 1001, reason: "", name: "Cancer Cell"
+[NONE ][20:48:43] CONNECTED 204.100.235.109:49358, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:50:24] DISCONNECTED 204.100.235.109:49358, code: 1001, reason: "", name: "luke"

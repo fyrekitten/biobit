@@ -1,0 +1,22 @@
+=== Started 2023-02-11T04-36-08-249 ===
+[ERROR][04:36:08] Unknown gameserver.ini value: serverWelcome3
+[INFO ][04:36:08] 2 bad words loaded
+[INFO ][04:36:08] 4 user records loaded.
+[INFO ][04:36:08] 0 IP ban records loaded.
+[INFO ][04:36:08] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][04:36:08] WebSocket: ws
+[INFO ][04:36:08] Started stats server on port 1234
+[INFO ][04:36:08] Listening on port 3000
+[INFO ][04:36:08] Current game mode is Free For All
+[INFO ][04:36:08] Added 4 player bots
+[NONE ][04:36:08]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][04:36:15] CONNECTED 185.177.125.181:42792, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:36:15] Welcome to BioBit v1.0! 
+[NONE ][04:36:15] Hello There! 
+[NONE ][04:36:47] test
+[NONE ][04:36:47] test

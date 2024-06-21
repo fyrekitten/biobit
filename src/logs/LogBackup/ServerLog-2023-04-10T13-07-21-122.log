@@ -1,0 +1,19 @@
+=== Started 2023-04-10T11-54-32-299 ===
+[ERROR][11:54:32] Unknown gameserver.ini value: serverWelcome3
+[INFO ][11:54:32] 2 bad words loaded
+[INFO ][11:54:32] 4 user records loaded.
+[INFO ][11:54:32] 0 IP ban records loaded.
+[INFO ][11:54:32] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][11:54:32] WebSocket: ws
+[INFO ][11:54:32] Started stats server on port 1234
+[INFO ][11:54:32] Listening on port 3000
+[INFO ][11:54:32] Current game mode is vFree For All
+[INFO ][11:54:32] Added 4 player bots
+[NONE ][11:54:32]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][11:54:46] CONNECTED 95.14.108.224:34996, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][12:11:45] DISCONNECTED 95.14.108.224:34996, code: null, reason: "null", name: "Player"

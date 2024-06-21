@@ -1,0 +1,56 @@
+=== Started 2023-02-03T14-48-22-120 ===
+[ERROR][14:48:22] Unknown gameserver.ini value: serverWelcome3
+[INFO ][14:48:22] 1 bad words loaded
+[INFO ][14:48:22] 4 user records loaded.
+[INFO ][14:48:22] 0 IP ban records loaded.
+[INFO ][14:48:22] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][14:48:22] WebSocket: ws
+[INFO ][14:48:22] Started stats server on port 1234
+[INFO ][14:48:22] Listening on port 3000
+[INFO ][14:48:22] Current game mode is Free For All
+[INFO ][14:48:22] Added 4 player bots
+[NONE ][14:48:22]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][14:48:23] CONNECTED 45.20.4.96:52530, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][14:54:19] DISCONNECTED 45.20.4.96:52530, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:54:22] CONNECTED 45.20.4.96:58370, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][14:55:16] DISCONNECTED 45.20.4.96:58370, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:55:18] CONNECTED 45.20.4.96:38564, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][14:56:16] DISCONNECTED 45.20.4.96:38564, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:56:18] CONNECTED 45.20.4.96:44838, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][14:58:03] CONNECTED 45.20.4.96:50612, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][14:58:33] DISCONNECTED 45.20.4.96:50612, code: 1001, reason: "", name: ""
+[NONE ][15:00:17] CONNECTED 45.20.4.96:56322, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:05:05] DISCONNECTED 45.20.4.96:44838, code: 1001, reason: "", name: ""
+[NONE ][15:05:31] CONNECTED 45.20.4.96:47566, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:05:35] DISCONNECTED 45.20.4.96:47566, code: 1001, reason: "", name: ""
+[NONE ][15:05:36] DISCONNECTED 45.20.4.96:56322, code: 1001, reason: "", name: ""
+[NONE ][15:06:54] CONNECTED 45.20.4.96:53658, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:23:31] DISCONNECTED 45.20.4.96:53658, code: 1001, reason: "", name: "BigFatGrub"
+[NONE ][15:23:51] CONNECTED 45.20.4.96:54844, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:24:03] DISCONNECTED 45.20.4.96:54844, code: 1001, reason: "", name: "Player"
+[NONE ][15:30:07] CONNECTED 45.20.4.96:55636, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:30:33] DISCONNECTED 45.20.4.96:55636, code: 1006, reason: "null", name: ""
+[NONE ][15:36:32] CONNECTED 164.39.14.134:60472, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:36:34] CONNECTED 71.13.130.2:57228, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:36:51] DISCONNECTED 164.39.14.134:60472, code: 1000, reason: "", name: ""
+[NONE ][15:37:23] CONNECTED 164.39.14.134:56528, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:37:27] DISCONNECTED 164.39.14.134:56528, code: 1000, reason: "", name: ""
+[NONE ][15:37:30] CONNECTED 45.20.4.96:59284, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:15] CONNECTED 96.4.180.17:58378, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:38:20] CONNECTED 96.4.180.17:34566, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:23] CONNECTED 204.185.4.3:34214, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:38:54] CONNECTED 136.228.36.131:36826, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:39:00] DISCONNECTED 136.228.36.131:36826, code: 1001, reason: "", name: ""
+[NONE ][15:39:18] DISCONNECTED 96.4.180.17:34566, code: 1001, reason: "", name: ""
+[NONE ][15:39:18] CONNECTED 96.4.180.17:37130, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][15:39:30] CONNECTED 46.223.3.201:50816, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][15:40:07] DISCONNECTED 46.223.3.201:50816, code: 1001, reason: "", name: "Player"
+[NONE ][15:40:22] DISCONNECTED 96.4.180.17:37130, code: 1000, reason: "", name: "Player"
+[NONE ][15:40:43] DISCONNECTED 96.4.180.17:58378, code: 1001, reason: "", name: ""
+[NONE ][15:43:15] DISCONNECTED 71.13.130.2:57228, code: 1001, reason: "", name: "Player"
+[NONE ][15:46:18] CONNECTED 192.82.51.133:35580, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"

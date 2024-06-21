@@ -1,0 +1,17 @@
+=== Started 2023-05-05T12-20-14-851 ===
+[ERROR][12:20:14] Unknown gameserver.ini value: serverWelcome3
+[INFO ][12:20:14] 2 bad words loaded
+[INFO ][12:20:14] 4 user records loaded.
+[INFO ][12:20:14] 0 IP ban records loaded.
+[INFO ][12:20:14] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][12:20:14] WebSocket: ws
+[INFO ][12:20:14] Started stats server on port 1234
+[INFO ][12:20:14] Listening on port 3000
+[INFO ][12:20:14] Current game mode is vFree For All
+[INFO ][12:20:15] Added 4 player bots
+[NONE ][12:20:15]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           

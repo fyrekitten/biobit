@@ -1,0 +1,20 @@
+=== Started 2023-05-16T04-39-33-539 ===
+[ERROR][04:39:33] Unknown gameserver.ini value: serverWelcome3
+[INFO ][04:39:33] 2 bad words loaded
+[INFO ][04:39:33] 4 user records loaded.
+[INFO ][04:39:33] 0 IP ban records loaded.
+[INFO ][04:39:33] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][04:39:33] WebSocket: ws
+[INFO ][04:39:33] Started stats server on port 1234
+[INFO ][04:39:33] Listening on port 3000
+[INFO ][04:39:33] Current game mode is vFree For All
+[INFO ][04:39:33] Added 4 player bots
+[NONE ][04:39:33]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][04:40:21] CONNECTED 217.165.57.157:43802, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][04:41:23] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][04:42:13] DISCONNECTED 217.165.57.157:43802, code: 1006, reason: "null", name: "Player"

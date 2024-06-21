@@ -1,0 +1,60 @@
+=== Started 2023-02-15T15-41-00-774 ===
+[ERROR][15:41:00] Unknown gameserver.ini value: serverWelcome3
+[INFO ][15:41:00] 2 bad words loaded
+[INFO ][15:41:00] 4 user records loaded.
+[INFO ][15:41:00] 0 IP ban records loaded.
+[INFO ][15:41:00] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:41:00] WebSocket: ws
+[INFO ][15:41:00] Started stats server on port 1234
+[INFO ][15:41:00] Listening on port 3000
+[INFO ][15:41:00] Current game mode is vFree For All
+[INFO ][15:41:00] Added 4 player bots
+[NONE ][15:41:01]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:41:06] CONNECTED 152.157.185.136:57864, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:41:12] DISCONNECTED 152.157.185.136:57864, code: null, reason: "null", name: "Joe swansonson"
+[NONE ][15:41:13] CONNECTED 152.157.185.136:46982, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:41:28] >speed 5 10
+[WARN ][15:41:28] That player ID is non-existant!
+[NONE ][15:41:31] >playerlist
+[NONE ][15:41:31] 
+Current players: 5
+[NONE ][15:41:31] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:41:31]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                                               
+[NONE ][15:41:31] ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:41:31]       1 | [BOT]           | ? |     1 |     56 |  1569,  3619 | Sweaty 🤖                                         
+[NONE ][15:41:31]       2 | [BOT]           | ? |     1 |     43 |  5563, -4610 | Sweaty 🤖                                         
+[NONE ][15:41:31]       3 | [BOT]           | ? |     1 |     75 |  -259, -2385 | Toenail 🤖                                        
+[NONE ][15:41:31]       4 | [BOT]           | ? |     1 |     70 |  -461, -6833 | Toenail 🤖                                        
+[NONE ][15:41:31]       6 | 152.157.185.136 | 6 |     1 |     12 |  3066, -1091 | Joe swansonson                                    
+[NONE ][15:41:38] >speed 91 10
+[WARN ][15:41:38] That player ID is non-existant!
+[NONE ][15:41:43] >speed 091 10
+[WARN ][15:41:43] That player ID is non-existant!
+[NONE ][15:41:51] >speed 6 10
+[NONE ][15:41:51] Set base speed of Joe swansonson to 10
+[NONE ][15:41:55] >mass 6 1000
+[NONE ][15:41:55] Set mass of Joe swansonson to 1000.000
+[NONE ][15:46:01] DISCONNECTED 152.157.185.136:46982, code: 1001, reason: "", name: "Joe swansonson"
+[NONE ][15:46:02] CONNECTED 152.157.185.136:60882, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:46:09] >mass 6 1000
+[WARN ][15:46:09] That player ID is non-existant!
+[NONE ][15:46:12] >playerlist
+[NONE ][15:46:12] 
+Current players: 5
+[NONE ][15:46:12] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:46:12]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                                               
+[NONE ][15:46:12] ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:46:12]       1 | [BOT]           | ? |     1 |    744 | -3211,  6550 | Sweaty 🤖                                         
+[NONE ][15:46:12]       2 | [BOT]           | ? |    11 |   5159 |  -450,   -96 | Sweaty 🤖                                         
+[NONE ][15:46:12]       3 | [BOT]           | ? |     1 |    393 |  4408,  6630 | Toenail 🤖                                        
+[NONE ][15:46:12]       4 | [BOT]           | ? |     1 |    360 |  3087, -2842 | Toenail 🤖                                        
+[NONE ][15:46:12]       7 | 152.157.185.136 | 6 |     1 |     29 | -5159,  2690 | Joe swansonson                                    
+[NONE ][15:46:14] >mass 7 1000
+[NONE ][15:46:14] Set mass of Joe swansonson to 1000.000

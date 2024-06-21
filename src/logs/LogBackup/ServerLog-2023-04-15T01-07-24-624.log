@@ -1,0 +1,18 @@
+=== Started 2023-04-14T23-20-07-957 ===
+[ERROR][23:20:08] Unknown gameserver.ini value: serverWelcome3
+[INFO ][23:20:08] 2 bad words loaded
+[INFO ][23:20:08] 4 user records loaded.
+[INFO ][23:20:08] 0 IP ban records loaded.
+[INFO ][23:20:08] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][23:20:08] WebSocket: ws
+[INFO ][23:20:08] Started stats server on port 1234
+[INFO ][23:20:08] Listening on port 3000
+[INFO ][23:20:08] Current game mode is vFree For All
+[INFO ][23:20:08] Added 4 player bots
+[NONE ][23:20:08]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][23:20:42] CONNECTED 65.163.113.237:51960, origin: "https://biobit-forked.lxtte.repl.co"

@@ -1,0 +1,20 @@
+=== Started 2023-02-03T14-47-23-501 ===
+[ERROR][14:47:23] Unknown gameserver.ini value: serverWelcome3
+[INFO ][14:47:23] 1 bad words loaded
+[INFO ][14:47:23] 4 user records loaded.
+[INFO ][14:47:23] 0 IP ban records loaded.
+[INFO ][14:47:23] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][14:47:23] WebSocket: ws
+[INFO ][14:47:23] Started stats server on port 1234
+[INFO ][14:47:23] Listening on port 3000
+[INFO ][14:47:23] Current game mode is Free For All
+[INFO ][14:47:23] Added 4 player bots
+[NONE ][14:47:23]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][14:47:28] CONNECTED 45.20.4.96:42820, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][14:47:31] CONNECTED 45.20.4.96:38944, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][14:48:04] DISCONNECTED 45.20.4.96:38944, code: 1001, reason: "", name: "Player"

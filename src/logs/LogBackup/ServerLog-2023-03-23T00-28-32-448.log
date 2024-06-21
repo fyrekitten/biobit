@@ -1,0 +1,449 @@
+=== Started 2023-03-22T12-54-43-462 ===
+[ERROR][12:54:43] Unknown gameserver.ini value: serverWelcome3
+[INFO ][12:54:43] 2 bad words loaded
+[INFO ][12:54:43] 4 user records loaded.
+[INFO ][12:54:43] 0 IP ban records loaded.
+[INFO ][12:54:43] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][12:54:43] WebSocket: ws
+[INFO ][12:54:43] Started stats server on port 1234
+[INFO ][12:54:43] Listening on port 3000
+[INFO ][12:54:43] Current game mode is vFree For All
+[INFO ][12:54:43] Added 4 player bots
+[NONE ][12:54:43]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:30:32] CONNECTED 208.54.169.132:39148, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][13:31:03] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:31:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:32:03] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:32:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:33:03] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:33:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:34:03] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:34:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:35:03] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:35:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:36:03] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:36:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:37:03] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:37:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:38:03] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:38:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:39:03] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:39:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][13:46:11] DISCONNECTED 208.54.169.132:39148, code: 1006, reason: "null", name: ""
+[ERROR][13:58:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:59:03] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:59:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:00:03] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:00:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:01:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:01:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:02:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:02:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:03:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:03:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:04:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:04:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:05:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:05:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:06:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:06:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:07:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:07:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:08:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:08:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:09:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:09:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:10:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:10:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:11:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:11:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:12:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:12:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:13:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:13:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:14:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:14:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:15:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:15:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:16:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:16:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:17:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:17:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:18:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:18:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:19:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:19:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:20:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:20:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:21:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:21:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:22:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:22:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:23:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:23:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:24:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:24:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:25:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:25:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:26:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:26:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:27:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:27:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:28:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:28:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:29:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:29:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:30:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:31:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:31:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:32:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:32:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:33:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:33:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:34:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:34:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:36:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:37:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:37:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:38:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:38:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:39:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:39:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:40:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:40:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:41:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:41:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:42:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:42:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:43:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:43:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:44:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:44:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][14:46:10] CONNECTED 104.225.186.72:54668, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][14:47:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:47:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:48:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:48:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:49:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:49:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:50:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:50:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:51:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:51:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:52:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:52:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:53:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:53:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:54:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:54:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][14:54:45] DISCONNECTED 104.225.186.72:54668, code: null, reason: "null", name: ""
+[ERROR][14:54:45] [172.31.128.1:54668] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:393:5)
+    at errorBuffer (node:internal/streams/writable:520:31)
+    at afterWrite (node:internal/streams/writable:504:5)
+    at onwrite (node:internal/streams/writable:480:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[NONE ][14:54:45] DISCONNECTED 104.225.186.72:54668, code: null, reason: "null", name: ""
+[NONE ][14:56:44] CONNECTED 50.201.145.131:52424, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][14:57:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:58:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:58:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:59:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:59:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][14:59:45] DISCONNECTED 50.201.145.131:52424, code: null, reason: "null", name: ""
+[ERROR][14:59:45] [172.31.128.1:52424] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:393:5)
+    at errorBuffer (node:internal/streams/writable:520:31)
+    at afterWrite (node:internal/streams/writable:504:5)
+    at onwrite (node:internal/streams/writable:480:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[NONE ][14:59:45] DISCONNECTED 50.201.145.131:52424, code: null, reason: "null", name: ""
+[NONE ][14:59:48] CONNECTED 50.201.145.131:51196, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][15:00:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][15:01:00] DISCONNECTED 50.201.145.131:51196, code: 1006, reason: "null", name: ""
+[ERROR][15:01:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:01:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:02:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:02:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:03:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:03:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:04:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:04:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:05:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:05:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:06:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:06:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:07:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:07:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:08:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:08:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:09:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:09:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:10:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:10:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:11:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:11:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:12:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:12:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:13:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:13:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:14:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:14:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][15:14:48] CONNECTED 50.201.145.131:47672, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][15:15:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:16:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:16:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:17:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:17:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:18:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:18:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:19:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:19:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:20:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:20:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:21:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:21:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:22:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:22:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:23:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:23:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:24:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:24:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:25:05] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][15:30:58] DISCONNECTED 50.201.145.131:47672, code: 1006, reason: "null", name: ""
+[NONE ][16:04:57] CONNECTED 76.190.0.250:36602, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:07:15] DISCONNECTED 76.190.0.250:36602, code: 1001, reason: "", name: "triangle"
+[NONE ][16:39:09] CONNECTED 136.228.39.61:34400, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:39:23] DISCONNECTED 136.228.39.61:34400, code: 1001, reason: "", name: "Player"
+[NONE ][16:39:59] CONNECTED 136.228.39.61:60870, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:40:35] DISCONNECTED 136.228.39.61:60870, code: 1001, reason: "", name: "Player"
+[NONE ][16:42:24] CONNECTED 192.82.51.125:45288, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:42:40] DISCONNECTED 192.82.51.125:45288, code: 1000, reason: "", name: ""
+[NONE ][16:51:26] CONNECTED 136.228.39.61:41110, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:51:38] DISCONNECTED 136.228.39.61:41110, code: 1006, reason: "null", name: ""
+[NONE ][17:03:34] CONNECTED 76.190.0.250:51080, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:04:22] DISCONNECTED 76.190.0.250:51080, code: 1001, reason: "", name: "triangle"
+[NONE ][17:09:57] CONNECTED 192.82.51.131:58946, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:10:07] DISCONNECTED 192.82.51.131:58946, code: 1000, reason: "", name: ""
+[NONE ][17:19:37] CONNECTED 206.57.216.207:34656, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:26:36] DISCONNECTED 206.57.216.207:34656, code: 1006, reason: "", name: "Player"
+[NONE ][17:41:19] CONNECTED 50.201.145.131:44374, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:41:58] DISCONNECTED 50.201.145.131:44374, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:42:00] CONNECTED 50.201.145.131:43578, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:42:39] DISCONNECTED 50.201.145.131:43578, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:42:42] CONNECTED 50.201.145.131:53474, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:43:35] DISCONNECTED 50.201.145.131:53474, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:43:37] CONNECTED 50.201.145.131:36300, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:44:35] DISCONNECTED 50.201.145.131:36300, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:44:38] CONNECTED 50.201.145.131:59612, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:45:35] DISCONNECTED 50.201.145.131:59612, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:45:37] CONNECTED 50.201.145.131:40322, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:46:35] DISCONNECTED 50.201.145.131:40322, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:46:38] CONNECTED 50.201.145.131:54404, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:47:35] DISCONNECTED 50.201.145.131:54404, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:47:38] CONNECTED 50.201.145.131:59066, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:48:36] DISCONNECTED 50.201.145.131:59066, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:48:38] CONNECTED 50.201.145.131:53950, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:49:36] DISCONNECTED 50.201.145.131:53950, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:49:39] CONNECTED 50.201.145.131:50168, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:50:36] DISCONNECTED 50.201.145.131:50168, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:50:38] CONNECTED 50.201.145.131:46158, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:51:36] DISCONNECTED 50.201.145.131:46158, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:51:38] CONNECTED 50.201.145.131:42246, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:52:36] DISCONNECTED 50.201.145.131:42246, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:52:38] CONNECTED 50.201.145.131:48152, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:53:36] DISCONNECTED 50.201.145.131:48152, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:53:38] CONNECTED 50.201.145.131:34560, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:54:36] DISCONNECTED 50.201.145.131:34560, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:54:38] CONNECTED 50.201.145.131:43106, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:55:14] CONNECTED 12.215.43.98:56094, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:55:33] DISCONNECTED 12.215.43.98:56094, code: 1000, reason: "", name: ""
+[NONE ][17:55:36] DISCONNECTED 50.201.145.131:43106, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:55:38] CONNECTED 50.201.145.131:59726, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:56:36] DISCONNECTED 50.201.145.131:59726, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:56:38] CONNECTED 50.201.145.131:46978, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:57:36] DISCONNECTED 50.201.145.131:46978, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:57:39] CONNECTED 50.201.145.131:49014, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:57:42] CONNECTED 205.118.123.62:49034, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:58:36] DISCONNECTED 50.201.145.131:49014, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:58:38] CONNECTED 50.201.145.131:44070, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:59:19] DISCONNECTED 205.118.123.62:49034, code: 1001, reason: "", name: "Player"
+[NONE ][17:59:20] CONNECTED 205.118.123.62:60486, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:59:24] DISCONNECTED 205.118.123.62:60486, code: 1001, reason: "", name: "Player"
+[NONE ][17:59:25] CONNECTED 205.118.123.62:48740, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][17:59:28] [172.31.128.1:48740] Error: write ECONNRESET
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][17:59:28] DISCONNECTED 205.118.123.62:48740, code: 1006, reason: "", name: "Player"
+[NONE ][17:59:29] CONNECTED 205.118.123.62:41340, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:59:32] DISCONNECTED 205.118.123.62:41340, code: 1001, reason: "", name: "Player"
+[NONE ][17:59:33] CONNECTED 205.118.123.62:59024, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:59:36] DISCONNECTED 50.201.145.131:44070, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:59:38] CONNECTED 50.201.145.131:39536, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:00:36] DISCONNECTED 50.201.145.131:39536, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:00:39] CONNECTED 50.201.145.131:36106, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:01:36] DISCONNECTED 50.201.145.131:36106, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:01:38] CONNECTED 50.201.145.131:54356, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:02:36] DISCONNECTED 50.201.145.131:54356, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:02:39] CONNECTED 50.201.145.131:57828, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:03:36] DISCONNECTED 50.201.145.131:57828, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:03:39] CONNECTED 50.201.145.131:48232, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:04:36] DISCONNECTED 50.201.145.131:48232, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:04:38] CONNECTED 50.201.145.131:48998, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:05:36] DISCONNECTED 50.201.145.131:48998, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:05:38] CONNECTED 50.201.145.131:33298, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:06:36] DISCONNECTED 50.201.145.131:33298, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:06:38] CONNECTED 50.201.145.131:43480, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:07:36] DISCONNECTED 50.201.145.131:43480, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:07:38] CONNECTED 50.201.145.131:50510, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:08:36] DISCONNECTED 50.201.145.131:50510, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:08:38] CONNECTED 50.201.145.131:45408, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:09:36] DISCONNECTED 50.201.145.131:45408, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:09:38] CONNECTED 50.201.145.131:38942, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:10:36] DISCONNECTED 50.201.145.131:38942, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:10:38] CONNECTED 50.201.145.131:47188, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:11:36] DISCONNECTED 50.201.145.131:47188, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:11:39] CONNECTED 50.201.145.131:46918, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:11:40] CONNECTED 96.2.247.202:47414, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:12:36] DISCONNECTED 50.201.145.131:46918, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:12:38] CONNECTED 50.201.145.131:41158, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:14:30] DISCONNECTED 96.2.247.202:47414, code: 1001, reason: "", name: "Corbs"
+[NONE ][18:17:49] CONNECTED 205.118.123.62:44502, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:18:41] DISCONNECTED 50.201.145.131:41158, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:18:44] CONNECTED 50.201.145.131:50846, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:19:36] DISCONNECTED 50.201.145.131:50846, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:19:38] CONNECTED 50.201.145.131:50334, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:20:37] DISCONNECTED 50.201.145.131:50334, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:20:39] CONNECTED 50.201.145.131:35258, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:21:37] DISCONNECTED 50.201.145.131:35258, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:21:39] CONNECTED 50.201.145.131:40910, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:22:36] DISCONNECTED 50.201.145.131:40910, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:22:39] CONNECTED 50.201.145.131:35552, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:22:56] DISCONNECTED 205.118.123.62:44502, code: null, reason: "null", name: ""
+[NONE ][18:22:56] DISCONNECTED 205.118.123.62:44502, code: null, reason: "null", name: ""
+[NONE ][18:22:57] DISCONNECTED 205.118.123.62:59024, code: 1000, reason: "Connection timeout", name: "Player"
+[NONE ][18:22:59] CONNECTED 205.118.123.62:34904, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:22:59] CONNECTED 205.118.123.62:56366, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:23:22] DISCONNECTED 50.201.145.131:35552, code: null, reason: "null", name: ""
+[NONE ][18:23:57] DISCONNECTED 205.118.123.62:34904, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:23:57] DISCONNECTED 205.118.123.62:56366, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:23:59] CONNECTED 205.118.123.62:45090, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:23:59] CONNECTED 205.118.123.62:41488, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:24:15] DISCONNECTED 205.118.123.62:45090, code: 1001, reason: "", name: ""
+[NONE ][18:24:16] CONNECTED 205.118.123.62:53206, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:24:23] DISCONNECTED 205.118.123.62:41488, code: 1001, reason: "", name: ""
+[NONE ][18:24:24] CONNECTED 205.118.123.62:43252, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:33:07] DISCONNECTED 205.118.123.62:43252, code: null, reason: "null", name: ""
+[NONE ][18:33:07] DISCONNECTED 205.118.123.62:43252, code: null, reason: "null", name: ""
+[NONE ][18:33:10] CONNECTED 205.118.123.62:57222, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:33:45] DISCONNECTED 205.118.123.62:57222, code: 1001, reason: "", name: ""
+[NONE ][18:33:45] CONNECTED 205.118.123.62:58562, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:49:11] CONNECTED 96.2.247.202:46120, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:54:02] DISCONNECTED 205.118.123.62:58562, code: null, reason: "null", name: ""
+[NONE ][18:54:02] DISCONNECTED 205.118.123.62:58562, code: null, reason: "null", name: ""
+[NONE ][18:54:02] DISCONNECTED 205.118.123.62:53206, code: 1000, reason: "Connection timeout", name: "Player"
+[NONE ][18:54:05] CONNECTED 205.118.123.62:42094, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:54:05] CONNECTED 205.118.123.62:45842, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:54:55] DISCONNECTED 205.118.123.62:42094, code: 1001, reason: "", name: ""
+[NONE ][18:54:57] CONNECTED 205.118.123.62:45584, origin: "https://biobit-forked.lxtte.repl.co"
+[INFO ][18:55:21] Added 4 player bots
+[NONE ][18:55:21] DISCONNECTED 205.118.123.62:45584, code: null, reason: "null", name: ""
+[NONE ][18:55:21] DISCONNECTED 205.118.123.62:45584, code: null, reason: "null", name: ""
+[NONE ][18:55:21] DISCONNECTED 96.2.247.202:46120, code: 1000, reason: "", name: "Corbs"
+[NONE ][18:55:21] DISCONNECTED 205.118.123.62:45842, code: 1000, reason: "", name: "eater"
+[NONE ][18:55:23] CONNECTED 205.118.123.62:50108, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:55:23] CONNECTED 205.118.123.62:50124, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:55:24] CONNECTED 96.2.247.202:34154, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:55:25] DISCONNECTED 205.118.123.62:50124, code: 1001, reason: "", name: ""
+[NONE ][18:55:26] DISCONNECTED 205.118.123.62:50108, code: 1001, reason: "", name: ""
+[NONE ][18:55:26] CONNECTED 205.118.123.62:57266, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:55:27] CONNECTED 205.118.123.62:35756, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:55:40] DISCONNECTED 96.2.247.202:34154, code: 1001, reason: "", name: ""
+[NONE ][18:55:41] CONNECTED 96.2.247.202:51154, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:55:42] DISCONNECTED 96.2.247.202:51154, code: 1001, reason: "", name: ""
+[NONE ][18:55:42] CONNECTED 96.2.247.202:45888, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:55:46] DISCONNECTED 96.2.247.202:45888, code: 1001, reason: "", name: ""
+[NONE ][18:55:47] CONNECTED 96.2.247.202:49132, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:58:52] CONNECTED 192.82.51.125:49594, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][19:01:42] [172.31.128.1:49132] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][19:01:42] DISCONNECTED 96.2.247.202:49132, code: 1006, reason: "", name: "Corbs"
+[NONE ][19:02:33] DISCONNECTED 192.82.51.125:49594, code: 1001, reason: "", name: "Player"
+[NONE ][19:02:35] CONNECTED 192.82.51.125:48228, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:02:38] DISCONNECTED 192.82.51.125:48228, code: 1000, reason: "", name: ""
+[NONE ][19:02:45] CONNECTED 192.82.51.125:55628, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:03:07] CONNECTED 63.236.213.242:46134, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:03:35] DISCONNECTED 63.236.213.242:46134, code: 1001, reason: "", name: "shugbush"
+[NONE ][19:05:00] CONNECTED 192.82.51.125:46854, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:05:34] DISCONNECTED 192.82.51.125:46854, code: 1000, reason: "", name: ""
+[ERROR][19:06:13] [172.31.128.1:57266] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][19:06:13] DISCONNECTED 205.118.123.62:57266, code: 1006, reason: "", name: "spike"
+[NONE ][19:06:14] CONNECTED 205.118.123.62:46974, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:06:18] DISCONNECTED 205.118.123.62:46974, code: 1001, reason: "", name: "spike"
+[NONE ][19:06:19] CONNECTED 205.118.123.62:56450, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:06:24] DISCONNECTED 205.118.123.62:56450, code: 1001, reason: "", name: "spike"
+[NONE ][19:06:25] CONNECTED 205.118.123.62:60792, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:06:30] DISCONNECTED 205.118.123.62:60792, code: 1001, reason: "", name: "spike"
+[NONE ][19:06:32] CONNECTED 205.118.123.62:60804, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:10:34] CONNECTED 192.82.51.131:35812, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:10:44] DISCONNECTED 192.82.51.131:35812, code: 1000, reason: "", name: ""
+[NONE ][19:19:06] DISCONNECTED 192.82.51.125:55628, code: 1001, reason: "", name: "Player"
+[NONE ][19:22:26] DISCONNECTED 205.118.123.62:60804, code: 1006, reason: "null", name: "spike"
+[NONE ][19:22:27] DISCONNECTED 205.118.123.62:35756, code: 1001, reason: "", name: ""
+[NONE ][19:22:27] DISCONNECTED 205.118.123.62:35756, code: 1001, reason: "", name: ""
+[NONE ][19:22:28] CONNECTED 205.118.123.62:55792, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:22:30] DISCONNECTED 205.118.123.62:55792, code: 1000, reason: "", name: ""
+[NONE ][19:22:33] CONNECTED 205.118.123.62:44410, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:22:37] DISCONNECTED 205.118.123.62:44410, code: 1000, reason: "", name: ""
+[NONE ][19:22:51] CONNECTED 205.118.123.62:52600, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:22:54] DISCONNECTED 205.118.123.62:52600, code: 1000, reason: "", name: ""
+[NONE ][19:23:52] CONNECTED 205.118.123.62:42034, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:23:54] CONNECTED 205.118.123.62:42648, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:23:56] DISCONNECTED 205.118.123.62:42034, code: 1000, reason: "", name: ""
+[NONE ][19:23:58] DISCONNECTED 205.118.123.62:42648, code: 1000, reason: "", name: ""
+[NONE ][19:32:18] CONNECTED 63.236.213.242:39968, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][19:37:56] DISCONNECTED 63.236.213.242:39968, code: 1001, reason: "", name: "Player"
+[NONE ][20:01:05] CONNECTED 136.24.163.126:59782, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:01:10] DISCONNECTED 136.24.163.126:59782, code: 1000, reason: "", name: ""
+[NONE ][20:38:52] CONNECTED 68.237.88.16:50014, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:43:08] DISCONNECTED 68.237.88.16:50014, code: 1001, reason: "", name: "Player"
+[NONE ][20:43:25] CONNECTED 68.237.88.16:60898, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:43:37] DISCONNECTED 68.237.88.16:60898, code: 1000, reason: "", name: ""
+[NONE ][20:52:58] CONNECTED 68.237.88.16:56106, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:53:03] DISCONNECTED 68.237.88.16:56106, code: 1000, reason: "", name: ""
+[NONE ][20:58:05] CONNECTED 68.237.88.16:53242, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:58:11] DISCONNECTED 68.237.88.16:53242, code: 1000, reason: "", name: ""
+[NONE ][21:07:27] CONNECTED 68.237.88.16:33236, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][21:07:33] DISCONNECTED 68.237.88.16:33236, code: 1000, reason: "", name: ""

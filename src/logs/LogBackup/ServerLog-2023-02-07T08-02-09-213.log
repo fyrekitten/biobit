@@ -1,0 +1,120 @@
+=== Started 2023-02-07T07-59-54-934 ===
+[ERROR][07:59:54] Unknown gameserver.ini value: serverWelcome3
+[INFO ][07:59:54] 1 bad words loaded
+[INFO ][07:59:54] 4 user records loaded.
+[INFO ][07:59:54] 0 IP ban records loaded.
+[INFO ][07:59:55] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][07:59:55] WebSocket: ws
+[INFO ][07:59:55] Started stats server on port 1234
+[INFO ][07:59:55] Listening on port 3000
+[INFO ][07:59:55] Current game mode is Free For All
+[INFO ][07:59:55] Added 4 player bots
+[NONE ][07:59:55]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][07:59:55] CONNECTED 217.180.35.10:37534, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][07:59:55] CONNECTED 83.110.146.158:44278, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][07:59:55] CONNECTED 68.41.121.97:41230, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][07:59:55] CONNECTED 83.110.146.158:37538, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][07:59:55] CONNECTED 94.29.126.76:41244, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][07:59:55] CONNECTED 5.195.4.244:46888, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][07:59:55] CONNECTED 14.3.113.155:38810, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][07:59:55] CONNECTED 5.195.47.107:41262, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][07:59:55] CONNECTED 94.29.126.76:39186, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][07:59:55] CONNECTED 71.193.142.247:38744, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][07:59:55] CONNECTED 83.110.146.158:40366, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][07:59:55] CONNECTED 5.195.47.105:38642, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][07:59:55] CONNECTED 83.110.146.158:60078, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][07:59:56] CONNECTED 5.195.47.111:39200, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][07:59:56] CONNECTED 98.161.224.186:40384, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][07:59:58] CONNECTED 194.71.178.202:38760, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][07:59:58] CONNECTED 150.242.87.165:42246, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][07:59:58] CONNECTED 83.110.146.158:51070, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][07:59:59] CONNECTED 94.29.126.76:40374, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:00:00] CONNECTED 94.29.126.76:58098, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:00:01] DISCONNECTED 68.41.121.97:41230, code: 1001, reason: "", name: ""
+[NONE ][08:00:01] CONNECTED 85.192.74.26:41282, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[ERROR][08:00:04] [172.31.128.1:37538] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][08:00:04] DISCONNECTED 83.110.146.158:37538, code: 1006, reason: "", name: ""
+[NONE ][08:00:06] DISCONNECTED 5.195.47.111:39200, code: 1001, reason: "", name: ""
+[NONE ][08:00:06] DISCONNECTED 5.195.47.107:41262, code: 1000, reason: "", name: ""
+[NONE ][08:00:06] DISCONNECTED 83.110.146.158:44278, code: 1001, reason: "", name: ""
+[NONE ][08:00:09] DISCONNECTED 150.242.87.165:42246, code: 1001, reason: "", name: ""
+[NONE ][08:00:10] DISCONNECTED 83.110.146.158:60078, code: 1001, reason: "", name: ""
+[NONE ][08:00:12] CONNECTED 83.110.146.158:50258, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:00:13] CONNECTED 5.195.47.111:49954, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:00:14] DISCONNECTED 14.3.113.155:38810, code: 1001, reason: "", name: ""
+[NONE ][08:00:15] CONNECTED 14.3.113.155:36782, origin: "https://biobit.bigfatgrub.repl.co"
+[ERROR][08:00:21] [172.31.128.1:38760] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][08:00:21] DISCONNECTED 194.71.178.202:38760, code: 1006, reason: "", name: "Player"
+[NONE ][08:00:24] CONNECTED 83.110.146.158:38320, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:00:24] DISCONNECTED 94.29.126.76:40374, code: 1001, reason: "", name: ""
+[NONE ][08:00:26] DISCONNECTED 5.195.47.111:49954, code: 1001, reason: "", name: ""
+[NONE ][08:00:32] CONNECTED 5.195.47.111:51916, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:00:34] DISCONNECTED 98.161.224.186:40384, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][08:00:37] CONNECTED 98.161.224.186:47524, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][08:00:37] CONNECTED 94.29.126.76:35480, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:00:40] DISCONNECTED 85.192.74.26:41282, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][08:00:41] CONNECTED 5.195.47.105:41102, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:00:46] CONNECTED 85.192.74.26:47550, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:00:47] DISCONNECTED 83.110.146.158:51070, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][08:00:50] CONNECTED 5.195.47.111:44926, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:00:50] CONNECTED 83.110.146.158:36190, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[ERROR][08:00:53] [172.31.128.1:37534] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][08:00:53] DISCONNECTED 217.180.35.10:37534, code: 1006, reason: "", name: ""
+[NONE ][08:01:02] CONNECTED 5.195.47.107:52038, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:01:06] CONNECTED 83.110.146.158:57612, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:01:07] CONNECTED 213.132.247.195:35462, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:01:29] DISCONNECTED 98.161.224.186:47524, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][08:01:32] CONNECTED 98.161.224.186:44604, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][08:01:39] DISCONNECTED 85.192.74.26:47550, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][08:01:45] CONNECTED 85.192.74.26:57594, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:01:47] DISCONNECTED 83.110.146.158:36190, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][08:01:49] CONNECTED 2.50.148.81:49840, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][08:01:49] CONNECTED 83.110.146.158:57898, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[FATAL][08:01:59] RangeError: Maximum call stack size exceeded
+    at Receiver.start (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:155:9)
+    at Receiver.dataMessage (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:373:10)
+    at Receiver.getData (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:319:12)
+    at Receiver.getMask (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:295:10)
+    at Receiver.haveLength (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:278:12)
+    at Receiver.start (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:226:12)
+    at Receiver.dataMessage (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:373:10)
+    at Receiver.getData (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:319:12)
+    at Receiver.getMask (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:295:10)
+    at Receiver.haveLength (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:278:12)
+[DEBUG][08:01:59] process.exit(1)
+=== Shutdown 2023-02-07T08-01-59-361 ===

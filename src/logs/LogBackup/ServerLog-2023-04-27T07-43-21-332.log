@@ -1,0 +1,37 @@
+=== Started 2023-04-27T00-43-00-697 ===
+[ERROR][00:43:00] Unknown gameserver.ini value: serverWelcome3
+[INFO ][00:43:00] 2 bad words loaded
+[INFO ][00:43:00] 4 user records loaded.
+[INFO ][00:43:00] 0 IP ban records loaded.
+[INFO ][00:43:00] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][00:43:00] WebSocket: ws
+[INFO ][00:43:00] Started stats server on port 1234
+[INFO ][00:43:00] Listening on port 3000
+[INFO ][00:43:00] Current game mode is vFree For All
+[INFO ][00:43:00] Added 4 player bots
+[NONE ][00:43:00]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][00:43:02] CONNECTED 179.191.98.226:42448, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:43:03] DISCONNECTED 179.191.98.226:42448, code: null, reason: "null", name: ""
+[NONE ][00:43:07] CONNECTED 179.191.98.226:42118, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:44:20] DISCONNECTED 179.191.98.226:42118, code: 1001, reason: "", name: "Player"
+[ERROR][00:44:20] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][00:44:39] CONNECTED 179.191.98.226:36916, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][00:45:20] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][00:45:50] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][00:46:07] DISCONNECTED 179.191.98.226:36916, code: null, reason: "null", name: "Player"
+[NONE ][00:46:07] DISCONNECTED 179.191.98.226:36916, code: null, reason: "null", name: "Player"
+[ERROR][00:46:20] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][00:46:22] CONNECTED 179.191.98.226:49354, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:46:37] DISCONNECTED 179.191.98.226:49354, code: 1006, reason: "null", name: ""
+[ERROR][00:46:42] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][00:47:25] CONNECTED 179.191.98.226:49122, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][00:48:20] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][00:48:50] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][00:49:20] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][00:49:47] DISCONNECTED 179.191.98.226:49122, code: 1006, reason: "null", name: "Player"
+[ERROR][00:49:50] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl

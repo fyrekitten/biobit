@@ -1,0 +1,29 @@
+=== Started 2023-04-05T01-03-38-955 ===
+[ERROR][01:03:38] Unknown gameserver.ini value: serverWelcome3
+[INFO ][01:03:38] 2 bad words loaded
+[INFO ][01:03:38] 4 user records loaded.
+[INFO ][01:03:38] 0 IP ban records loaded.
+[INFO ][01:03:38] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][01:03:38] WebSocket: ws
+[INFO ][01:03:39] Started stats server on port 1234
+[INFO ][01:03:39] Listening on port 3000
+[INFO ][01:03:39] Current game mode is vFree For All
+[INFO ][01:03:39] Added 4 player bots
+[NONE ][01:03:39]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][01:03:48] CONNECTED 202.55.72.74:56704, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][01:24:15] CONNECTED 203.116.55.2:56940, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][01:28:10] CONNECTED 202.55.72.74:56722, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][01:40:43] CONNECTED 202.55.72.74:41240, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][01:41:10] CONNECTED 202.55.72.74:34486, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][01:43:41] DISCONNECTED 202.55.72.74:41240, code: 1006, reason: "null", name: "Player"
+[NONE ][01:43:44] CONNECTED 202.55.72.74:37032, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][01:51:30] DISCONNECTED 203.116.55.2:56940, code: 1006, reason: "null", name: "boi"
+[NONE ][01:56:12] DISCONNECTED 202.55.72.74:37032, code: 1001, reason: "", name: "IPIB"
+[NONE ][01:58:47] DISCONNECTED 202.55.72.74:34486, code: 1001, reason: "", name: "ayush"
+[NONE ][01:58:49] DISCONNECTED 202.55.72.74:56704, code: 1001, reason: "", name: "bruh"
+[NONE ][02:00:01] DISCONNECTED 202.55.72.74:56722, code: 1006, reason: "null", name: "Player"

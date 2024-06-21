@@ -1,0 +1,65 @@
+=== Started 2023-03-23T00-28-32-448 ===
+[ERROR][00:28:32] Unknown gameserver.ini value: serverWelcome3
+[INFO ][00:28:32] 2 bad words loaded
+[INFO ][00:28:32] 4 user records loaded.
+[INFO ][00:28:32] 0 IP ban records loaded.
+[INFO ][00:28:32] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][00:28:32] WebSocket: ws
+[INFO ][00:28:32] Started stats server on port 1234
+[INFO ][00:28:32] Listening on port 3000
+[INFO ][00:28:32] Current game mode is vFree For All
+[INFO ][00:28:32] Added 4 player bots
+[NONE ][00:28:32]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][00:28:43] CONNECTED 73.197.234.235:46320, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:33:42] DISCONNECTED 73.197.234.235:46320, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:33:44] CONNECTED 73.197.234.235:40818, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:34:42] DISCONNECTED 73.197.234.235:40818, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:34:44] CONNECTED 73.197.234.235:58696, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:35:42] DISCONNECTED 73.197.234.235:58696, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:35:44] CONNECTED 73.197.234.235:42456, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:36:42] DISCONNECTED 73.197.234.235:42456, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:36:44] CONNECTED 73.197.234.235:58250, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:37:42] DISCONNECTED 73.197.234.235:58250, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:37:44] CONNECTED 73.197.234.235:45772, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:38:42] DISCONNECTED 73.197.234.235:45772, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:38:44] CONNECTED 73.197.234.235:53422, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:39:42] DISCONNECTED 73.197.234.235:53422, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:39:45] CONNECTED 73.197.234.235:38342, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:40:42] DISCONNECTED 73.197.234.235:38342, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:40:44] CONNECTED 73.197.234.235:53096, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:41:42] DISCONNECTED 73.197.234.235:53096, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:41:44] CONNECTED 73.197.234.235:58746, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:42:42] DISCONNECTED 73.197.234.235:58746, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:42:44] CONNECTED 73.197.234.235:55108, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:43:42] DISCONNECTED 73.197.234.235:55108, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:43:44] CONNECTED 73.197.234.235:60580, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:44:42] DISCONNECTED 73.197.234.235:60580, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:44:44] CONNECTED 73.197.234.235:39126, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:45:42] DISCONNECTED 73.197.234.235:39126, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:45:44] CONNECTED 73.197.234.235:41288, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:46:42] DISCONNECTED 73.197.234.235:41288, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:46:44] CONNECTED 73.197.234.235:58318, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:47:42] DISCONNECTED 73.197.234.235:58318, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:47:44] CONNECTED 73.197.234.235:55250, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:48:42] DISCONNECTED 73.197.234.235:55250, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:48:44] CONNECTED 73.197.234.235:34306, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:49:42] DISCONNECTED 73.197.234.235:34306, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:49:44] CONNECTED 73.197.234.235:49064, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:50:42] DISCONNECTED 73.197.234.235:49064, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:50:44] CONNECTED 73.197.234.235:38964, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:51:42] DISCONNECTED 73.197.234.235:38964, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:51:45] CONNECTED 73.197.234.235:34958, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:52:42] DISCONNECTED 73.197.234.235:34958, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:52:44] CONNECTED 73.197.234.235:44756, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:53:42] DISCONNECTED 73.197.234.235:44756, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:53:44] CONNECTED 73.197.234.235:40406, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:54:42] DISCONNECTED 73.197.234.235:40406, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:54:44] CONNECTED 73.197.234.235:56472, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:55:24] DISCONNECTED 73.197.234.235:56472, code: null, reason: "null", name: ""
+[NONE ][01:02:17] CONNECTED 73.197.234.235:50660, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][01:02:57] DISCONNECTED 73.197.234.235:50660, code: 1001, reason: "", name: ""

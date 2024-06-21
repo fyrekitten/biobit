@@ -1,0 +1,139 @@
+=== Started 2023-02-14T15-47-03-243 ===
+[ERROR][15:47:03] Unknown gameserver.ini value: serverWelcome3
+[INFO ][15:47:03] 2 bad words loaded
+[INFO ][15:47:03] 4 user records loaded.
+[INFO ][15:47:03] 0 IP ban records loaded.
+[INFO ][15:47:03] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:47:03] WebSocket: ws
+[INFO ][15:47:03] Started stats server on port 1234
+[INFO ][15:47:03] Listening on port 3000
+[INFO ][15:47:03] Current game mode is vFree For All
+[INFO ][15:47:03] Added 4 player bots
+[NONE ][15:47:03]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:47:08] >help
+[NONE ][15:47:08]               ┌────────────────────────────┐                       
+                       │ LIST OF AVAILABLE COMMANDS │                       
+┌──────────────────────┴────────────────────────────┴──────────────────────┐
+│                         ----Players and AI----                           │
+│                                                                          │
+│ playerlist                   │ Get list of players, bots, ID's, etc      │
+│ minion [PlayerID] [#] [name] │ Adds suicide minions to the server        │
+│ addbot [number]              │ Adds bots to the server                   │
+│ kickbot [number]             │ Kick a number of bots - No value= all gone│
+│ kick [PlayerID]              │ Kick player or bot by client ID           │
+│ kickall                      │ Kick all players and bots                 │
+│ kill [PlayerID]              │ Kill the player by client ID              │
+│ killall                      │ Kills everyone                            │
+│                                                                          │
+│                          ----Player Commands----                         │
+│                                                                          │
+│ spawn [entity] [pos] [mass]  │ Spawns an entity                          │
+│ mass [PlayerID] [mass]       │ Set cell(s) mass by client ID             │
+│ merge [PlayerID]             │ Merge all client's cells                  │
+│ spawnmass [PlayerID] [mass]  │ Sets a player's spawn mass                │
+│ freeze [PlayerID]            │ Freezes a player                          │
+│ speed [PlayerID]             │ Sets a player's base speed                │
+│ color [PlayerID] [R] [G] [B] │ Set cell(s) color by client ID            │
+│ name [PlayerID] [name]       │ Change cell(s) name by client ID          │
+│ skin [PlayerID] [string]     │ Change cell(s) skin by client ID          │
+│ rec [PlayerID]               │ Gives a player instant-recombine + more   │
+│ split [PlayerID] [Amount]    │ Forces a player to split                  │
+│ tp [X] [Y]                   │ Teleports player(s) to XY coordinates     │
+│ replace [PlayerID] [entity]  │ Replaces a player with an entity          │
+│ pop [PlayerID]               │ Pops a player with a virus                │
+| explode [PlayerID]           | Explodes a player into ejected mass       |
+│                                                                          │
+│                          ----Server Commands----                         │
+│                                                                          │
+│ pause                        │ Pause game, freeze all nodes              │
+│ board [string] [string] ...  │ Set scoreboard text                       │
+│ change [setting] [value]     │ Change specified settings                 │
+│ reload                       │ Reload config, banlist, and role files    │
+│ ban [PlayerID │ IP]          │ Bans a player(s) IP                       │
+│ unban [IP]                   │ Unbans an IP                              │
+│ banlist                      │ Get list of banned IPs.                   │
+│ mute [PlayerID]              │ Mute player from chat by client ID        │
+│ unmute [PlayerID]            │ Unmute player from chat by client ID      │
+| lms                          | Starts/ends last man standing             |
+| chat                         | Sends a server message to all clients     |
+│                                                                          │
+│                          ----Miscellaneous----                           │
+│                                                                          │
+│ clear                        │ Clear console output                      │
+│ reset                        │ Removes all nodes and reimplement them    │
+│ status                       │ Get server status                         │
+│ debug                        │ Get/check node lengths                    │
+│ exit                         │ Stops the server                          │
+│ calc                         │ Get size/mass from a specified value      │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────┤
+│               Why did i make this lmao... i have no life                 │
+└──────────────────────────────────────────────────────────────────────────┘
+[NONE ][15:47:29] CONNECTED 152.157.185.136:52962, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][15:47:29] Welcome to BioBit v1.0! 
+[NONE ][15:47:29] SERVER
+[NONE ][15:47:29] Hello There! 
+[NONE ][15:47:29] SERVER
+[NONE ][15:47:39] CONNECTED 152.157.185.136:34898, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][15:47:39] Welcome to BioBit v1.0! 
+[NONE ][15:47:39] SERVER
+[NONE ][15:47:39] Hello There! 
+[NONE ][15:47:39] SERVER
+[NONE ][15:47:39] DISCONNECTED 152.157.185.136:52962, code: null, reason: "null", name: ""
+[NONE ][15:47:41] DISCONNECTED 152.157.185.136:34898, code: 1001, reason: "", name: ""
+[NONE ][15:47:42] CONNECTED 152.157.185.136:54734, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][15:47:42] Welcome to BioBit v1.0! 
+[NONE ][15:47:42] SERVER
+[NONE ][15:47:42] Hello There! 
+[NONE ][15:47:42] SERVER
+[NONE ][15:48:44] DISCONNECTED 152.157.185.136:54734, code: 1006, reason: "null", name: ""
+[NONE ][16:44:14] CONNECTED 152.157.185.136:54838, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:44:14] Welcome to BioBit v1.0! 
+[NONE ][16:44:14] SERVER
+[NONE ][16:44:14] Hello There! 
+[NONE ][16:44:14] SERVER
+[NONE ][16:44:17] DISCONNECTED 152.157.185.136:54838, code: 1001, reason: "", name: ""
+[NONE ][16:44:19] CONNECTED 152.157.185.136:49496, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:44:19] Welcome to BioBit v1.0! 
+[NONE ][16:44:19] SERVER
+[NONE ][16:44:19] Hello There! 
+[NONE ][16:44:19] SERVER
+[NONE ][16:44:45] >rec 5
+[WARN ][16:44:45] That player ID is non-existant!
+[NONE ][16:44:48] >playerlsit
+[WARN ][16:44:48] Invalid Command!
+[NONE ][16:44:51] >playerlist
+[NONE ][16:44:51] 
+Current players: 5
+[NONE ][16:44:51] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][16:44:51]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                                               
+[NONE ][16:44:51] ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][16:44:51]       1 | [BOT]           | ? |     1 |   1374 |  5761,  2654 | Maggot 🤖                                         
+[NONE ][16:44:51]       2 | [BOT]           | ? |     1 |    329 | -5302, -5569 | Bruh 🤖                                           
+[NONE ][16:44:51]       3 | [BOT]           | ? |     1 |    521 |  -532, -2363 | Maggot 🤖                                         
+[NONE ][16:44:51]       4 | [BOT]           | ? |     1 |    935 |  1447, -1972 | Toenail 🤖                                        
+[NONE ][16:44:51]       9 | 152.157.185.136 | 6 |     1 |     26 | -1104, -1005 | Joe Swansonson                                    
+[NONE ][16:44:54] >rec 9
+[NONE ][16:44:54] Joe Swansonson is now in rec mode!
+[NONE ][16:45:05] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[NONE ][16:45:05] SERVER
+[NONE ][16:45:05] /skin %shark - change skin
+[NONE ][16:45:05] SERVER
+[NONE ][16:45:05] /kill - self kill
+[NONE ][16:45:05] SERVER
+[NONE ][16:45:05] /help - this command list
+[NONE ][16:45:05] SERVER
+[NONE ][16:45:05] /id - Gets your playerID
+[NONE ][16:45:05] SERVER
+[NONE ][16:45:05] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[NONE ][16:45:05] SERVER
+[NONE ][16:45:18] ERROR: Unknown command, type /help for command list
+[NONE ][16:45:18] SERVER
+[NONE ][16:45:27] >speed 9 100
+[NONE ][16:45:27] Set base speed of Joe Swansonson to 100

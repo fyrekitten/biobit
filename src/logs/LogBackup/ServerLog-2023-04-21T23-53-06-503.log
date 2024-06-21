@@ -1,0 +1,112 @@
+=== Started 2023-04-21T19-10-28-953 ===
+[ERROR][19:10:28] Unknown gameserver.ini value: serverWelcome3
+[INFO ][19:10:28] 2 bad words loaded
+[INFO ][19:10:29] 4 user records loaded.
+[INFO ][19:10:29] 0 IP ban records loaded.
+[INFO ][19:10:29] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][19:10:29] WebSocket: ws
+[INFO ][19:10:29] Started stats server on port 1234
+[INFO ][19:10:29] Listening on port 3000
+[INFO ][19:10:29] Current game mode is vFree For All
+[INFO ][19:10:29] Added 4 player bots
+[NONE ][19:10:29]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][19:41:27] CONNECTED 208.54.169.132:33314, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][19:42:19] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][19:43:19] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][19:43:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][19:44:01] DISCONNECTED 208.54.169.132:33314, code: null, reason: "null", name: "Player"
+[NONE ][19:44:01] DISCONNECTED 208.54.169.132:33314, code: null, reason: "null", name: "Player"
+[NONE ][19:44:40] CONNECTED 208.54.169.132:47556, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][19:45:19] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][19:45:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][19:46:01] DISCONNECTED 208.54.169.132:47556, code: null, reason: "null", name: ""
+[NONE ][19:46:01] DISCONNECTED 208.54.169.132:47556, code: null, reason: "null", name: ""
+[ERROR][19:46:11] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][19:46:13] CONNECTED 208.54.169.132:55638, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][19:47:01] DISCONNECTED 208.54.169.132:55638, code: null, reason: "null", name: ""
+[NONE ][19:47:01] DISCONNECTED 208.54.169.132:55638, code: null, reason: "null", name: ""
+[ERROR][19:47:21] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][19:47:24] CONNECTED 208.54.169.132:51392, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][19:48:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][19:49:01] DISCONNECTED 208.54.169.132:51392, code: null, reason: "null", name: ""
+[NONE ][19:49:01] DISCONNECTED 208.54.169.132:51392, code: null, reason: "null", name: ""
+[NONE ][19:49:09] CONNECTED 208.54.169.132:58148, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][19:50:01] DISCONNECTED 208.54.169.132:58148, code: null, reason: "null", name: ""
+[NONE ][19:50:01] DISCONNECTED 208.54.169.132:58148, code: null, reason: "null", name: ""
+[NONE ][19:50:08] CONNECTED 208.54.169.132:44530, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][19:50:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][19:51:01] DISCONNECTED 208.54.169.132:44530, code: null, reason: "null", name: ""
+[NONE ][19:51:01] DISCONNECTED 208.54.169.132:44530, code: null, reason: "null", name: ""
+[NONE ][19:51:26] CONNECTED 208.54.169.132:45786, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][19:52:21] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][19:52:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][19:53:01] DISCONNECTED 208.54.169.132:45786, code: null, reason: "null", name: ""
+[NONE ][19:53:01] DISCONNECTED 208.54.169.132:45786, code: null, reason: "null", name: ""
+[ERROR][19:53:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][19:53:57] CONNECTED 208.54.169.132:41384, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][19:55:01] DISCONNECTED 208.54.169.132:41384, code: null, reason: "null", name: ""
+[NONE ][19:55:01] DISCONNECTED 208.54.169.132:41384, code: null, reason: "null", name: ""
+[NONE ][19:55:10] CONNECTED 208.54.169.132:58002, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][19:55:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][19:56:01] DISCONNECTED 208.54.169.132:58002, code: null, reason: "null", name: ""
+[NONE ][19:56:01] DISCONNECTED 208.54.169.132:58002, code: null, reason: "null", name: ""
+[NONE ][19:56:09] CONNECTED 208.54.169.132:53388, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][19:57:01] DISCONNECTED 208.54.169.132:53388, code: null, reason: "null", name: ""
+[NONE ][19:57:01] DISCONNECTED 208.54.169.132:53388, code: null, reason: "null", name: ""
+[NONE ][19:57:09] CONNECTED 208.54.169.132:50388, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][19:57:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][19:58:01] DISCONNECTED 208.54.169.132:50388, code: null, reason: "null", name: ""
+[NONE ][19:58:01] DISCONNECTED 208.54.169.132:50388, code: null, reason: "null", name: ""
+[NONE ][19:58:09] CONNECTED 208.54.169.132:38064, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][19:59:01] DISCONNECTED 208.54.169.132:38064, code: null, reason: "null", name: ""
+[NONE ][19:59:01] DISCONNECTED 208.54.169.132:38064, code: null, reason: "null", name: ""
+[ERROR][19:59:10] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][19:59:13] CONNECTED 208.54.169.132:35884, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][19:59:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][20:00:00] DISCONNECTED 208.54.169.132:35884, code: null, reason: "null", name: ""
+[NONE ][20:00:00] DISCONNECTED 208.54.169.132:35884, code: null, reason: "null", name: ""
+[NONE ][20:00:09] CONNECTED 208.54.169.132:57560, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:00:48] DISCONNECTED 208.54.169.132:57560, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][20:00:50] CONNECTED 208.54.169.132:53560, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:01:57] DISCONNECTED 208.54.169.132:53560, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][20:01:59] CONNECTED 208.54.169.132:40664, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:03:00] DISCONNECTED 208.54.169.132:40664, code: null, reason: "null", name: ""
+[NONE ][20:03:00] DISCONNECTED 208.54.169.132:40664, code: null, reason: "null", name: ""
+[ERROR][20:03:09] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][20:03:11] CONNECTED 208.54.169.132:60600, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][20:03:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][20:04:00] DISCONNECTED 208.54.169.132:60600, code: null, reason: "null", name: ""
+[NONE ][20:04:00] DISCONNECTED 208.54.169.132:60600, code: null, reason: "null", name: ""
+[ERROR][20:04:10] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][20:04:12] CONNECTED 208.54.169.132:42460, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][20:04:53] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][20:05:00] DISCONNECTED 208.54.169.132:42460, code: null, reason: "null", name: ""
+[NONE ][20:05:00] DISCONNECTED 208.54.169.132:42460, code: null, reason: "null", name: ""
+[NONE ][20:05:09] CONNECTED 208.54.169.132:51502, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:05:48] DISCONNECTED 208.54.169.132:51502, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][20:05:50] CONNECTED 208.54.169.132:58300, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:07:00] DISCONNECTED 208.54.169.132:58300, code: null, reason: "null", name: ""
+[NONE ][20:07:00] DISCONNECTED 208.54.169.132:58300, code: null, reason: "null", name: ""
+[NONE ][20:07:04] CONNECTED 208.54.169.132:50982, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][20:07:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][20:08:00] DISCONNECTED 208.54.169.132:50982, code: null, reason: "null", name: ""
+[NONE ][20:08:00] DISCONNECTED 208.54.169.132:50982, code: null, reason: "null", name: ""
+[ERROR][20:08:12] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][20:08:15] CONNECTED 208.54.169.132:52354, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][20:08:50] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][20:09:00] DISCONNECTED 208.54.169.132:52354, code: null, reason: "null", name: ""
+[NONE ][20:09:00] DISCONNECTED 208.54.169.132:52354, code: null, reason: "null", name: ""
+[NONE ][20:09:11] CONNECTED 208.54.169.132:37610, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][20:09:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][20:10:00] DISCONNECTED 208.54.169.132:37610, code: null, reason: "null", name: ""
+[NONE ][20:10:00] DISCONNECTED 208.54.169.132:37610, code: null, reason: "null", name: ""
+[NONE ][20:10:08] CONNECTED 208.54.169.132:56358, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:11:00] DISCONNECTED 208.54.169.132:56358, code: null, reason: "null", name: ""
+[NONE ][20:11:00] DISCONNECTED 208.54.169.132:56358, code: null, reason: "null", name: ""
+[NONE ][20:11:09] CONNECTED 208.54.169.132:48588, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][20:11:22] DISCONNECTED 208.54.169.132:48588, code: 1001, reason: "", name: ""

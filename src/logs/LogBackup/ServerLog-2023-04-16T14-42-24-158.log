@@ -1,0 +1,31 @@
+=== Started 2023-04-16T13-26-51-550 ===
+[ERROR][13:26:51] Unknown gameserver.ini value: serverWelcome3
+[INFO ][13:26:51] 2 bad words loaded
+[INFO ][13:26:51] 4 user records loaded.
+[INFO ][13:26:51] 0 IP ban records loaded.
+[INFO ][13:26:51] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:26:51] WebSocket: ws
+[INFO ][13:26:51] Started stats server on port 1234
+[INFO ][13:26:51] Listening on port 3000
+[INFO ][13:26:51] Current game mode is vFree For All
+[INFO ][13:26:51] Added 4 player bots
+[NONE ][13:26:51]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:26:58] CONNECTED 71.215.199.243:38804, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:27:38] DISCONNECTED 71.215.199.243:38804, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:27:40] CONNECTED 71.215.199.243:37334, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:28:38] DISCONNECTED 71.215.199.243:37334, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:28:40] CONNECTED 71.215.199.243:38172, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:29:37] DISCONNECTED 71.215.199.243:38172, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:29:40] CONNECTED 71.215.199.243:42068, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:30:37] DISCONNECTED 71.215.199.243:42068, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:30:40] CONNECTED 71.215.199.243:55372, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:31:37] DISCONNECTED 71.215.199.243:55372, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:31:39] CONNECTED 71.215.199.243:44906, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:32:37] DISCONNECTED 71.215.199.243:44906, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:32:40] CONNECTED 71.215.199.243:54494, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:33:06] DISCONNECTED 71.215.199.243:54494, code: null, reason: "null", name: ""

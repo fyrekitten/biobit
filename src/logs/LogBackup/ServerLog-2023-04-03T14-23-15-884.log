@@ -1,0 +1,57 @@
+=== Started 2023-04-03T13-17-54-434 ===
+[ERROR][13:17:54] Unknown gameserver.ini value: serverWelcome3
+[INFO ][13:17:54] 2 bad words loaded
+[INFO ][13:17:54] 4 user records loaded.
+[INFO ][13:17:54] 0 IP ban records loaded.
+[INFO ][13:17:54] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:17:54] WebSocket: ws
+[INFO ][13:17:55] Started stats server on port 1234
+[INFO ][13:17:55] Listening on port 3000
+[INFO ][13:17:55] Current game mode is vFree For All
+[INFO ][13:17:55] Added 4 player bots
+[NONE ][13:17:55]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:18:03] CONNECTED 170.211.157.126:34876, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:18:42] DISCONNECTED 170.211.157.126:34876, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:18:44] CONNECTED 170.211.157.126:59516, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:19:26] DISCONNECTED 170.211.157.126:59516, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:19:28] CONNECTED 170.211.157.126:50940, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:20:26] DISCONNECTED 170.211.157.126:50940, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:20:28] CONNECTED 170.211.157.126:47408, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:21:08] CONNECTED 65.154.226.169:58734, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:21:26] DISCONNECTED 170.211.157.126:47408, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:21:29] CONNECTED 170.211.157.126:57010, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:21:29] DISCONNECTED 65.154.226.169:58734, code: 1001, reason: "", name: ""
+[NONE ][13:22:26] DISCONNECTED 170.211.157.126:57010, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:22:29] CONNECTED 170.211.157.126:52752, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:22:55] CONNECTED 192.82.51.131:49188, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:23:26] DISCONNECTED 170.211.157.126:52752, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:23:29] CONNECTED 170.211.157.126:53664, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:24:26] DISCONNECTED 170.211.157.126:53664, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:24:29] CONNECTED 170.211.157.126:48160, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:25:27] DISCONNECTED 170.211.157.126:48160, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:25:29] CONNECTED 170.211.157.126:40056, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:26:27] DISCONNECTED 170.211.157.126:40056, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:26:28] CONNECTED 170.211.157.126:56314, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:27:26] DISCONNECTED 170.211.157.126:56314, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:27:28] CONNECTED 170.211.157.126:46244, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:28:26] DISCONNECTED 170.211.157.126:46244, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:28:28] DISCONNECTED 192.82.51.131:49188, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:28:30] CONNECTED 170.211.157.126:43652, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:28:31] CONNECTED 192.82.51.131:52744, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:29:27] DISCONNECTED 170.211.157.126:43652, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:29:29] DISCONNECTED 192.82.51.131:52744, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:29:29] CONNECTED 170.211.157.126:34408, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:29:31] CONNECTED 192.82.51.131:53368, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:30:27] DISCONNECTED 170.211.157.126:34408, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:30:28] DISCONNECTED 192.82.51.131:53368, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:30:29] CONNECTED 170.211.157.126:40686, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:30:31] CONNECTED 192.82.51.131:41850, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:31:05] DISCONNECTED 170.211.157.126:40686, code: 1001, reason: "", name: ""
+[NONE ][13:31:28] DISCONNECTED 192.82.51.131:41850, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:31:31] CONNECTED 192.82.51.131:56830, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:32:14] DISCONNECTED 192.82.51.131:56830, code: 1001, reason: "", name: ""

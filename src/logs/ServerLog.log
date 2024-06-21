@@ -1,0 +1,110 @@
+=== Started 2024-06-21T20-12-20-480 ===
+[ERROR][20:12:20] Unknown gameserver.ini value: serverWelcome3
+[INFO ][20:12:20] 2 bad words loaded
+[INFO ][20:12:20] 4 user records loaded.
+[INFO ][20:12:20] 0 IP ban records loaded.
+[INFO ][20:12:20] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][20:12:20] WebSocket: ws
+[INFO ][20:12:20] Started stats server on port 1234
+[INFO ][20:12:20] Listening on port 3000
+[INFO ][20:12:20] Current game mode is vFree For All
+[INFO ][20:12:20] Added 4 player bots
+[NONE ][20:12:20]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][20:13:16] CONNECTED 217.180.219.229:53914, origin: "https://7c5dd2ce-84e8-4f78-9237-f75b4790560f-00-2fg41ybkcqjs2.kirk.replit.dev:3000"
+[NONE ][20:13:33] >players
+[WARN ][20:13:33] Invalid Command!
+[NONE ][20:13:34] >help
+[NONE ][20:13:34]               ┌────────────────────────────┐                       
+                       │ LIST OF AVAILABLE COMMANDS │                       
+┌──────────────────────┴────────────────────────────┴──────────────────────┐
+│                         ----Players and AI----                           │
+│                                                                          │
+│ playerlist                   │ Get list of players, bots, ID's, etc      │
+│ minion [PlayerID] [#] [name] │ Adds suicide minions to the server        │
+│ addbot [number]              │ Adds bots to the server                   │
+│ kickbot [number]             │ Kick a number of bots - No value= all gone│
+│ kick [PlayerID]              │ Kick player or bot by client ID           │
+│ kickall                      │ Kick all players and bots                 │
+│ kill [PlayerID]              │ Kill the player by client ID              │
+│ killall                      │ Kills everyone                            │
+│                                                                          │
+│                          ----Player Commands----                         │
+│                                                                          │
+│ spawn [entity] [pos] [mass]  │ Spawns an entity                          │
+│ mass [PlayerID] [mass]       │ Set cell(s) mass by client ID             │
+│ merge [PlayerID]             │ Merge all client's cells                  │
+│ spawnmass [PlayerID] [mass]  │ Sets a player's spawn mass                │
+│ freeze [PlayerID]            │ Freezes a player                          │
+│ speed [PlayerID]             │ Sets a player's base speed                │
+│ color [PlayerID] [R] [G] [B] │ Set cell(s) color by client ID            │
+│ name [PlayerID] [name]       │ Change cell(s) name by client ID          │
+│ skin [PlayerID] [string]     │ Change cell(s) skin by client ID          │
+│ rec [PlayerID]               │ Gives a player instant-recombine + more   │
+│ split [PlayerID] [Amount]    │ Forces a player to split                  │
+│ tp [X] [Y]                   │ Teleports player(s) to XY coordinates     │
+│ replace [PlayerID] [entity]  │ Replaces a player with an entity          │
+│ pop [PlayerID]               │ Pops a player with a virus                │
+| explode [PlayerID]           | Explodes a player into ejected mass       |
+│                                                                          │
+│                          ----Server Commands----                         │
+│                                                                          │
+│ pause                        │ Pause game, freeze all nodes              │
+│ board [string] [string] ...  │ Set scoreboard text                       │
+│ change [setting] [value]     │ Change specified settings                 │
+│ reload                       │ Reload config, banlist, and role files    │
+│ ban [PlayerID │ IP]          │ Bans a player(s) IP                       │
+│ unban [IP]                   │ Unbans an IP                              │
+│ banlist                      │ Get list of banned IPs.                   │
+│ mute [PlayerID]              │ Mute player from chat by client ID        │
+│ unmute [PlayerID]            │ Unmute player from chat by client ID      │
+| lms                          | Starts/ends last man standing             |
+| chat                         | Sends a server message to all clients     |
+│                                                                          │
+│                          ----Miscellaneous----                           │
+│                                                                          │
+│ clear                        │ Clear console output                      │
+│ reset                        │ Removes all nodes and reimplement them    │
+│ status                       │ Get server status                         │
+│ debug                        │ Get/check node lengths                    │
+│ exit                         │ Stops the server                          │
+│ calc                         │ Get size/mass from a specified value      │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────┤
+│               Why did i make this lmao... i have no life                 │
+└──────────────────────────────────────────────────────────────────────────┘
+[NONE ][20:13:44] >playerlist
+[NONE ][20:13:44] 
+Current players: 5
+[NONE ][20:13:44] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][20:13:44]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                                               
+[NONE ][20:13:44] ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][20:13:44]       1 | [BOT]           | ? |     2 |    265 |  2771, -3175 | Bruh 🤖                                           
+[NONE ][20:13:44]       2 | [BOT]           | ? |     1 |    190 | -5704, -1545 | Sweaty 🤖                                         
+[NONE ][20:13:44]       3 | [BOT]           | ? |     1 |    128 |  6395, -6909 | Maggot 🤖                                         
+[NONE ][20:13:44]       4 | [BOT]           | ? |     1 |    210 |  4454, -2089 | Toenail 🤖                                        
+[NONE ][20:13:44]       5 | 217.180.219.229 | 6 |     1 |     29 | -1026, -5930 | gun                                               
+[NONE ][20:14:08] >spawnmass 5 1000-
+[NONE ][20:14:08] Set spawnmass of gun to 1000.000
+[NONE ][20:14:12] >spawnmass 5 10000
+[NONE ][20:14:12] Set spawnmass of gun to 10000.000
+[NONE ][20:14:36] >spawnmass 5 100000
+[NONE ][20:14:36] Set spawnmass of gun to 100000.000
+[NONE ][20:16:50] >spawnmass 5 1000000
+[NONE ][20:16:50] Set spawnmass of gun to 1000000.000
+[NONE ][20:17:24] >spawnmass 5 10000000000
+[NONE ][20:17:24] Set spawnmass of gun to 10000000000.000
+[NONE ][20:17:34] >kill 5
+[NONE ][20:17:34] Killed gun and removed 21 cells
+[NONE ][20:17:43] >spawnmass 5 10000000000000000000000000000
+[NONE ][20:17:43] Set spawnmass of gun to 1e+28
+[NONE ][20:17:45] >kill 4
+[NONE ][20:17:45] Killed Toenail 🤖 and removed 1 cells
+[NONE ][20:17:52] >kill 5
+[NONE ][20:17:52] Killed gun and removed 21 cells
+[NONE ][20:18:05] DISCONNECTED 217.180.219.229:53914, code: 1001, reason: "", name: "gun"

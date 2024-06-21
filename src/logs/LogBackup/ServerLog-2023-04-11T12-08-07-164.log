@@ -1,0 +1,63 @@
+=== Started 2023-04-11T03-19-29-684 ===
+[ERROR][03:19:29] Unknown gameserver.ini value: serverWelcome3
+[INFO ][03:19:29] 2 bad words loaded
+[INFO ][03:19:29] 4 user records loaded.
+[INFO ][03:19:29] 0 IP ban records loaded.
+[INFO ][03:19:29] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][03:19:29] WebSocket: ws
+[INFO ][03:19:29] Started stats server on port 1234
+[INFO ][03:19:29] Listening on port 3000
+[INFO ][03:19:29] Current game mode is vFree For All
+[INFO ][03:19:30] Added 4 player bots
+[NONE ][03:19:30]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][03:19:42] CONNECTED 202.55.72.74:33324, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:26:46] DISCONNECTED 202.55.72.74:33324, code: 1000, reason: "Connection timeout", name: "Ayush"
+[NONE ][03:26:49] CONNECTED 202.55.72.74:60042, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:27:46] DISCONNECTED 202.55.72.74:60042, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:27:48] CONNECTED 202.55.72.74:35886, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:28:46] DISCONNECTED 202.55.72.74:35886, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:28:49] CONNECTED 202.55.72.74:48936, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:29:46] DISCONNECTED 202.55.72.74:48936, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:29:48] CONNECTED 202.55.72.74:50112, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:30:46] DISCONNECTED 202.55.72.74:50112, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:30:49] CONNECTED 202.55.72.74:55166, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:31:46] DISCONNECTED 202.55.72.74:55166, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:31:49] CONNECTED 202.55.72.74:35432, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:32:46] DISCONNECTED 202.55.72.74:35432, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:32:49] CONNECTED 202.55.72.74:32874, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:33:46] DISCONNECTED 202.55.72.74:32874, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:33:48] CONNECTED 202.55.72.74:52600, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:34:46] DISCONNECTED 202.55.72.74:52600, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:34:49] CONNECTED 202.55.72.74:55420, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:35:46] DISCONNECTED 202.55.72.74:55420, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:35:48] CONNECTED 202.55.72.74:41928, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:36:46] DISCONNECTED 202.55.72.74:41928, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:36:49] CONNECTED 202.55.72.74:44920, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:37:46] DISCONNECTED 202.55.72.74:44920, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:37:48] CONNECTED 202.55.72.74:40372, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:38:46] DISCONNECTED 202.55.72.74:40372, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:38:49] CONNECTED 202.55.72.74:41112, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:39:46] DISCONNECTED 202.55.72.74:41112, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:39:48] CONNECTED 202.55.72.74:42902, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:40:46] DISCONNECTED 202.55.72.74:42902, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:40:49] CONNECTED 202.55.72.74:50354, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:41:46] DISCONNECTED 202.55.72.74:50354, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:41:48] CONNECTED 202.55.72.74:54518, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:42:46] DISCONNECTED 202.55.72.74:54518, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:42:49] CONNECTED 202.55.72.74:49916, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:43:46] DISCONNECTED 202.55.72.74:49916, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:43:49] CONNECTED 202.55.72.74:56230, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:44:46] DISCONNECTED 202.55.72.74:56230, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:44:49] CONNECTED 202.55.72.74:43096, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:45:46] DISCONNECTED 202.55.72.74:43096, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:45:48] CONNECTED 202.55.72.74:46322, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:46:46] DISCONNECTED 202.55.72.74:46322, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:46:49] CONNECTED 202.55.72.74:48852, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:47:24] DISCONNECTED 202.55.72.74:48852, code: 1001, reason: "", name: ""
+[NONE ][04:03:25] CONNECTED 202.55.72.74:59104, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:14:50] DISCONNECTED 202.55.72.74:59104, code: 1001, reason: "", name: "Player"

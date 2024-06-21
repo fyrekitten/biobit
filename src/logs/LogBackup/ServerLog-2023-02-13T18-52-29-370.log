@@ -1,0 +1,28 @@
+=== Started 2023-02-13T18-50-12-592 ===
+[ERROR][18:50:12] Unknown gameserver.ini value: serverWelcome3
+[INFO ][18:50:12] 2 bad words loaded
+[INFO ][18:50:12] 4 user records loaded.
+[INFO ][18:50:12] 0 IP ban records loaded.
+[INFO ][18:50:12] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][18:50:12] WebSocket: ws
+[INFO ][18:50:12] Started stats server on port 1234
+[INFO ][18:50:12] Listening on port 3000
+[INFO ][18:50:12] Current game mode is vFree For All
+[INFO ][18:50:12] Added 4 player bots
+[NONE ][18:50:12]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][18:50:16] CONNECTED 152.157.185.136:58348, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:50:17] Welcome to BioBit v1.0! 
+[NONE ][18:50:17] SERVER
+[NONE ][18:50:17] Hello There! 
+[NONE ][18:50:17] SERVER
+[NONE ][18:50:26] >mas 5 1000
+[WARN ][18:50:26] Invalid Command!
+[NONE ][18:50:27] >mass
+[WARN ][18:50:27] Please specify a valid player ID!
+[NONE ][18:50:31] >mass 5 1000
+[NONE ][18:50:31] Set mass of Joe Swansonson to 1000.000

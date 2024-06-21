@@ -1,0 +1,56 @@
+=== Started 2023-04-21T17-17-19-612 ===
+[ERROR][17:17:19] Unknown gameserver.ini value: serverWelcome3
+[INFO ][17:17:19] 2 bad words loaded
+[INFO ][17:17:19] 4 user records loaded.
+[INFO ][17:17:19] 0 IP ban records loaded.
+[INFO ][17:17:19] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][17:17:19] WebSocket: ws
+[INFO ][17:17:19] Started stats server on port 1234
+[INFO ][17:17:19] Listening on port 3000
+[INFO ][17:17:19] Current game mode is vFree For All
+[INFO ][17:17:19] Added 4 player bots
+[NONE ][17:17:19]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][17:18:55] CONNECTED 71.199.219.253:43366, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][17:19:39] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][17:20:09] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][17:20:39] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:21:06] DISCONNECTED 71.199.219.253:43366, code: 1006, reason: "null", name: "joshua"
+[ERROR][17:21:09] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:41:59] CONNECTED 208.54.169.132:58632, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:42:47] DISCONNECTED 208.54.169.132:58632, code: 1006, reason: "null", name: "Player"
+[NONE ][17:53:38] CONNECTED 66.204.50.53:39502, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:54:12] DISCONNECTED 66.204.50.53:39502, code: 1000, reason: "", name: ""
+[NONE ][17:54:46] CONNECTED 208.54.169.132:53790, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][17:55:09] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:55:30] DISCONNECTED 208.54.169.132:53790, code: 1006, reason: "null", name: "Player"
+[ERROR][17:55:36] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:55:59] CONNECTED 66.204.50.53:34034, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][17:56:39] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][17:57:09] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:57:11] DISCONNECTED 66.204.50.53:34034, code: 1006, reason: "null", name: "retard"
+[NONE ][18:03:24] CONNECTED 208.54.169.132:43108, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][18:04:09] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:04:39] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:05:09] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:05:24] DISCONNECTED 208.54.169.132:43108, code: null, reason: "null", name: "i love milfs"
+[NONE ][18:05:24] DISCONNECTED 208.54.169.132:43108, code: null, reason: "null", name: "i love milfs"
+[ERROR][18:05:39] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:05:47] CONNECTED 208.54.169.132:58374, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:06:03] DISCONNECTED 208.54.169.132:58374, code: 1006, reason: "null", name: "i love milfs"
+[NONE ][18:06:12] CONNECTED 208.54.169.132:46878, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][18:06:39] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:06:45] DISCONNECTED 208.54.169.132:46878, code: 1006, reason: "null", name: ""
+[NONE ][18:06:57] CONNECTED 208.54.169.132:58590, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][18:07:39] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:08:09] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:08:18] DISCONNECTED 208.54.169.132:58590, code: 1006, reason: "null", name: ""
+[ERROR][18:08:31] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][18:14:28] CONNECTED 209.66.204.33:45294, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:15:04] DISCONNECTED 209.66.204.33:45294, code: null, reason: "null", name: "Player"
+[ERROR][18:15:09] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:15:22] CONNECTED 209.66.204.33:36366, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"

@@ -1,0 +1,77 @@
+=== Started 2023-03-11T04-09-08-166 ===
+[ERROR][04:09:08] Unknown gameserver.ini value: serverWelcome3
+[INFO ][04:09:08] 2 bad words loaded
+[INFO ][04:09:08] 4 user records loaded.
+[INFO ][04:09:08] 0 IP ban records loaded.
+[INFO ][04:09:08] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][04:09:08] WebSocket: ws
+[INFO ][04:09:08] Started stats server on port 1234
+[INFO ][04:09:08] Listening on port 3000
+[INFO ][04:09:08] Current game mode is vFree For All
+[INFO ][04:09:08] Added 4 player bots
+[NONE ][04:09:08]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][04:46:58] CONNECTED 92.99.163.123:33410, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:47:12] DISCONNECTED 92.99.163.123:33410, code: 1001, reason: "", name: "[];'./,"
+[NONE ][04:48:04] CONNECTED 92.99.163.123:56326, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:50:41] DISCONNECTED 92.99.163.123:56326, code: 1000, reason: "Connection timeout", name: "[];'./,"
+[NONE ][04:50:44] CONNECTED 92.99.163.123:48042, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:51:23] DISCONNECTED 92.99.163.123:48042, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:51:25] CONNECTED 92.99.163.123:40594, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:52:16] DISCONNECTED 92.99.163.123:40594, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:52:19] CONNECTED 92.99.163.123:44228, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:53:16] DISCONNECTED 92.99.163.123:44228, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:53:19] CONNECTED 92.99.163.123:50262, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:54:15] DISCONNECTED 92.99.163.123:50262, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:54:19] CONNECTED 92.99.163.123:51916, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:55:16] DISCONNECTED 92.99.163.123:51916, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:55:19] CONNECTED 92.99.163.123:56656, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:56:15] DISCONNECTED 92.99.163.123:56656, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:56:19] CONNECTED 92.99.163.123:40146, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:57:15] DISCONNECTED 92.99.163.123:40146, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:57:19] CONNECTED 92.99.163.123:55904, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:58:16] DISCONNECTED 92.99.163.123:55904, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:58:19] CONNECTED 92.99.163.123:54416, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][04:59:15] DISCONNECTED 92.99.163.123:54416, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][04:59:18] CONNECTED 92.99.163.123:42944, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:00:16] DISCONNECTED 92.99.163.123:42944, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:00:19] CONNECTED 92.99.163.123:34270, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:01:16] DISCONNECTED 92.99.163.123:34270, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:01:19] CONNECTED 92.99.163.123:48870, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:02:15] DISCONNECTED 92.99.163.123:48870, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:02:19] CONNECTED 92.99.163.123:39134, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:03:15] DISCONNECTED 92.99.163.123:39134, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:03:19] CONNECTED 92.99.163.123:50448, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:04:16] DISCONNECTED 92.99.163.123:50448, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:04:19] CONNECTED 92.99.163.123:46910, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:05:15] DISCONNECTED 92.99.163.123:46910, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:05:19] CONNECTED 92.99.163.123:54242, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:06:16] DISCONNECTED 92.99.163.123:54242, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:06:19] CONNECTED 92.99.163.123:37018, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:07:15] DISCONNECTED 92.99.163.123:37018, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:07:19] CONNECTED 92.99.163.123:44156, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:08:15] DISCONNECTED 92.99.163.123:44156, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:08:19] CONNECTED 92.99.163.123:41942, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:09:15] DISCONNECTED 92.99.163.123:41942, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:09:18] CONNECTED 92.99.163.123:53718, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:10:16] DISCONNECTED 92.99.163.123:53718, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:10:19] CONNECTED 92.99.163.123:55800, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:11:16] DISCONNECTED 92.99.163.123:55800, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:11:19] CONNECTED 92.99.163.123:46898, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:12:16] DISCONNECTED 92.99.163.123:46898, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:12:19] CONNECTED 92.99.163.123:37214, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:13:16] DISCONNECTED 92.99.163.123:37214, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:13:19] CONNECTED 92.99.163.123:53830, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:14:15] DISCONNECTED 92.99.163.123:53830, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:14:19] CONNECTED 92.99.163.123:41310, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:15:16] DISCONNECTED 92.99.163.123:41310, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:15:19] CONNECTED 92.99.163.123:48982, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:16:15] DISCONNECTED 92.99.163.123:48982, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:16:19] CONNECTED 92.99.163.123:41362, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:17:15] DISCONNECTED 92.99.163.123:41362, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:17:19] CONNECTED 92.99.163.123:57930, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:17:59] DISCONNECTED 92.99.163.123:57930, code: 1001, reason: "", name: ""

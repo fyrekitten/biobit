@@ -1,0 +1,53 @@
+=== Started 2023-05-08T03-28-38-376 ===
+[ERROR][03:28:38] Unknown gameserver.ini value: serverWelcome3
+[INFO ][03:28:38] 2 bad words loaded
+[INFO ][03:28:38] 4 user records loaded.
+[INFO ][03:28:38] 0 IP ban records loaded.
+[INFO ][03:28:38] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][03:28:38] WebSocket: ws
+[INFO ][03:28:38] Started stats server on port 1234
+[INFO ][03:28:38] Listening on port 3000
+[INFO ][03:28:38] Current game mode is vFree For All
+[INFO ][03:28:38] Added 4 player bots
+[NONE ][03:28:38]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][03:28:41] CONNECTED 217.165.57.157:58728, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:30:14] DISCONNECTED 217.165.57.157:58728, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:30:17] CONNECTED 217.165.57.157:52600, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:30:29] DISCONNECTED 217.165.57.157:52600, code: 1001, reason: "", name: ""
+[NONE ][03:31:28] CONNECTED 5.195.4.247:54968, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:31:37] CONNECTED 5.195.47.106:57310, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:32:05] CONNECTED 5.195.47.108:44344, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:32:38] CONNECTED 5.195.47.109:54688, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:33:18] CONNECTED 5.195.47.107:41116, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:35:05] CONNECTED 5.195.4.244:55334, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:37:01] CONNECTED 5.195.4.246:41550, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:37:31] CONNECTED 5.195.47.110:38464, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:38:24] DISCONNECTED 5.195.47.107:41116, code: 1001, reason: "", name: "HK"
+[NONE ][03:40:14] DISCONNECTED 5.195.47.109:54688, code: 1001, reason: "", name: "Player"
+[NONE ][03:40:23] CONNECTED 5.195.47.109:59088, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:42:39] CONNECTED 5.195.4.244:36922, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:43:33] DISCONNECTED 5.195.47.109:59088, code: 1001, reason: "", name: "Player"
+[NONE ][03:43:49] DISCONNECTED 5.195.47.106:57310, code: 1000, reason: "Connection timeout", name: "Toenail🤖"
+[NONE ][03:43:52] CONNECTED 5.195.47.106:51516, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:43:54] DISCONNECTED 5.195.4.247:54968, code: 1001, reason: "", name: " meaning🤖 "
+[NONE ][03:43:57] DISCONNECTED 5.195.4.244:36922, code: 1001, reason: "", name: "An unnamed cell"
+[NONE ][03:44:03] CONNECTED 5.195.4.247:35624, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:44:16] CONNECTED 5.195.4.244:58376, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:44:45] DISCONNECTED 5.195.47.106:51516, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:44:50] CONNECTED 5.195.47.106:49862, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:45:40] DISCONNECTED 5.195.4.244:58376, code: null, reason: "null", name: " ابا شاحن "
+[NONE ][03:45:45] DISCONNECTED 5.195.47.106:49862, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][03:45:49] CONNECTED 5.195.47.106:46124, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:46:02] DISCONNECTED 5.195.47.108:44344, code: 1001, reason: "", name: "toenail🤖"
+[NONE ][03:46:05] DISCONNECTED 5.195.4.246:41550, code: 1001, reason: "", name: "111111"
+[NONE ][03:46:14] DISCONNECTED 5.195.4.247:35624, code: null, reason: "null", name: "toenail🤖 "
+[NONE ][03:46:15] DISCONNECTED 5.195.47.106:46124, code: 1001, reason: "", name: ""
+[NONE ][03:46:16] DISCONNECTED 5.195.47.110:38464, code: 1001, reason: "", name: "omk "
+[NONE ][03:53:34] CONNECTED 5.195.47.110:35614, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][03:55:37] DISCONNECTED 5.195.4.244:55334, code: 1001, reason: "", name: "HK fuck u"
+[NONE ][04:05:47] DISCONNECTED 5.195.47.110:35614, code: 1001, reason: "", name: "omk "

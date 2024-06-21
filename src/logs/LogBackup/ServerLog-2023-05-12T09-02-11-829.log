@@ -1,0 +1,49 @@
+=== Started 2023-05-12T05-08-30-453 ===
+[ERROR][05:08:30] Unknown gameserver.ini value: serverWelcome3
+[INFO ][05:08:30] 2 bad words loaded
+[INFO ][05:08:30] 4 user records loaded.
+[INFO ][05:08:30] 0 IP ban records loaded.
+[INFO ][05:08:30] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][05:08:30] WebSocket: ws
+[INFO ][05:08:30] Started stats server on port 1234
+[INFO ][05:08:30] Listening on port 3000
+[INFO ][05:08:30] Current game mode is vFree For All
+[INFO ][05:08:30] Added 4 player bots
+[NONE ][05:08:30]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][05:11:10] CONNECTED 5.195.47.108:42244, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:12:31] CONNECTED 5.195.47.111:46272, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:13:08] DISCONNECTED 5.195.47.108:42244, code: 1006, reason: "null", name: ""
+[NONE ][05:16:23] DISCONNECTED 5.195.47.111:46272, code: 1000, reason: "Connection timeout", name: "W"
+[NONE ][05:16:26] CONNECTED 5.195.47.111:33194, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:17:23] DISCONNECTED 5.195.47.111:33194, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:17:27] CONNECTED 5.195.47.111:50932, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:18:23] DISCONNECTED 5.195.47.111:50932, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:18:26] CONNECTED 5.195.47.111:54672, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:19:23] DISCONNECTED 5.195.47.111:54672, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][05:19:26] CONNECTED 5.195.47.111:52142, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:27:21] CONNECTED 5.195.47.108:47230, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:28:36] DISCONNECTED 5.195.47.111:52142, code: 1006, reason: "null", name: "W"
+[NONE ][05:29:08] DISCONNECTED 5.195.47.108:47230, code: 1001, reason: "", name: "bruh🤖"
+[NONE ][05:31:45] CONNECTED 5.195.47.111:60888, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][05:49:53] DISCONNECTED 5.195.47.111:60888, code: 1001, reason: "", name: "W"
+[NONE ][06:17:24] CONNECTED 5.195.4.243:54256, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:20:29] CONNECTED 5.195.4.243:40420, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:22:14] DISCONNECTED 5.195.4.243:40420, code: 1001, reason: "", name: "[M]"
+[NONE ][06:22:24] CONNECTED 5.195.4.243:56730, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:22:25] DISCONNECTED 5.195.4.243:56730, code: 1001, reason: "", name: ""
+[NONE ][06:22:41] CONNECTED 5.195.47.107:40224, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:23:29] DISCONNECTED 5.195.47.107:40224, code: 1001, reason: "", name: "حمد ツ "
+[NONE ][06:23:32] DISCONNECTED 5.195.4.243:54256, code: 1001, reason: "", name: "ﾌのズ乇尺🃏"
+[NONE ][06:23:45] CONNECTED 5.195.47.107:50298, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:32:07] DISCONNECTED 5.195.47.107:50298, code: 1001, reason: "", name: "حمد ツ "
+[NONE ][06:39:46] CONNECTED 5.195.47.108:55434, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:40:59] DISCONNECTED 5.195.47.108:55434, code: 1001, reason: "", name: "🤖"
+[NONE ][06:41:22] CONNECTED 5.195.47.110:38534, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:41:23] CONNECTED 5.195.47.108:51322, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][06:41:47] DISCONNECTED 5.195.47.108:51322, code: 1001, reason: "", name: "🤖"
+[NONE ][06:42:36] DISCONNECTED 5.195.47.110:38534, code: 1001, reason: "", name: "..."

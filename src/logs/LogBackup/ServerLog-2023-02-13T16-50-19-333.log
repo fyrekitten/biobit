@@ -1,0 +1,33 @@
+=== Started 2023-02-13T16-33-32-667 ===
+[ERROR][16:33:32] Unknown gameserver.ini value: serverWelcome3
+[INFO ][16:33:32] 2 bad words loaded
+[INFO ][16:33:32] 4 user records loaded.
+[INFO ][16:33:32] 0 IP ban records loaded.
+[INFO ][16:33:32] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][16:33:32] WebSocket: ws
+[INFO ][16:33:32] Started stats server on port 1234
+[INFO ][16:33:32] Listening on port 3000
+[INFO ][16:33:32] Current game mode is Free For All
+[INFO ][16:33:32] Added 4 player bots
+[NONE ][16:33:32]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][16:49:33] CONNECTED 152.157.185.136:34804, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:49:33] Welcome to BioBit v1.0! 
+[NONE ][16:49:33] Hello There! 
+[NONE ][16:49:33] DISCONNECTED 152.157.185.136:34804, code: 1001, reason: "", name: ""
+[NONE ][16:49:34] CONNECTED 152.157.185.136:34812, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:49:34] Welcome to BioBit v1.0! 
+[NONE ][16:49:34] Hello There! 
+[NONE ][16:49:44] DISCONNECTED 152.157.185.136:34812, code: 1001, reason: "", name: ""
+[NONE ][16:49:45] CONNECTED 152.157.185.136:56246, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:49:46] Welcome to BioBit v1.0! 
+[NONE ][16:49:46] Hello There! 
+[NONE ][16:49:49] test
+[NONE ][16:49:51] DISCONNECTED 152.157.185.136:56246, code: 1001, reason: "", name: "Player"
+[NONE ][16:50:00] CONNECTED 152.157.185.136:54968, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:50:00] Welcome to BioBit v1.0! 
+[NONE ][16:50:00] Hello There! 

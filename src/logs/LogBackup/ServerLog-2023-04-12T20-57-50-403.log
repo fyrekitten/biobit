@@ -1,0 +1,36 @@
+=== Started 2023-04-12T20-21-12-100 ===
+[ERROR][20:21:12] Unknown gameserver.ini value: serverWelcome3
+[INFO ][20:21:12] 2 bad words loaded
+[INFO ][20:21:12] 4 user records loaded.
+[INFO ][20:21:12] 0 IP ban records loaded.
+[INFO ][20:21:12] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][20:21:12] WebSocket: ws
+[INFO ][20:21:12] Started stats server on port 1234
+[INFO ][20:21:12] Listening on port 3000
+[INFO ][20:21:12] Current game mode is vFree For All
+[INFO ][20:21:12] Added 4 player bots
+[NONE ][20:21:12]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][20:21:15] CONNECTED 208.54.169.132:48812, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:21:16] DISCONNECTED 208.54.169.132:48812, code: 1001, reason: "", name: ""
+[NONE ][20:22:45] CONNECTED 73.0.182.69:56076, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:22:47] DISCONNECTED 73.0.182.69:56076, code: null, reason: "null", name: ""
+[NONE ][20:42:31] CONNECTED 146.166.250.122:54550, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:43:15] DISCONNECTED 146.166.250.122:54550, code: 1001, reason: "", name: ""
+[NONE ][20:43:16] CONNECTED 146.166.250.122:36432, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:44:49] DISCONNECTED 146.166.250.122:36432, code: null, reason: "null", name: "Player"
+[NONE ][20:45:56] CONNECTED 146.166.250.122:59674, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:45:59] DISCONNECTED 146.166.250.122:59674, code: 1001, reason: "", name: ""
+[NONE ][20:46:00] CONNECTED 146.166.250.122:32878, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:46:21] CONNECTED 71.199.219.0:53206, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:47:54] DISCONNECTED 146.166.250.122:32878, code: 1000, reason: "", name: "👃👃👃🫦👃👃👃👣👣👣👣👣👣👣"
+[NONE ][20:51:59] CONNECTED 146.166.250.122:41016, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:53:34] DISCONNECTED 146.166.250.122:41016, code: null, reason: "null", name: ""
+[NONE ][20:55:18] DISCONNECTED 71.199.219.0:53206, code: 1000, reason: "Connection timeout", name: "yoboy"
+[NONE ][20:55:20] CONNECTED 71.199.219.0:43740, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][20:56:09] DISCONNECTED 71.199.219.0:43740, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][20:56:12] CONNECTED 71.199.219.0:44030, origin: "https://biobit-forked.lxtte.repl.co"

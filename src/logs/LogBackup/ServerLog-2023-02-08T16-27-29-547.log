@@ -1,0 +1,530 @@
+=== Started 2023-02-08T16-19-48-539 ===
+[ERROR][16:19:48] Unknown gameserver.ini value: serverWelcome3
+[INFO ][16:19:48] 2 bad words loaded
+[INFO ][16:19:48] 4 user records loaded.
+[INFO ][16:19:48] 0 IP ban records loaded.
+[INFO ][16:19:48] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][16:19:48] WebSocket: ws
+[INFO ][16:19:48] Started stats server on port 1234
+[INFO ][16:19:48] Listening on port 3000
+[INFO ][16:19:48] Current game mode is Free For All
+[INFO ][16:19:48] Added 4 player bots
+[NONE ][16:19:48]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][16:19:49] CONNECTED 166.109.26.117:59698, origin: "https://bitmath.xyz"
+[NONE ][16:19:49] CONNECTED 98.164.58.252:53104, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:19:49] CONNECTED 198.62.219.21:59730, origin: "https://bitmath.xyz"
+[NONE ][16:19:49] CONNECTED 213.219.130.22:47520, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:19:49] CONNECTED 168.102.1.72:53116, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:19:49] CONNECTED 104.198.205.161:43518, origin: "https://bitmath.xyz"
+[NONE ][16:19:49] CONNECTED 35.193.143.131:54892, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 35.188.50.254:40468, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 104.198.205.161:54904, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 34.132.166.212:38882, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 35.224.183.30:42862, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 35.224.183.30:47542, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 35.193.143.131:35284, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 205.213.6.67:52276, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:19:50] CONNECTED 208.108.154.123:38916, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:19:50] CONNECTED 165.139.71.211:59744, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:19:50] CONNECTED 35.193.143.131:34720, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 104.198.205.161:56292, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 35.193.143.131:59028, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 35.193.143.131:52278, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 34.132.166.212:52290, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 205.213.6.67:42872, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:19:50] CONNECTED 35.193.143.131:38932, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 35.193.143.131:54230, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 104.198.205.161:35300, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 35.224.183.30:52304, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 34.132.166.212:59032, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 50.204.158.29:50556, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:19:50] CONNECTED 35.193.143.131:56310, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 165.161.27.218:50562, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 104.198.205.161:38948, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 35.193.143.131:38950, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 35.188.50.254:50570, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 34.132.166.212:34734, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 35.224.183.30:38976, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 104.198.205.161:56324, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 69.27.248.130:35320, origin: "https://agar.thomasmcdermott.repl.co"
+[NONE ][16:19:50] CONNECTED 35.188.50.254:54920, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 104.198.205.161:54252, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 35.188.50.254:54260, origin: "https://bitmath.xyz"
+[NONE ][16:19:50] CONNECTED 35.193.143.131:38978, origin: "https://bitmath.xyz"
+[NONE ][16:19:51] DISCONNECTED 35.193.143.131:38978, code: null, reason: "null", name: ""
+[NONE ][16:19:51] CONNECTED 205.213.6.67:53156, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:19:51] CONNECTED 208.108.154.6:42876, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:19:51] CONNECTED 35.193.143.131:40474, origin: "https://bitmath.xyz"
+[NONE ][16:19:52] CONNECTED 35.224.183.30:36154, origin: "https://bitmath.xyz"
+[NONE ][16:19:52] CONNECTED 107.1.219.45:50678, origin: "https://bitmath.xyz"
+[NONE ][16:19:52] CONNECTED 76.3.249.162:35330, origin: "https://biobit--bigfatgrub.repl.co"
+[ERROR][16:19:52] [172.31.128.1:36154] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][16:19:52] DISCONNECTED 35.224.183.30:36154, code: 1006, reason: "", name: ""
+[NONE ][16:19:53] CONNECTED 104.198.205.161:56344, origin: "https://bitmath.xyz"
+[NONE ][16:19:55] DISCONNECTED 213.219.130.22:47520, code: 1001, reason: "", name: ""
+[NONE ][16:19:55] CONNECTED 205.213.6.67:46562, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:19:57] CONNECTED 34.132.166.212:50682, origin: "https://bitmath.xyz"
+[NONE ][16:19:57] CONNECTED 35.188.50.254:40492, origin: "https://bitmath.xyz"
+[NONE ][16:19:58] CONNECTED 104.198.205.161:42882, origin: "https://bitmath.xyz"
+[NONE ][16:19:58] CONNECTED 205.213.6.67:55484, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:19:58] DISCONNECTED 104.198.205.161:54904, code: 1001, reason: "", name: ""
+[ERROR][16:20:00] [172.31.128.1:38948] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][16:20:00] DISCONNECTED 104.198.205.161:38948, code: 1006, reason: "", name: ""
+[NONE ][16:20:01] CONNECTED 35.188.50.254:49646, origin: "https://bitmath.xyz"
+[NONE ][16:20:02] CONNECTED 35.188.50.254:34110, origin: "https://bitmath.xyz"
+[NONE ][16:20:06] DISCONNECTED 35.188.50.254:49646, code: 1000, reason: "", name: ""
+[ERROR][16:20:09] [172.31.128.1:59028] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][16:20:09] DISCONNECTED 35.193.143.131:59028, code: 1006, reason: "", name: ""
+[NONE ][16:20:10] DISCONNECTED 35.193.143.131:52278, code: 1006, reason: "null", name: "chuygug"
+[NONE ][16:20:11] DISCONNECTED 104.198.205.161:43518, code: null, reason: "null", name: ""
+[NONE ][16:20:12] DISCONNECTED 35.193.143.131:54230, code: null, reason: "null", name: "deez"
+[NONE ][16:20:12] DISCONNECTED 104.198.205.161:56292, code: 1001, reason: "", name: ""
+[NONE ][16:20:13] DISCONNECTED 104.198.205.161:56344, code: 1000, reason: "", name: "E"
+[NONE ][16:20:15] CONNECTED 35.224.183.30:38620, origin: "https://bitmath.xyz"
+[NONE ][16:20:15] DISCONNECTED 34.132.166.212:38882, code: null, reason: "null", name: ""
+[NONE ][16:20:15] DISCONNECTED 35.188.50.254:40468, code: null, reason: "null", name: ""
+[NONE ][16:20:18] CONNECTED 35.188.50.254:38622, origin: "https://bitmath.xyz"
+[NONE ][16:20:19] DISCONNECTED 35.224.183.30:52304, code: null, reason: "null", name: "PenelopeTheDogg"
+[NONE ][16:20:20] CONNECTED 35.193.143.131:35998, origin: "https://bitmath.xyz"
+[NONE ][16:20:20] CONNECTED 35.188.50.254:46690, origin: "https://bitmath.xyz"
+[NONE ][16:20:24] DISCONNECTED 34.132.166.212:59032, code: 1001, reason: "", name: ""
+[NONE ][16:20:28] DISCONNECTED 98.164.58.252:53104, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:29] DISCONNECTED 35.224.183.30:47542, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:29] DISCONNECTED 35.188.50.254:54260, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:29] DISCONNECTED 35.193.143.131:34720, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:29] DISCONNECTED 35.188.50.254:50570, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:29] DISCONNECTED 34.132.166.212:52290, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:30] DISCONNECTED 35.224.183.30:38976, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:30] DISCONNECTED 104.198.205.161:54252, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:30] CONNECTED 98.164.58.252:57494, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:20:31] CONNECTED 35.188.50.254:41442, origin: "https://bitmath.xyz"
+[NONE ][16:20:31] CONNECTED 35.188.50.254:38874, origin: "https://bitmath.xyz"
+[NONE ][16:20:32] CONNECTED 34.132.166.212:56682, origin: "https://bitmath.xyz"
+[NONE ][16:20:32] CONNECTED 35.188.50.254:39036, origin: "https://bitmath.xyz"
+[NONE ][16:20:32] CONNECTED 35.188.50.254:52912, origin: "https://bitmath.xyz"
+[NONE ][16:20:32] DISCONNECTED 35.193.143.131:56310, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:33] CONNECTED 35.188.50.254:46508, origin: "https://bitmath.xyz"
+[NONE ][16:20:33] DISCONNECTED 165.161.27.218:50562, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:34] CONNECTED 35.224.183.30:39038, origin: "https://bitmath.xyz"
+[NONE ][16:20:35] CONNECTED 165.161.18.218:57748, origin: "https://bitmath.xyz"
+[NONE ][16:20:36] DISCONNECTED 35.188.50.254:40492, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:36] DISCONNECTED 104.198.205.161:42882, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:37] DISCONNECTED 104.198.205.161:35300, code: 1001, reason: "", name: ""
+[NONE ][16:20:38] DISCONNECTED 166.109.26.117:59698, code: 1001, reason: "", name: ""
+[NONE ][16:20:38] CONNECTED 35.224.183.30:40488, origin: "https://bitmath.xyz"
+[NONE ][16:20:38] DISCONNECTED 205.213.6.67:52276, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:38] CONNECTED 35.193.143.131:57064, origin: "https://bitmath.xyz"
+[NONE ][16:20:38] CONNECTED 35.224.183.30:33514, origin: "https://bitmath.xyz"
+[NONE ][16:20:40] CONNECTED 205.213.6.67:35164, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:20:43] DISCONNECTED 35.193.143.131:57064, code: null, reason: "null", name: ""
+[NONE ][16:20:46] DISCONNECTED 35.193.143.131:38950, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:49] CONNECTED 34.132.166.212:38392, origin: "https://bitmath.xyz"
+[NONE ][16:20:49] DISCONNECTED 107.1.219.45:50678, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:52] DISCONNECTED 165.139.71.211:59744, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:20:52] CONNECTED 107.1.219.45:57764, origin: "https://bitmath.xyz"
+[NONE ][16:20:54] CONNECTED 165.139.71.211:36096, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:20:59] CONNECTED 104.198.205.161:54818, origin: "https://bitmath.xyz"
+[NONE ][16:21:00] DISCONNECTED 35.193.143.131:38932, code: 1001, reason: "", name: ""
+[NONE ][16:21:09] DISCONNECTED 98.164.58.252:57494, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:09] CONNECTED 213.219.130.22:59520, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:21:10] DISCONNECTED 35.188.50.254:41442, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:10] CONNECTED 209.133.57.173:50876, origin: "https://biobit.maxlane1.repl.co"
+[NONE ][16:21:11] DISCONNECTED 35.188.50.254:52912, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:11] CONNECTED 98.164.58.252:58736, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:21:12] CONNECTED 35.224.183.30:37758, origin: "https://bitmath.xyz"
+[NONE ][16:21:13] DISCONNECTED 34.132.166.212:56682, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:13] CONNECTED 69.63.166.182:40010, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:21:13] CONNECTED 104.198.205.161:58766, origin: "https://bitmath.xyz"
+[NONE ][16:21:13] DISCONNECTED 165.161.18.218:57748, code: null, reason: "null", name: ""
+[NONE ][16:21:13] DISCONNECTED 104.198.205.161:54818, code: null, reason: "null", name: ""
+[NONE ][16:21:15] CONNECTED 34.132.166.212:51794, origin: "https://bitmath.xyz"
+[NONE ][16:21:18] CONNECTED 35.224.183.30:60444, origin: "https://bitmath.xyz"
+[NONE ][16:21:19] DISCONNECTED 35.188.50.254:38622, code: null, reason: "null", name: ""
+[NONE ][16:21:19] DISCONNECTED 35.188.50.254:38622, code: null, reason: "null", name: ""
+[NONE ][16:21:20] DISCONNECTED 213.219.130.22:59520, code: 1000, reason: "", name: ""
+[NONE ][16:21:20] DISCONNECTED 35.188.50.254:46508, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:23] CONNECTED 35.224.183.30:46964, origin: "https://bitmath.xyz"
+[NONE ][16:21:26] DISCONNECTED 35.188.50.254:38874, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:28] DISCONNECTED 35.224.183.30:40488, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:29] CONNECTED 35.193.143.131:42342, origin: "https://bitmath.xyz"
+[NONE ][16:21:30] DISCONNECTED 35.188.50.254:39036, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:31] CONNECTED 34.132.166.212:54768, origin: "https://bitmath.xyz"
+[NONE ][16:21:31] CONNECTED 104.198.205.161:57668, origin: "https://bitmath.xyz"
+[NONE ][16:21:32] DISCONNECTED 35.224.183.30:39038, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:34] CONNECTED 35.188.50.254:52832, origin: "https://bitmath.xyz"
+[NONE ][16:21:38] DISCONNECTED 205.213.6.67:35164, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:41] CONNECTED 205.213.6.67:48048, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:21:43] CONNECTED 35.188.50.254:41082, origin: "https://bitmath.xyz"
+[NONE ][16:21:46] DISCONNECTED 34.132.166.212:38392, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:48] DISCONNECTED 35.188.50.254:41082, code: 1000, reason: "", name: ""
+[NONE ][16:21:48] CONNECTED 34.132.166.212:51628, origin: "https://bitmath.xyz"
+[NONE ][16:21:49] CONNECTED 34.132.166.212:55098, origin: "https://bitmath.xyz"
+[NONE ][16:21:49] DISCONNECTED 107.1.219.45:57764, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:51] DISCONNECTED 198.62.219.21:59730, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:51] CONNECTED 107.1.219.45:44124, origin: "https://bitmath.xyz"
+[NONE ][16:21:52] DISCONNECTED 165.139.71.211:36096, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:53] CONNECTED 198.62.219.21:44388, origin: "https://bitmath.xyz"
+[NONE ][16:21:54] CONNECTED 207.224.177.10:44976, origin: "https://bitmath.xyz"
+[NONE ][16:21:54] DISCONNECTED 207.224.177.10:44976, code: null, reason: "null", name: ""
+[NONE ][16:21:54] DISCONNECTED 35.224.183.30:46964, code: 1001, reason: "", name: ""
+[NONE ][16:21:55] DISCONNECTED 69.63.166.182:40010, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:21:55] CONNECTED 165.139.71.211:44980, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:21:57] CONNECTED 69.63.166.182:41304, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:21:59] CONNECTED 207.224.177.10:40502, origin: "https://bitmath.xyz"
+[NONE ][16:21:59] DISCONNECTED 207.224.177.10:40502, code: null, reason: "null", name: ""
+[NONE ][16:22:02] DISCONNECTED 35.224.183.30:37758, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:02] CONNECTED 34.132.166.212:53110, origin: "https://bitmath.xyz"
+[NONE ][16:22:03] DISCONNECTED 205.213.6.67:42872, code: 1001, reason: "", name: "nightfurry"
+[NONE ][16:22:04] CONNECTED 35.193.143.131:53126, origin: "https://bitmath.xyz"
+[NONE ][16:22:07] CONNECTED 168.99.13.151:46676, origin: "https://bitmath.xyz"
+[NONE ][16:22:07] DISCONNECTED 168.99.13.151:46676, code: null, reason: "null", name: ""
+[NONE ][16:22:08] DISCONNECTED 98.164.58.252:58736, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:08] CONNECTED 168.99.13.151:33934, origin: "https://bitmath.xyz"
+[NONE ][16:22:08] DISCONNECTED 34.132.166.212:53110, code: 1000, reason: "", name: ""
+[NONE ][16:22:10] CONNECTED 207.224.177.10:46644, origin: "https://bitmath.xyz"
+[NONE ][16:22:10] CONNECTED 98.164.58.252:40072, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:22:10] DISCONNECTED 207.224.177.10:46644, code: null, reason: "null", name: ""
+[NONE ][16:22:11] DISCONNECTED 104.198.205.161:58766, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:12] DISCONNECTED 34.132.166.212:51794, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:13] CONNECTED 34.132.166.212:47304, origin: "https://bitmath.xyz"
+[NONE ][16:22:13] CONNECTED 207.224.177.10:35964, origin: "https://bitmath.xyz"
+[NONE ][16:22:13] DISCONNECTED 207.224.177.10:35964, code: null, reason: "null", name: ""
+[NONE ][16:22:15] CONNECTED 35.193.143.131:60508, origin: "https://bitmath.xyz"
+[NONE ][16:22:27] DISCONNECTED 35.193.143.131:42342, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:28] DISCONNECTED 34.132.166.212:54768, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:28] DISCONNECTED 34.132.166.212:55098, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:29] CONNECTED 34.132.166.212:50442, origin: "https://bitmath.xyz"
+[NONE ][16:22:29] CONNECTED 209.79.69.10:49242, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][16:22:30] DISCONNECTED 104.198.205.161:57668, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:30] CONNECTED 35.188.50.254:39810, origin: "https://bitmath.xyz"
+[NONE ][16:22:31] CONNECTED 35.193.143.131:34834, origin: "https://bitmath.xyz"
+[NONE ][16:22:32] CONNECTED 35.224.183.30:59288, origin: "https://bitmath.xyz"
+[NONE ][16:22:32] DISCONNECTED 35.188.50.254:52832, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:34] CONNECTED 104.198.205.161:37006, origin: "https://bitmath.xyz"
+[NONE ][16:22:37] DISCONNECTED 69.63.166.182:41304, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:37] CONNECTED 35.224.183.30:38852, origin: "https://bitmath.xyz"
+[NONE ][16:22:38] DISCONNECTED 205.213.6.67:48048, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:39] CONNECTED 69.63.166.182:46320, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:22:40] CONNECTED 205.213.6.67:52438, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:22:46] DISCONNECTED 34.132.166.212:51628, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:46] CONNECTED 34.132.166.212:59274, origin: "https://bitmath.xyz"
+[ERROR][16:22:48] [172.31.128.1:38852] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][16:22:48] DISCONNECTED 35.224.183.30:38852, code: 1006, reason: "", name: "Player"
+[NONE ][16:22:49] CONNECTED 35.224.183.30:59304, origin: "https://bitmath.xyz"
+[NONE ][16:22:50] DISCONNECTED 198.62.219.21:44388, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:50] CONNECTED 34.132.166.212:39252, origin: "https://bitmath.xyz"
+[NONE ][16:22:50] DISCONNECTED 107.1.219.45:44124, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:51] DISCONNECTED 34.132.166.212:59274, code: 1000, reason: "", name: ""
+[NONE ][16:22:51] CONNECTED 198.62.219.21:49730, origin: "https://bitmath.xyz"
+[NONE ][16:22:52] DISCONNECTED 165.139.71.211:44980, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:22:52] CONNECTED 107.1.219.45:45144, origin: "https://bitmath.xyz"
+[NONE ][16:22:53] CONNECTED 35.188.50.254:48030, origin: "https://bitmath.xyz"
+[NONE ][16:22:54] CONNECTED 209.56.33.10:45870, origin: "https://bitmath.xyz"
+[NONE ][16:22:54] CONNECTED 104.198.205.161:58400, origin: "https://bitmath.xyz"
+[NONE ][16:22:56] DISCONNECTED 209.79.69.10:49242, code: 1001, reason: "", name: "Player"
+[NONE ][16:22:58] CONNECTED 165.139.71.211:36330, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:23:02] CONNECTED 35.193.143.131:53020, origin: "https://bitmath.xyz"
+[NONE ][16:23:02] DISCONNECTED 35.193.143.131:53126, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:02] CONNECTED 35.188.50.254:49202, origin: "https://bitmath.xyz"
+[NONE ][16:23:03] DISCONNECTED 35.188.50.254:48030, code: 1000, reason: "", name: ""
+[NONE ][16:23:04] CONNECTED 35.188.50.254:60266, origin: "https://bitmath.xyz"
+[NONE ][16:23:05] CONNECTED 66.204.21.178:40242, origin: "https://bitmath.xyz"
+[NONE ][16:23:06] DISCONNECTED 35.224.183.30:60444, code: 1000, reason: "", name: ""
+[NONE ][16:23:08] DISCONNECTED 98.164.58.252:40072, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:10] DISCONNECTED 35.188.50.254:39810, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:11] DISCONNECTED 34.132.166.212:47304, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:12] DISCONNECTED 35.188.50.254:49202, code: 1000, reason: "", name: ""
+[NONE ][16:23:12] DISCONNECTED 35.193.143.131:60508, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:13] CONNECTED 35.224.183.30:43460, origin: "https://bitmath.xyz"
+[NONE ][16:23:15] CONNECTED 98.164.58.252:33544, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:23:15] CONNECTED 34.132.166.212:23940, origin: "https://bitmath.xyz"
+[NONE ][16:23:16] CONNECTED 35.193.143.131:33554, origin: "https://bitmath.xyz"
+[NONE ][16:23:27] DISCONNECTED 34.132.166.212:50442, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:28] DISCONNECTED 35.193.143.131:34834, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:28] CONNECTED 35.188.50.254:37582, origin: "https://bitmath.xyz"
+[NONE ][16:23:29] DISCONNECTED 35.224.183.30:59288, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:30] CONNECTED 34.132.166.212:35326, origin: "https://bitmath.xyz"
+[NONE ][16:23:30] CONNECTED 104.198.205.161:55180, origin: "https://bitmath.xyz"
+[NONE ][16:23:31] DISCONNECTED 34.132.166.212:39252, code: 1000, reason: "", name: "Player"
+[NONE ][16:23:32] CONNECTED 104.198.205.161:55660, origin: "https://bitmath.xyz"
+[NONE ][16:23:32] DISCONNECTED 104.198.205.161:37006, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:35] CONNECTED 35.193.143.131:35340, origin: "https://bitmath.xyz"
+[NONE ][16:23:37] DISCONNECTED 69.63.166.182:46320, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:38] CONNECTED 165.138.138.162:46542, origin: "https://agario.lionelkrott.repl.co"
+[NONE ][16:23:38] DISCONNECTED 205.213.6.67:52438, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:39] CONNECTED 69.63.166.182:44160, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:23:39] DISCONNECTED 165.138.138.162:46542, code: 1000, reason: "", name: ""
+[NONE ][16:23:40] CONNECTED 205.213.6.67:56276, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:23:46] DISCONNECTED 35.224.183.30:59304, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:48] CONNECTED 104.198.205.161:57612, origin: "https://bitmath.xyz"
+[NONE ][16:23:48] DISCONNECTED 35.224.183.30:42862, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:49] DISCONNECTED 198.62.219.21:49730, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:49] DISCONNECTED 107.1.219.45:45144, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:50] CONNECTED 34.132.166.212:53226, origin: "https://bitmath.xyz"
+[NONE ][16:23:51] CONNECTED 198.62.219.21:39392, origin: "https://bitmath.xyz"
+[NONE ][16:23:51] CONNECTED 107.1.219.45:39004, origin: "https://bitmath.xyz"
+[NONE ][16:23:53] DISCONNECTED 165.139.71.211:36330, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:55] CONNECTED 165.139.71.211:38274, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:23:56] DISCONNECTED 104.198.205.161:58400, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:23:56] CONNECTED 35.188.50.254:55706, origin: "https://bitmath.xyz"
+[NONE ][16:23:58] CONNECTED 35.193.143.131:46728, origin: "https://bitmath.xyz"
+[NONE ][16:24:00] DISCONNECTED 35.193.143.131:33554, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:01] CONNECTED 104.198.205.161:46738, origin: "https://bitmath.xyz"
+[NONE ][16:24:02] DISCONNECTED 35.188.50.254:60266, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:02] DISCONNECTED 35.188.50.254:55706, code: 1000, reason: "", name: ""
+[NONE ][16:24:02] CONNECTED 104.198.205.161:54326, origin: "https://bitmath.xyz"
+[NONE ][16:24:04] CONNECTED 104.198.205.161:49546, origin: "https://bitmath.xyz"
+[NONE ][16:24:08] DISCONNECTED 98.164.58.252:33544, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:10] CONNECTED 98.164.58.252:47816, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:24:10] CONNECTED 35.188.50.254:51352, origin: "https://bitmath.xyz"
+[NONE ][16:24:11] DISCONNECTED 35.224.183.30:43460, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:11] CONNECTED 35.193.143.131:55466, origin: "https://bitmath.xyz"
+[NONE ][16:24:13] DISCONNECTED 34.132.166.212:23940, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:13] CONNECTED 35.193.143.131:43752, origin: "https://bitmath.xyz"
+[NONE ][16:24:13] CONNECTED 213.219.130.22:35614, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:24:15] CONNECTED 104.198.205.161:49196, origin: "https://bitmath.xyz"
+[NONE ][16:24:16] DISCONNECTED 213.219.130.22:35614, code: 1000, reason: "", name: ""
+[NONE ][16:24:26] CONNECTED 165.138.138.162:55376, origin: "https://agario.lionelkrott.repl.co"
+[NONE ][16:24:26] DISCONNECTED 165.138.138.162:55376, code: null, reason: "null", name: ""
+[NONE ][16:24:27] CONNECTED 165.138.138.162:44804, origin: "https://agario.lionelkrott.repl.co"
+[NONE ][16:24:27] DISCONNECTED 34.132.166.212:35326, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:27] DISCONNECTED 165.138.138.162:44804, code: 1000, reason: "", name: ""
+[NONE ][16:24:28] DISCONNECTED 104.198.205.161:55180, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:30] CONNECTED 34.132.166.212:34250, origin: "https://bitmath.xyz"
+[NONE ][16:24:30] DISCONNECTED 104.198.205.161:55660, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:30] CONNECTED 35.188.50.254:55742, origin: "https://bitmath.xyz"
+[NONE ][16:24:32] DISCONNECTED 35.193.143.131:35340, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:33] CONNECTED 35.224.183.30:58866, origin: "https://bitmath.xyz"
+[NONE ][16:24:33] CONNECTED 213.219.130.22:47452, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:24:34] CONNECTED 35.188.50.254:47466, origin: "https://bitmath.xyz"
+[NONE ][16:24:37] DISCONNECTED 69.63.166.182:44160, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:38] DISCONNECTED 205.213.6.67:56276, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:39] CONNECTED 69.63.166.182:34564, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:24:39] DISCONNECTED 98.164.58.252:47816, code: 1006, reason: "null", name: ""
+[NONE ][16:24:42] CONNECTED 205.213.6.67:56154, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:24:44] DISCONNECTED 213.219.130.22:47452, code: 1006, reason: "null", name: ""
+[NONE ][16:24:44] DISCONNECTED 34.132.166.212:53226, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:46] DISCONNECTED 104.198.205.161:57612, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:47] CONNECTED 35.188.50.254:59604, origin: "https://bitmath.xyz"
+[NONE ][16:24:47] CONNECTED 35.188.50.254:39302, origin: "https://bitmath.xyz"
+[NONE ][16:24:49] DISCONNECTED 35.188.50.254:39302, code: 1000, reason: "", name: ""
+[NONE ][16:24:49] CONNECTED 104.198.205.161:39304, origin: "https://bitmath.xyz"
+[NONE ][16:24:49] DISCONNECTED 198.62.219.21:39392, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:50] DISCONNECTED 107.1.219.45:39004, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:51] DISCONNECTED 76.3.249.162:35330, code: 1006, reason: "null", name: ""
+[NONE ][16:24:52] CONNECTED 107.1.219.45:54780, origin: "https://bitmath.xyz"
+[NONE ][16:24:52] DISCONNECTED 165.139.71.211:38274, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:54] CONNECTED 165.139.71.211:35088, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:24:54] CONNECTED 198.62.219.21:41816, origin: "https://bitmath.xyz"
+[NONE ][16:24:56] DISCONNECTED 35.193.143.131:46728, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:24:58] CONNECTED 34.132.166.212:42730, origin: "https://bitmath.xyz"
+[NONE ][16:25:00] DISCONNECTED 104.198.205.161:54326, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:01] CONNECTED 165.161.27.218:42798, origin: "https://bitmath.xyz"
+[NONE ][16:25:01] CONNECTED 35.188.50.254:48530, origin: "https://bitmath.xyz"
+[NONE ][16:25:02] DISCONNECTED 104.198.205.161:49546, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:02] CONNECTED 34.132.166.212:38614, origin: "https://bitmath.xyz"
+[NONE ][16:25:04] CONNECTED 104.198.205.161:57526, origin: "https://bitmath.xyz"
+[NONE ][16:25:11] DISCONNECTED 35.193.143.131:43752, code: 1000, reason: "Connection timeout", name: ""
+[ERROR][16:25:11] [172.31.128.1:42798] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][16:25:11] DISCONNECTED 165.161.27.218:42798, code: 1006, reason: "", name: ""
+[NONE ][16:25:13] DISCONNECTED 104.198.205.161:49196, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:13] CONNECTED 35.193.143.131:54402, origin: "https://bitmath.xyz"
+[NONE ][16:25:15] CONNECTED 35.188.50.254:35466, origin: "https://bitmath.xyz"
+[NONE ][16:25:21] DISCONNECTED 209.56.33.10:45870, code: 1001, reason: "", name: "Player"
+[NONE ][16:25:26] DISCONNECTED 34.132.166.212:34250, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:28] DISCONNECTED 35.188.50.254:55742, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:29] CONNECTED 35.188.50.254:54716, origin: "https://bitmath.xyz"
+[NONE ][16:25:29] DISCONNECTED 35.224.183.30:58866, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:30] CONNECTED 35.188.50.254:38024, origin: "https://bitmath.xyz"
+[NONE ][16:25:32] CONNECTED 34.132.166.212:45462, origin: "https://bitmath.xyz"
+[NONE ][16:25:32] DISCONNECTED 35.188.50.254:47466, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:34] CONNECTED 35.224.183.30:43670, origin: "https://bitmath.xyz"
+[NONE ][16:25:37] DISCONNECTED 69.63.166.182:34564, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:38] DISCONNECTED 205.213.6.67:56154, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:39] CONNECTED 69.63.166.182:50630, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:25:40] DISCONNECTED 35.188.50.254:48530, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:40] DISCONNECTED 205.213.6.67:55484, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:40] CONNECTED 205.213.6.67:58942, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:25:40] CONNECTED 205.213.6.67:46330, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:25:41] CONNECTED 35.224.183.30:58172, origin: "https://bitmath.xyz"
+[NONE ][16:25:42] CONNECTED 35.224.183.30:43720, origin: "https://bitmath.xyz"
+[NONE ][16:25:42] CONNECTED 205.213.6.67:43732, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:25:43] DISCONNECTED 35.188.50.254:59604, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:44] DISCONNECTED 35.224.183.30:43720, code: 1000, reason: "", name: ""
+[NONE ][16:25:45] CONNECTED 35.193.143.131:60402, origin: "https://bitmath.xyz"
+[NONE ][16:25:46] DISCONNECTED 104.198.205.161:39304, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:48] CONNECTED 104.198.205.161:40596, origin: "https://bitmath.xyz"
+[NONE ][16:25:48] DISCONNECTED 205.213.6.67:58942, code: 1001, reason: "", name: ""
+[NONE ][16:25:49] CONNECTED 205.213.6.67:57274, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:25:49] DISCONNECTED 107.1.219.45:54780, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:49] DISCONNECTED 198.62.219.21:41816, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:49] CONNECTED 104.198.205.161:45558, origin: "https://bitmath.xyz"
+[ERROR][16:25:51] [172.31.128.1:55466] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][16:25:51] DISCONNECTED 35.193.143.131:55466, code: 1006, reason: "", name: ""
+[NONE ][16:25:52] DISCONNECTED 165.139.71.211:35088, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:53] CONNECTED 107.1.219.45:58804, origin: "https://bitmath.xyz"
+[NONE ][16:25:53] CONNECTED 198.62.219.21:36000, origin: "https://bitmath.xyz"
+[ERROR][16:25:53] [172.31.128.1:37582] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][16:25:53] DISCONNECTED 35.188.50.254:37582, code: 1006, reason: "", name: "Player"
+[NONE ][16:25:53] DISCONNECTED 104.198.205.161:45558, code: 1000, reason: "", name: ""
+[NONE ][16:25:54] CONNECTED 165.139.71.211:45574, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:25:55] CONNECTED 104.198.205.161:50498, origin: "https://bitmath.xyz"
+[NONE ][16:25:55] CONNECTED 35.193.143.131:58478, origin: "https://bitmath.xyz"
+[NONE ][16:25:56] DISCONNECTED 34.132.166.212:42730, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:25:58] CONNECTED 35.224.183.30:43290, origin: "https://bitmath.xyz"
+[NONE ][16:26:01] DISCONNECTED 34.132.166.212:38614, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:02] DISCONNECTED 104.198.205.161:57526, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:03] CONNECTED 35.188.50.254:33496, origin: "https://bitmath.xyz"
+[NONE ][16:26:04] CONNECTED 35.188.50.254:45172, origin: "https://bitmath.xyz"
+[NONE ][16:26:04] CONNECTED 35.188.50.254:53166, origin: "https://bitmath.xyz"
+[NONE ][16:26:05] DISCONNECTED 69.27.248.130:35320, code: null, reason: "null", name: "wercol"
+[NONE ][16:26:10] CONNECTED 35.224.183.30:60744, origin: "https://bitmath.xyz"
+[NONE ][16:26:11] DISCONNECTED 35.193.143.131:54402, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:11] CONNECTED 204.13.205.66:53942, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:26:13] DISCONNECTED 35.188.50.254:35466, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:13] CONNECTED 104.198.205.161:36250, origin: "https://bitmath.xyz"
+[NONE ][16:26:13] CONNECTED 35.224.183.30:58312, origin: "https://bitmath.xyz"
+[NONE ][16:26:17] DISCONNECTED 35.193.143.131:35998, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:18] DISCONNECTED 34.132.166.212:34734, code: 1001, reason: "", name: ""
+[NONE ][16:26:19] CONNECTED 35.224.183.30:41114, origin: "https://bitmath.xyz"
+[NONE ][16:26:23] CONNECTED 34.132.166.212:43314, origin: "https://bitmath.xyz"
+[NONE ][16:26:26] CONNECTED 35.224.183.30:37522, origin: "https://bitmath.xyz"
+[NONE ][16:26:27] CONNECTED 35.193.143.131:48630, origin: "https://bitmath.xyz"
+[NONE ][16:26:27] CONNECTED 35.188.50.254:49242, origin: "https://bitmath.xyz"
+[NONE ][16:26:27] DISCONNECTED 35.188.50.254:54716, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:28] DISCONNECTED 35.188.50.254:38024, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:30] DISCONNECTED 34.132.166.212:45462, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:30] CONNECTED 34.132.166.212:41010, origin: "https://bitmath.xyz"
+[NONE ][16:26:31] CONNECTED 104.198.205.161:51110, origin: "https://bitmath.xyz"
+[NONE ][16:26:32] DISCONNECTED 35.224.183.30:43670, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:32] CONNECTED 34.132.166.212:48492, origin: "https://bitmath.xyz"
+[NONE ][16:26:34] CONNECTED 34.132.166.212:52036, origin: "https://bitmath.xyz"
+[NONE ][16:26:36] CONNECTED 35.188.50.254:55858, origin: "https://bitmath.xyz"
+[NONE ][16:26:37] DISCONNECTED 69.63.166.182:50630, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:38] DISCONNECTED 205.213.6.67:46330, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:38] DISCONNECTED 66.204.21.178:40242, code: 1001, reason: "", name: "joe mama"
+[NONE ][16:26:39] CONNECTED 69.63.166.182:52044, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:26:40] DISCONNECTED 34.132.166.212:43314, code: 1001, reason: "", name: ""
+[ERROR][16:26:40] [172.31.128.1:33496] Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][16:26:40] DISCONNECTED 35.188.50.254:33496, code: 1006, reason: "", name: "Player"
+[NONE ][16:26:40] DISCONNECTED 205.213.6.67:43732, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:40] CONNECTED 205.213.6.67:54794, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:26:42] CONNECTED 205.213.6.67:43342, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][16:26:43] DISCONNECTED 35.193.143.131:60402, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:44] CONNECTED 35.188.50.254:59150, origin: "https://bitmath.xyz"
+[NONE ][16:26:44] CONNECTED 34.132.166.212:44426, origin: "https://bitmath.xyz"
+[NONE ][16:26:46] CONNECTED 35.224.183.30:38510, origin: "https://bitmath.xyz"
+[NONE ][16:26:47] DISCONNECTED 104.198.205.161:40596, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:47] DISCONNECTED 34.132.166.212:44426, code: 1000, reason: "", name: ""
+[NONE ][16:26:49] CONNECTED 87.244.178.158:41054, origin: "https://bitmath.xyz"
+[NONE ][16:26:49] DISCONNECTED 198.62.219.21:36000, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:50] DISCONNECTED 165.139.71.211:45574, code: null, reason: "null", name: ""
+[NONE ][16:26:50] DISCONNECTED 107.1.219.45:58804, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:50] DISCONNECTED 104.198.205.161:50498, code: 1001, reason: "", name: "Player"
+[NONE ][16:26:51] CONNECTED 104.198.205.161:60212, origin: "https://bitmath.xyz"
+[NONE ][16:26:51] CONNECTED 198.62.219.21:42916, origin: "https://bitmath.xyz"
+[NONE ][16:26:51] CONNECTED 107.1.219.45:58472, origin: "https://bitmath.xyz"
+[NONE ][16:26:53] CONNECTED 165.139.71.211:24289, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][16:26:55] DISCONNECTED 35.193.143.131:48630, code: 1001, reason: "", name: "Player"
+[NONE ][16:26:56] DISCONNECTED 35.224.183.30:43290, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:26:58] CONNECTED 35.193.143.131:25923, origin: "https://bitmath.xyz"
+[NONE ][16:26:58] DISCONNECTED 87.244.178.158:41054, code: 1001, reason: "", name: ""
+[NONE ][16:26:59] CONNECTED 209.79.69.10:37406, origin: "https://biobit--bigfatgrub.repl.co"
+[NONE ][16:27:00] DISCONNECTED 35.188.50.254:55858, code: 1000, reason: "", name: ""
+[NONE ][16:27:00] CONNECTED 35.188.50.254:43424, origin: "https://bitmath.xyz"
+[NONE ][16:27:01] DISCONNECTED 35.188.50.254:45172, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:27:02] DISCONNECTED 35.188.50.254:53166, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:27:04] CONNECTED 35.224.183.30:44880, origin: "https://bitmath.xyz"
+[NONE ][16:27:04] CONNECTED 34.132.166.212:54652, origin: "https://bitmath.xyz"
+[NONE ][16:27:10] DISCONNECTED 35.188.50.254:51352, code: null, reason: "null", name: "Player"
+[NONE ][16:27:11] DISCONNECTED 35.224.183.30:58312, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:27:13] CONNECTED 35.224.183.30:39620, origin: "https://bitmath.xyz"
+[NONE ][16:27:14] DISCONNECTED 209.79.69.10:37406, code: 1000, reason: "", name: ""
+[NONE ][16:27:17] DISCONNECTED 35.224.183.30:41114, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:27:19] CONNECTED 104.198.205.161:33724, origin: "https://bitmath.xyz"
+[NONE ][16:27:22] CONNECTED 35.193.143.131:33734, origin: "https://bitmath.xyz"

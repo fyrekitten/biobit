@@ -1,0 +1,48 @@
+=== Started 2023-02-07T22-57-25-703 ===
+[ERROR][22:57:26] Unknown gameserver.ini value: serverWelcome3
+[INFO ][22:57:26] 2 bad words loaded
+[INFO ][22:57:26] 4 user records loaded.
+[INFO ][22:57:26] 0 IP ban records loaded.
+[INFO ][22:57:26] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][22:57:26] WebSocket: ws
+[INFO ][22:57:26] Started stats server on port 1234
+[INFO ][22:57:26] Listening on port 3000
+[INFO ][22:57:26] Current game mode is Free For All
+[INFO ][22:57:27] Added 4 player bots
+[NONE ][22:57:27]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][22:57:54] CONNECTED 73.73.5.53:34986, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][22:57:55] CONNECTED 71.10.150.29:34988, origin: "https://8451268c-7b9d-4530-8b13-9f1ac828e838.id.repl.co"
+[NONE ][22:57:55] CONNECTED 34.132.166.212:39964, origin: "https://bitmath.xyz"
+[NONE ][22:57:55] CONNECTED 104.198.205.161:39966, origin: "https://bitmath.xyz"
+[NONE ][22:57:55] CONNECTED 104.198.205.161:39702, origin: "https://bitmath.xyz"
+[NONE ][22:57:55] CONNECTED 205.118.123.61:55808, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][22:57:55] CONNECTED 205.118.123.61:37464, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][22:57:55] CONNECTED 165.29.23.121:53164, origin: "https://biobit.braidenholliday.repl.co"
+[NONE ][22:57:56] CONNECTED 68.41.121.97:35972, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][22:57:56] CONNECTED 205.118.123.61:37484, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][22:57:56] CONNECTED 104.198.205.161:35574, origin: "https://bitmath.xyz"
+[NONE ][22:57:56] CONNECTED 205.118.123.61:37492, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][22:57:56] CONNECTED 98.161.224.186:37504, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][22:57:56] CONNECTED 34.132.166.212:35578, origin: "https://bitmath.xyz"
+[NONE ][22:57:56] CONNECTED 34.132.166.212:39614, origin: "https://bitmath.xyz"
+[NONE ][22:57:57] CONNECTED 68.41.121.97:50618, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][22:57:58] CONNECTED 68.41.121.97:50634, origin: "https://biobit.bigfatgrub.repl.co"
+[NONE ][22:57:58] CONNECTED 34.132.166.212:39980, origin: "https://bitmath.xyz"
+[FATAL][22:57:59] RangeError: Maximum call stack size exceeded
+    at Receiver.readBuffer (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:71:14)
+    at Receiver.start (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:158:22)
+    at Receiver.dataMessage (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:373:10)
+    at Receiver.getData (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:319:12)
+    at Receiver.getMask (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:295:10)
+    at Receiver.haveLength (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:278:12)
+    at Receiver.start (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:226:12)
+    at Receiver.dataMessage (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:373:10)
+    at Receiver.getData (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:319:12)
+    at Receiver.getMask (/home/runner/BioBit/node_modules/ws/lib/Receiver.js:295:10)
+[DEBUG][22:57:59] process.exit(1)
+=== Shutdown 2023-02-07T22-57-59-608 ===

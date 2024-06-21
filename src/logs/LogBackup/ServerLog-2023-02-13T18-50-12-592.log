@@ -1,0 +1,454 @@
+=== Started 2023-02-13T17-11-41-314 ===
+[ERROR][17:11:41] Unknown gameserver.ini value: serverWelcome3
+[INFO ][17:11:41] 2 bad words loaded
+[INFO ][17:11:41] 4 user records loaded.
+[INFO ][17:11:41] 0 IP ban records loaded.
+[INFO ][17:11:41] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][17:11:41] WebSocket: ws
+[INFO ][17:11:41] Started stats server on port 1234
+[INFO ][17:11:41] Listening on port 3000
+[INFO ][17:11:41] Current game mode is Free For All
+[INFO ][17:11:41] Added 4 player bots
+[NONE ][17:11:41]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][17:11:44] CONNECTED 152.157.185.136:59522, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:11:44] Welcome to BioBit v1.0! 
+[NONE ][17:11:44] SERVER
+[NONE ][17:11:44] Hello There! 
+[NONE ][17:11:44] SERVER
+[NONE ][17:12:14] !claim
+[NONE ][17:12:14] Joe Swansonson
+[NONE ][17:12:14] Message from admin: Joe Swansonson
+[NONE ][17:13:04] >help
+[NONE ][17:13:04]               ┌────────────────────────────┐                       
+                       │ LIST OF AVAILABLE COMMANDS │                       
+┌──────────────────────┴────────────────────────────┴──────────────────────┐
+│                         ----Players and AI----                           │
+│                                                                          │
+│ playerlist                   │ Get list of players, bots, ID's, etc      │
+│ minion [PlayerID] [#] [name] │ Adds suicide minions to the server        │
+│ addbot [number]              │ Adds bots to the server                   │
+│ kickbot [number]             │ Kick a number of bots - No value= all gone│
+│ kick [PlayerID]              │ Kick player or bot by client ID           │
+│ kickall                      │ Kick all players and bots                 │
+│ kill [PlayerID]              │ Kill the player by client ID              │
+│ killall                      │ Kills everyone                            │
+│                                                                          │
+│                          ----Player Commands----                         │
+│                                                                          │
+│ spawn [entity] [pos] [mass]  │ Spawns an entity                          │
+│ mass [PlayerID] [mass]       │ Set cell(s) mass by client ID             │
+│ merge [PlayerID]             │ Merge all client's cells                  │
+│ spawnmass [PlayerID] [mass]  │ Sets a player's spawn mass                │
+│ freeze [PlayerID]            │ Freezes a player                          │
+│ speed [PlayerID]             │ Sets a player's base speed                │
+│ color [PlayerID] [R] [G] [B] │ Set cell(s) color by client ID            │
+│ name [PlayerID] [name]       │ Change cell(s) name by client ID          │
+│ skin [PlayerID] [string]     │ Change cell(s) skin by client ID          │
+│ rec [PlayerID]               │ Gives a player instant-recombine + more   │
+│ split [PlayerID] [Amount]    │ Forces a player to split                  │
+│ tp [X] [Y]                   │ Teleports player(s) to XY coordinates     │
+│ replace [PlayerID] [entity]  │ Replaces a player with an entity          │
+│ pop [PlayerID]               │ Pops a player with a virus                │
+| explode [PlayerID]           | Explodes a player into ejected mass       |
+│                                                                          │
+│                          ----Server Commands----                         │
+│                                                                          │
+│ pause                        │ Pause game, freeze all nodes              │
+│ board [string] [string] ...  │ Set scoreboard text                       │
+│ change [setting] [value]     │ Change specified settings                 │
+│ reload                       │ Reload config, banlist, and role files    │
+│ ban [PlayerID │ IP]          │ Bans a player(s) IP                       │
+│ unban [IP]                   │ Unbans an IP                              │
+│ banlist                      │ Get list of banned IPs.                   │
+│ mute [PlayerID]              │ Mute player from chat by client ID        │
+│ unmute [PlayerID]            │ Unmute player from chat by client ID      │
+| lms                          | Starts/ends last man standing             |
+| chat                         | Sends a server message to all clients     |
+│                                                                          │
+│                          ----Miscellaneous----                           │
+│                                                                          │
+│ clear                        │ Clear console output                      │
+│ reset                        │ Removes all nodes and reimplement them    │
+│ status                       │ Get server status                         │
+│ debug                        │ Get/check node lengths                    │
+│ exit                         │ Stops the server                          │
+│ calc                         │ Get size/mass from a specified value      │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────┤
+│               Why did i make this lmao... i have no life                 │
+└──────────────────────────────────────────────────────────────────────────┘
+[NONE ][17:13:09] >playerlist
+[NONE ][17:13:09] 
+Current players: 5
+[NONE ][17:13:09] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][17:13:09]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                                               
+[NONE ][17:13:09] ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][17:13:09]       1 | [BOT]           | ? |     1 |     57 | -2933, -6524 | Bruh 🤖                                           
+[NONE ][17:13:09]       2 | [BOT]           | ? |     1 |    288 | -1271,  5624 | Bruh 🤖                                           
+[NONE ][17:13:09]       3 | [BOT]           | ? |     1 |    121 |  6653,  5685 | Toenail 🤖                                        
+[NONE ][17:13:09]       4 | [BOT]           | ? |     1 |    176 | -4413,  5695 | Bruh 🤖                                           
+[NONE ][17:13:09]       5 | 152.157.185.136 | 6 |     1 |     15 |  1952,    45 | Joe Swansonson                                    
+[NONE ][17:13:28] >mass 5 1274126487162487
+[NONE ][17:13:28] Set mass of Joe Swansonson to 1274126487162487.000
+[NONE ][17:13:50] >mass 5 000
+[NONE ][17:13:50] Set mass of Joe Swansonson to 0.000
+[NONE ][17:14:34] >mass 5 5000
+[NONE ][17:14:34] Set mass of Joe Swansonson to 5000.000
+[NONE ][17:15:02] >speed 5 100
+[NONE ][17:15:02] Set base speed of Joe Swansonson to 100
+[NONE ][17:16:01] >aadbot
+[WARN ][17:16:01] Invalid Command!
+[NONE ][17:16:03] >addbot
+[NONE ][17:16:03] Added 1 player bots
+[NONE ][17:16:08] >addbot Joe Mama
+[NONE ][17:16:08] Added 1 player bots
+[NONE ][17:16:10] >addbot Joe Mama
+[NONE ][17:16:10] Added 1 player bots
+[NONE ][17:16:11] >addbot Joe Mama
+[NONE ][17:16:11] Added 1 player bots
+[NONE ][17:16:11] >addbot Joe Mama
+[NONE ][17:16:11] Added 1 player bots
+[NONE ][17:16:11] >addbot Joe Mama
+[NONE ][17:16:11] Added 1 player bots
+[NONE ][17:16:12] >addbot Joe Mama
+[NONE ][17:16:12] Added 1 player bots
+[NONE ][17:16:12] >addbot Joe Mama
+[NONE ][17:16:12] Added 1 player bots
+[NONE ][17:16:12] >addbot Joe Mama
+[NONE ][17:16:12] Added 1 player bots
+[NONE ][17:16:12] >addbot Joe Mama
+[NONE ][17:16:12] Added 1 player bots
+[NONE ][17:16:13] >addbot Joe Mama
+[NONE ][17:16:13] Added 1 player bots
+[NONE ][17:16:13] >addbot Joe Mama
+[NONE ][17:16:13] Added 1 player bots
+[NONE ][17:16:13] >addbot Joe Mama
+[NONE ][17:16:13] Added 1 player bots
+[NONE ][17:16:14] >addbot Joe Mama
+[NONE ][17:16:14] Added 1 player bots
+[NONE ][17:16:14] >addbot Joe Mama
+[NONE ][17:16:14] Added 1 player bots
+[NONE ][17:17:24] >help
+[NONE ][17:17:24]               ┌────────────────────────────┐                       
+                       │ LIST OF AVAILABLE COMMANDS │                       
+┌──────────────────────┴────────────────────────────┴──────────────────────┐
+│                         ----Players and AI----                           │
+│                                                                          │
+│ playerlist                   │ Get list of players, bots, ID's, etc      │
+│ minion [PlayerID] [#] [name] │ Adds suicide minions to the server        │
+│ addbot [number]              │ Adds bots to the server                   │
+│ kickbot [number]             │ Kick a number of bots - No value= all gone│
+│ kick [PlayerID]              │ Kick player or bot by client ID           │
+│ kickall                      │ Kick all players and bots                 │
+│ kill [PlayerID]              │ Kill the player by client ID              │
+│ killall                      │ Kills everyone                            │
+│                                                                          │
+│                          ----Player Commands----                         │
+│                                                                          │
+│ spawn [entity] [pos] [mass]  │ Spawns an entity                          │
+│ mass [PlayerID] [mass]       │ Set cell(s) mass by client ID             │
+│ merge [PlayerID]             │ Merge all client's cells                  │
+│ spawnmass [PlayerID] [mass]  │ Sets a player's spawn mass                │
+│ freeze [PlayerID]            │ Freezes a player                          │
+│ speed [PlayerID]             │ Sets a player's base speed                │
+│ color [PlayerID] [R] [G] [B] │ Set cell(s) color by client ID            │
+│ name [PlayerID] [name]       │ Change cell(s) name by client ID          │
+│ skin [PlayerID] [string]     │ Change cell(s) skin by client ID          │
+│ rec [PlayerID]               │ Gives a player instant-recombine + more   │
+│ split [PlayerID] [Amount]    │ Forces a player to split                  │
+│ tp [X] [Y]                   │ Teleports player(s) to XY coordinates     │
+│ replace [PlayerID] [entity]  │ Replaces a player with an entity          │
+│ pop [PlayerID]               │ Pops a player with a virus                │
+| explode [PlayerID]           | Explodes a player into ejected mass       |
+│                                                                          │
+│                          ----Server Commands----                         │
+│                                                                          │
+│ pause                        │ Pause game, freeze all nodes              │
+│ board [string] [string] ...  │ Set scoreboard text                       │
+│ change [setting] [value]     │ Change specified settings                 │
+│ reload                       │ Reload config, banlist, and role files    │
+│ ban [PlayerID │ IP]          │ Bans a player(s) IP                       │
+│ unban [IP]                   │ Unbans an IP                              │
+│ banlist                      │ Get list of banned IPs.                   │
+│ mute [PlayerID]              │ Mute player from chat by client ID        │
+│ unmute [PlayerID]            │ Unmute player from chat by client ID      │
+| lms                          | Starts/ends last man standing             |
+| chat                         | Sends a server message to all clients     |
+│                                                                          │
+│                          ----Miscellaneous----                           │
+│                                                                          │
+│ clear                        │ Clear console output                      │
+│ reset                        │ Removes all nodes and reimplement them    │
+│ status                       │ Get server status                         │
+│ debug                        │ Get/check node lengths                    │
+│ exit                         │ Stops the server                          │
+│ calc                         │ Get size/mass from a specified value      │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────┤
+│               Why did i make this lmao... i have no life                 │
+└──────────────────────────────────────────────────────────────────────────┘
+[NONE ][17:17:27] >explode 5
+[NONE ][17:17:27] Successfully exploded Joe Swansonson
+[NONE ][17:17:33] >explode 5
+[NONE ][17:17:34] Successfully exploded Joe Swansonson
+[NONE ][17:17:35] >explode 5
+[NONE ][17:17:35] Successfully exploded Joe Swansonson
+[NONE ][17:17:35] >explode 5
+[NONE ][17:17:35] Successfully exploded Joe Swansonson
+[NONE ][17:17:35] >explode 5
+[NONE ][17:17:36] Successfully exploded Joe Swansonson
+[NONE ][17:17:36] >explode 5
+[NONE ][17:17:36] Successfully exploded Joe Swansonson
+[NONE ][17:17:36] >explode 5
+[NONE ][17:17:36] Successfully exploded Joe Swansonson
+[NONE ][17:17:36] >explode 5
+[NONE ][17:17:36] Successfully exploded Joe Swansonson
+[NONE ][17:17:36] >explode 5
+[NONE ][17:17:36] Successfully exploded Joe Swansonson
+[NONE ][17:17:37] >explode 5
+[NONE ][17:17:37] Successfully exploded Joe Swansonson
+[NONE ][17:17:37] >explode 5
+[NONE ][17:17:37] Successfully exploded Joe Swansonson
+[NONE ][17:17:37] >explode 5
+[NONE ][17:17:37] Successfully exploded Joe Swansonson
+[NONE ][17:18:59] >mass 5 100000
+[NONE ][17:18:59] Set mass of Joe Swansonson to 100000.000
+[NONE ][17:19:26] >split 5 100
+[NONE ][17:19:26] Split player to playerMaxCells
+[NONE ][17:19:26] Forced Joe Swansonson to split 21 times
+[NONE ][17:19:31] >split 5 100
+[NONE ][17:19:31] Split player to playerMaxCells
+[NONE ][17:19:31] Forced Joe Swansonson to split 21 times
+[NONE ][17:19:33] >split 5 1000
+[NONE ][17:19:33] Split player to playerMaxCells
+[NONE ][17:19:33] Forced Joe Swansonson to split 21 times
+[NONE ][17:19:37] >split 5 21
+[NONE ][17:19:37] Forced Joe Swansonson to split 21 times
+[NONE ][17:19:38] >split 5 21
+[NONE ][17:19:38] Forced Joe Swansonson to split 21 times
+[NONE ][17:19:45] >merge 5
+[NONE ][17:19:45] Joe Swansonson is now force merging
+[NONE ][17:22:53] DISCONNECTED 152.157.185.136:59522, code: 1006, reason: "null", name: "Joe Swansonson"
+[NONE ][17:22:57] CONNECTED 152.157.185.136:40382, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:22:57] Welcome to BioBit v1.0! 
+[NONE ][17:22:57] SERVER
+[NONE ][17:22:57] Hello There! 
+[NONE ][17:22:57] SERVER
+[NONE ][17:24:37] DISCONNECTED 152.157.185.136:40382, code: 1006, reason: "null", name: ""
+[NONE ][17:24:44] CONNECTED 152.157.185.136:60616, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:24:45] Welcome to BioBit v1.0! 
+[NONE ][17:24:45] SERVER
+[NONE ][17:24:45] Hello There! 
+[NONE ][17:24:45] SERVER
+[NONE ][17:27:44] DISCONNECTED 152.157.185.136:60616, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:27:46] CONNECTED 152.157.185.136:57126, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:27:47] Welcome to BioBit v1.0! 
+[NONE ][17:27:47] SERVER
+[NONE ][17:27:47] Hello There! 
+[NONE ][17:27:47] SERVER
+[NONE ][17:28:27] DISCONNECTED 152.157.185.136:57126, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:28:33] CONNECTED 152.157.185.136:38906, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:28:34] Welcome to BioBit v1.0! 
+[NONE ][17:28:34] SERVER
+[NONE ][17:28:34] Hello There! 
+[NONE ][17:28:34] SERVER
+[NONE ][17:29:26] DISCONNECTED 152.157.185.136:38906, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:29:28] CONNECTED 152.157.185.136:56478, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:29:29] Welcome to BioBit v1.0! 
+[NONE ][17:29:29] SERVER
+[NONE ][17:29:29] Hello There! 
+[NONE ][17:29:29] SERVER
+[NONE ][17:30:26] DISCONNECTED 152.157.185.136:56478, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:30:29] CONNECTED 152.157.185.136:46414, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:30:29] Welcome to BioBit v1.0! 
+[NONE ][17:30:29] SERVER
+[NONE ][17:30:29] Hello There! 
+[NONE ][17:30:29] SERVER
+[NONE ][17:31:27] DISCONNECTED 152.157.185.136:46414, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:31:29] CONNECTED 152.157.185.136:38664, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:31:29] Welcome to BioBit v1.0! 
+[NONE ][17:31:29] SERVER
+[NONE ][17:31:29] Hello There! 
+[NONE ][17:31:29] SERVER
+[NONE ][17:32:27] DISCONNECTED 152.157.185.136:38664, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:32:29] CONNECTED 152.157.185.136:34434, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:32:29] Welcome to BioBit v1.0! 
+[NONE ][17:32:29] SERVER
+[NONE ][17:32:29] Hello There! 
+[NONE ][17:32:29] SERVER
+[NONE ][17:33:27] DISCONNECTED 152.157.185.136:34434, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:33:29] CONNECTED 152.157.185.136:40022, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:33:29] Welcome to BioBit v1.0! 
+[NONE ][17:33:29] SERVER
+[NONE ][17:33:29] Hello There! 
+[NONE ][17:33:29] SERVER
+[NONE ][17:34:27] DISCONNECTED 152.157.185.136:40022, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:34:29] CONNECTED 152.157.185.136:45084, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:34:29] Welcome to BioBit v1.0! 
+[NONE ][17:34:29] SERVER
+[NONE ][17:34:29] Hello There! 
+[NONE ][17:34:29] SERVER
+[NONE ][17:35:27] DISCONNECTED 152.157.185.136:45084, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:35:29] CONNECTED 152.157.185.136:56338, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:35:29] Welcome to BioBit v1.0! 
+[NONE ][17:35:29] SERVER
+[NONE ][17:35:29] Hello There! 
+[NONE ][17:35:29] SERVER
+[NONE ][17:36:27] DISCONNECTED 152.157.185.136:56338, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:36:29] CONNECTED 152.157.185.136:47346, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:36:29] Welcome to BioBit v1.0! 
+[NONE ][17:36:29] SERVER
+[NONE ][17:36:29] Hello There! 
+[NONE ][17:36:29] SERVER
+[NONE ][17:37:27] DISCONNECTED 152.157.185.136:47346, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:37:29] CONNECTED 152.157.185.136:55378, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:37:29] Welcome to BioBit v1.0! 
+[NONE ][17:37:29] SERVER
+[NONE ][17:37:29] Hello There! 
+[NONE ][17:37:29] SERVER
+[NONE ][17:38:27] DISCONNECTED 152.157.185.136:55378, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:38:29] CONNECTED 152.157.185.136:54466, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:38:29] Welcome to BioBit v1.0! 
+[NONE ][17:38:29] SERVER
+[NONE ][17:38:29] Hello There! 
+[NONE ][17:38:29] SERVER
+[NONE ][17:39:27] DISCONNECTED 152.157.185.136:54466, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:39:29] CONNECTED 152.157.185.136:43228, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:39:29] Welcome to BioBit v1.0! 
+[NONE ][17:39:29] SERVER
+[NONE ][17:39:29] Hello There! 
+[NONE ][17:39:29] SERVER
+[NONE ][17:40:27] DISCONNECTED 152.157.185.136:43228, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:40:29] CONNECTED 152.157.185.136:40356, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:40:29] Welcome to BioBit v1.0! 
+[NONE ][17:40:29] SERVER
+[NONE ][17:40:29] Hello There! 
+[NONE ][17:40:29] SERVER
+[NONE ][17:43:46] >speed 5 50
+[WARN ][17:43:46] That player ID is non-existant!
+[NONE ][17:43:51] >playerlist
+[NONE ][17:43:51] 
+Current players: 20
+[NONE ][17:43:51] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][17:43:51]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                                               
+[NONE ][17:43:51] ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][17:43:51]       1 | [BOT]           | ? |    11 |  11364 |  -245,  -610 | Bruh 🤖                                           
+[NONE ][17:43:51]       2 | [BOT]           | ? |     1 |    311 | -6982,  2865 | Bruh 🤖                                           
+[NONE ][17:43:51]       3 | [BOT]           | ? |     1 |    592 | -4733,  1261 | Toenail 🤖                                        
+[NONE ][17:43:51]       4 | [BOT]           | ? |     1 |     16 | -4153,  2152 | Bruh 🤖                                           
+[NONE ][17:43:51]       6 | [BOT]           | ? |     1 |    222 |  2868, -1846 | Toenail 🤖                                        
+[NONE ][17:43:51]       7 | [BOT]           | ? |     1 |   3154 | -2458,  1497 | Hello 🤖                                          
+[NONE ][17:43:51]       8 | [BOT]           | ? |     1 |    433 | -6172,  2787 | Bruh 🤖                                           
+[NONE ][17:43:51]       9 | [BOT]           | ? |     1 |     71 | -7027, -7027 | Toenail 🤖                                        
+[NONE ][17:43:51]      10 | [BOT]           | ? |    20 |   6371 |   228,   275 | Sweaty 🤖                                         
+[NONE ][17:43:51]      11 | [BOT]           | ? |     1 |     29 | -4283,   439 | Bruh 🤖                                           
+[NONE ][17:43:51]      12 | [BOT]           | ? |     2 |     92 |  2458,  3517 | Toenail 🤖                                        
+[NONE ][17:43:51]      13 | [BOT]           | ? |     1 |    107 |  4760, -2301 | Hello 🤖                                          
+[NONE ][17:43:51]      14 | [BOT]           | ? |     8 |    768 |   372,   840 | Maggot 🤖                                         
+[NONE ][17:43:51]      15 | [BOT]           | ? |     1 |    330 | -5056,   -24 | Bruh 🤖                                           
+[NONE ][17:43:51]      16 | [BOT]           | ? |     2 |   3683 |   222, -2789 | Maggot 🤖                                         
+[NONE ][17:43:51]      17 | [BOT]           | ? |     2 |    120 |  1351,  2915 | Sweaty 🤖                                         
+[NONE ][17:43:51]      18 | [BOT]           | ? |     1 |    328 |  1681,  -779 | Hello 🤖                                          
+[NONE ][17:43:51]      19 | [BOT]           | ? |     1 |    252 | -6348,  4407 | Sweaty 🤖                                         
+[NONE ][17:43:51]      20 | [BOT]           | ? |     6 |    642 |   749,   398 | Toenail 🤖                                        
+[NONE ][17:43:51]      36 | 152.157.185.136 | 6 |     1 |    656 |  2746, -3067 | Joe Swansonson                                    
+[NONE ][17:43:56] >speed 36 50
+[NONE ][17:43:56] Set base speed of Joe Swansonson to 50
+[NONE ][17:44:00] >speed 36 40
+[NONE ][17:44:00] Set base speed of Joe Swansonson to 40
+[NONE ][17:44:03] >speed 36 20
+[NONE ][17:44:03] Set base speed of Joe Swansonson to 20
+[NONE ][17:44:07] >speed 36 15
+[NONE ][17:44:07] Set base speed of Joe Swansonson to 15
+[NONE ][17:44:14] >speed 36 10
+[NONE ][17:44:14] Set base speed of Joe Swansonson to 10
+[NONE ][17:44:22] >speed 36 5
+[NONE ][17:44:22] Set base speed of Joe Swansonson to 5
+[NONE ][17:44:25] >speed 36 2
+[NONE ][17:44:25] Set base speed of Joe Swansonson to 2
+[NONE ][17:45:12] >speed 36 5
+[NONE ][17:45:12] Set base speed of Joe Swansonson to 5
+[NONE ][17:47:04] >combine
+[WARN ][17:47:04] Invalid Command!
+[NONE ][17:47:09] >merge 36
+[NONE ][17:47:09] Joe Swansonson is now force merging
+[NONE ][17:47:16] >merge 36 26
+[NONE ][17:47:16] Joe Swansonson isn't force merging anymore
+[NONE ][17:53:52] >help
+[NONE ][17:53:52]               ┌────────────────────────────┐                       
+                       │ LIST OF AVAILABLE COMMANDS │                       
+┌──────────────────────┴────────────────────────────┴──────────────────────┐
+│                         ----Players and AI----                           │
+│                                                                          │
+│ playerlist                   │ Get list of players, bots, ID's, etc      │
+│ minion [PlayerID] [#] [name] │ Adds suicide minions to the server        │
+│ addbot [number]              │ Adds bots to the server                   │
+│ kickbot [number]             │ Kick a number of bots - No value= all gone│
+│ kick [PlayerID]              │ Kick player or bot by client ID           │
+│ kickall                      │ Kick all players and bots                 │
+│ kill [PlayerID]              │ Kill the player by client ID              │
+│ killall                      │ Kills everyone                            │
+│                                                                          │
+│                          ----Player Commands----                         │
+│                                                                          │
+│ spawn [entity] [pos] [mass]  │ Spawns an entity                          │
+│ mass [PlayerID] [mass]       │ Set cell(s) mass by client ID             │
+│ merge [PlayerID]             │ Merge all client's cells                  │
+│ spawnmass [PlayerID] [mass]  │ Sets a player's spawn mass                │
+│ freeze [PlayerID]            │ Freezes a player                          │
+│ speed [PlayerID]             │ Sets a player's base speed                │
+│ color [PlayerID] [R] [G] [B] │ Set cell(s) color by client ID            │
+│ name [PlayerID] [name]       │ Change cell(s) name by client ID          │
+│ skin [PlayerID] [string]     │ Change cell(s) skin by client ID          │
+│ rec [PlayerID]               │ Gives a player instant-recombine + more   │
+│ split [PlayerID] [Amount]    │ Forces a player to split                  │
+│ tp [X] [Y]                   │ Teleports player(s) to XY coordinates     │
+│ replace [PlayerID] [entity]  │ Replaces a player with an entity          │
+│ pop [PlayerID]               │ Pops a player with a virus                │
+| explode [PlayerID]           | Explodes a player into ejected mass       |
+│                                                                          │
+│                          ----Server Commands----                         │
+│                                                                          │
+│ pause                        │ Pause game, freeze all nodes              │
+│ board [string] [string] ...  │ Set scoreboard text                       │
+│ change [setting] [value]     │ Change specified settings                 │
+│ reload                       │ Reload config, banlist, and role files    │
+│ ban [PlayerID │ IP]          │ Bans a player(s) IP                       │
+│ unban [IP]                   │ Unbans an IP                              │
+│ banlist                      │ Get list of banned IPs.                   │
+│ mute [PlayerID]              │ Mute player from chat by client ID        │
+│ unmute [PlayerID]            │ Unmute player from chat by client ID      │
+| lms                          | Starts/ends last man standing             |
+| chat                         | Sends a server message to all clients     |
+│                                                                          │
+│                          ----Miscellaneous----                           │
+│                                                                          │
+│ clear                        │ Clear console output                      │
+│ reset                        │ Removes all nodes and reimplement them    │
+│ status                       │ Get server status                         │
+│ debug                        │ Get/check node lengths                    │
+│ exit                         │ Stops the server                          │
+│ calc                         │ Get size/mass from a specified value      │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────┤
+│               Why did i make this lmao... i have no life                 │
+└──────────────────────────────────────────────────────────────────────────┘
+[NONE ][17:56:22] DISCONNECTED 152.157.185.136:40356, code: null, reason: "null", name: "Joe Swansonson"
+[NONE ][17:56:24] CONNECTED 152.157.185.136:57486, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:56:24] Welcome to BioBit v1.0! 
+[NONE ][17:56:24] SERVER
+[NONE ][17:56:24] Hello There! 
+[NONE ][17:56:24] SERVER
+[NONE ][17:57:29] DISCONNECTED 152.157.185.136:57486, code: 1006, reason: "null", name: ""
+[NONE ][18:47:15] CONNECTED 152.157.185.136:36712, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:47:15] Welcome to BioBit v1.0! 
+[NONE ][18:47:15] SERVER
+[NONE ][18:47:15] Hello There! 
+[NONE ][18:47:15] SERVER

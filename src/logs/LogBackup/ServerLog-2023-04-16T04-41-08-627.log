@@ -1,0 +1,27 @@
+=== Started 2023-04-16T00-21-28-621 ===
+[ERROR][00:21:28] Unknown gameserver.ini value: serverWelcome3
+[INFO ][00:21:28] 2 bad words loaded
+[INFO ][00:21:28] 4 user records loaded.
+[INFO ][00:21:28] 0 IP ban records loaded.
+[INFO ][00:21:28] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][00:21:28] WebSocket: ws
+[INFO ][00:21:29] Started stats server on port 1234
+[INFO ][00:21:29] Listening on port 3000
+[INFO ][00:21:29] Current game mode is vFree For All
+[INFO ][00:21:29] Added 4 player bots
+[NONE ][00:21:29]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][00:21:40] CONNECTED 104.58.56.82:54192, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:21:58] DISCONNECTED 104.58.56.82:54192, code: 1001, reason: "", name: "Player"
+[NONE ][00:54:19] CONNECTED 104.58.56.82:45164, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][00:55:03] CONNECTED 71.229.117.62:50278, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][00:56:03] DISCONNECTED 71.229.117.62:50278, code: 1006, reason: "null", name: ""
+[NONE ][00:56:11] DISCONNECTED 104.58.56.82:45164, code: null, reason: "null", name: ""
+[NONE ][01:02:02] CONNECTED 104.58.56.82:37644, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][01:02:39] DISCONNECTED 104.58.56.82:37644, code: null, reason: "null", name: "Player"
+[NONE ][01:02:43] CONNECTED 104.58.56.82:48694, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][01:02:53] DISCONNECTED 104.58.56.82:48694, code: null, reason: "null", name: ""

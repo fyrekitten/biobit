@@ -1,0 +1,26 @@
+=== Started 2023-04-09T14-13-17-886 ===
+[ERROR][14:13:17] Unknown gameserver.ini value: serverWelcome3
+[INFO ][14:13:17] 2 bad words loaded
+[INFO ][14:13:17] 4 user records loaded.
+[INFO ][14:13:17] 0 IP ban records loaded.
+[INFO ][14:13:17] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][14:13:17] WebSocket: ws
+[INFO ][14:13:17] Started stats server on port 1234
+[INFO ][14:13:17] Listening on port 3000
+[INFO ][14:13:17] Current game mode is vFree For All
+[INFO ][14:13:18] Added 4 player bots
+[NONE ][14:13:18]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][14:14:18] CONNECTED 32.221.240.197:42264, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][14:20:17] DISCONNECTED 32.221.240.197:42264, code: 1001, reason: "", name: "Player"
+[NONE ][15:02:05] CONNECTED 32.221.240.197:40774, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][15:08:36] DISCONNECTED 32.221.240.197:40774, code: null, reason: "null", name: "Player"
+[NONE ][15:08:36] DISCONNECTED 32.221.240.197:40774, code: null, reason: "null", name: "Player"
+[NONE ][15:08:41] CONNECTED 32.221.240.197:56720, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][15:09:41] DISCONNECTED 32.221.240.197:56720, code: 1006, reason: "null", name: ""
+[NONE ][15:28:32] CONNECTED 95.14.108.224:58868, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][15:32:54] DISCONNECTED 95.14.108.224:58868, code: 1006, reason: "null", name: "Player"

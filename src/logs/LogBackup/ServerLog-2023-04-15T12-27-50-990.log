@@ -1,0 +1,22 @@
+=== Started 2023-04-15T04-45-55-830 ===
+[ERROR][04:45:55] Unknown gameserver.ini value: serverWelcome3
+[INFO ][04:45:55] 2 bad words loaded
+[INFO ][04:45:55] 4 user records loaded.
+[INFO ][04:45:55] 0 IP ban records loaded.
+[INFO ][04:45:55] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][04:45:55] WebSocket: ws
+[INFO ][04:45:56] Started stats server on port 1234
+[INFO ][04:45:56] Listening on port 3000
+[INFO ][04:45:56] Current game mode is vFree For All
+[INFO ][04:45:56] Added 4 player bots
+[NONE ][04:45:56]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][05:14:49] CONNECTED 98.203.104.7:50738, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][05:15:56] DISCONNECTED 98.203.104.7:50738, code: 1001, reason: "", name: "free candy😩"
+[NONE ][05:20:59] CONNECTED 205.118.123.63:56622, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][05:21:46] DISCONNECTED 205.118.123.63:56622, code: 1001, reason: "", name: "Player"
+[NONE ][05:21:51] CONNECTED 205.118.123.63:33922, origin: "https://biobit-forked.lxtte.repl.co"

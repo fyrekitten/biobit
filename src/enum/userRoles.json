@@ -1,0 +1,27 @@
+[
+  {
+    "ip": "78.173.11.215",
+    "password": "mustafa1",
+    "role": "ADMIN",
+    "name": "FlashPower"
+  },
+  {
+    "ip": "88.248.210.127",
+    "password": "PROT0N3303",
+    "role": "MODER",
+    "name": "prot0n"
+  },
+   {
+    "ip": "212.252.140.90",
+    "password": "12345lolxdlmaojuke",
+    "role": "USER",
+    "name": "jukeboxguy"
+  },
+   {
+    "ip": "78.188.159.170",
+    "password": "amogus",
+    "role": "MODER",
+    "name": "abc"
+  }
+  
+]

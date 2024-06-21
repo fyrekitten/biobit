@@ -1,0 +1,142 @@
+=== Started 2023-03-24T13-52-28-435 ===
+[ERROR][13:52:28] Unknown gameserver.ini value: serverWelcome3
+[INFO ][13:52:28] 2 bad words loaded
+[INFO ][13:52:28] 4 user records loaded.
+[INFO ][13:52:28] 0 IP ban records loaded.
+[INFO ][13:52:28] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:52:28] WebSocket: ws
+[INFO ][13:52:28] Started stats server on port 1234
+[INFO ][13:52:28] Listening on port 3000
+[INFO ][13:52:28] Current game mode is vFree For All
+[INFO ][13:52:28] Added 4 player bots
+[NONE ][13:52:28]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:54:06] CONNECTED 136.228.204.243:46872, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:56:23] CONNECTED 96.2.247.202:55252, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:58:22] DISCONNECTED 136.228.204.243:46872, code: null, reason: "null", name: ""
+[NONE ][13:58:22] DISCONNECTED 136.228.204.243:46872, code: null, reason: "null", name: ""
+[NONE ][13:58:24] CONNECTED 136.228.204.243:60518, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:59:03] DISCONNECTED 136.228.204.243:60518, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:59:05] CONNECTED 136.228.204.243:54024, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:59:52] DISCONNECTED 136.228.204.243:54024, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:59:54] CONNECTED 136.228.204.243:40920, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:00:52] DISCONNECTED 136.228.204.243:40920, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:00:55] CONNECTED 136.228.204.243:56546, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:01:52] DISCONNECTED 136.228.204.243:56546, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:01:54] CONNECTED 136.228.204.243:59134, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:02:52] DISCONNECTED 136.228.204.243:59134, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:02:56] CONNECTED 136.228.204.243:55980, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:03:52] DISCONNECTED 136.228.204.243:55980, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:03:55] CONNECTED 104.225.186.72:48602, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][14:04:06] [172.31.128.1:55252] Error: write ECONNRESET
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:917:11)
+    at Socket._write (node:net:929:8)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at sendFramedData (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:435:20)
+    at Sender.frameAndSend (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:347:5)
+    at Sender.doClose (/home/runner/BioBit-Forked/node_modules/ws/lib/Sender.js:74:10)
+[NONE ][14:04:06] DISCONNECTED 96.2.247.202:55252, code: 1006, reason: "", name: "Cancer Cell"
+[NONE ][14:04:52] DISCONNECTED 104.225.186.72:48602, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:04:56] CONNECTED 104.225.186.72:48968, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:05:52] DISCONNECTED 104.225.186.72:48968, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:05:54] CONNECTED 104.225.186.72:33254, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:06:52] DISCONNECTED 104.225.186.72:33254, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:06:54] CONNECTED 104.225.186.72:51014, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:07:52] DISCONNECTED 104.225.186.72:51014, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:07:55] CONNECTED 104.225.186.72:41948, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:08:52] DISCONNECTED 104.225.186.72:41948, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:08:54] CONNECTED 104.225.186.72:57930, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:09:52] DISCONNECTED 104.225.186.72:57930, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:09:54] CONNECTED 104.225.186.72:44702, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:10:52] DISCONNECTED 104.225.186.72:44702, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:10:54] CONNECTED 104.225.186.72:39394, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:11:52] DISCONNECTED 104.225.186.72:39394, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:11:54] CONNECTED 104.225.186.72:52508, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:12:52] DISCONNECTED 104.225.186.72:52508, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:12:54] CONNECTED 104.225.186.72:55624, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:13:52] DISCONNECTED 104.225.186.72:55624, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:13:54] CONNECTED 136.228.203.11:48334, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:14:52] DISCONNECTED 136.228.203.11:48334, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:14:55] CONNECTED 136.228.203.11:54506, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:15:52] DISCONNECTED 136.228.203.11:54506, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:15:54] CONNECTED 136.228.203.11:48276, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:16:52] DISCONNECTED 136.228.203.11:48276, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:16:55] CONNECTED 136.228.203.11:51954, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:17:52] DISCONNECTED 136.228.203.11:51954, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:17:56] CONNECTED 136.228.203.11:56918, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:18:52] DISCONNECTED 136.228.203.11:56918, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:18:54] CONNECTED 136.228.203.11:58310, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:19:42] DISCONNECTED 136.228.203.11:58310, code: 1006, reason: "null", name: ""
+[NONE ][14:19:44] CONNECTED 136.228.203.11:42076, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:20:18] CONNECTED 168.102.1.64:49420, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][14:20:27] DISCONNECTED 136.228.203.11:42076, code: 1006, reason: "null", name: ""
+[NONE ][14:20:29] CONNECTED 136.228.203.11:53016, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:20:48] DISCONNECTED 168.102.1.64:49420, code: 1001, reason: "", name: ""
+[NONE ][14:21:09] DISCONNECTED 136.228.203.11:53016, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:21:11] CONNECTED 136.228.203.11:34346, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:21:52] DISCONNECTED 136.228.203.11:34346, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:21:54] CONNECTED 136.228.203.11:50726, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:22:52] DISCONNECTED 136.228.203.11:50726, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:22:55] CONNECTED 136.228.203.11:53864, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:23:52] DISCONNECTED 136.228.203.11:53864, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:23:54] CONNECTED 104.225.182.182:34406, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:24:52] DISCONNECTED 104.225.182.182:34406, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:24:54] CONNECTED 104.225.182.182:33754, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:25:52] DISCONNECTED 104.225.182.182:33754, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:25:54] CONNECTED 104.225.182.182:53528, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:26:52] DISCONNECTED 104.225.182.182:53528, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:26:54] CONNECTED 104.225.182.182:58708, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:27:52] DISCONNECTED 104.225.182.182:58708, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:27:54] CONNECTED 104.225.182.182:39348, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:28:52] DISCONNECTED 104.225.182.182:39348, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:28:54] CONNECTED 104.225.182.182:51710, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:29:52] DISCONNECTED 104.225.182.182:51710, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:29:54] CONNECTED 104.225.182.182:54610, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:30:52] DISCONNECTED 104.225.182.182:54610, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:30:56] CONNECTED 104.225.182.182:53380, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:31:52] DISCONNECTED 104.225.182.182:53380, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:31:56] CONNECTED 104.225.182.182:53854, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:32:52] DISCONNECTED 104.225.182.182:53854, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:32:54] CONNECTED 104.225.182.182:58754, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:33:52] DISCONNECTED 104.225.182.182:58754, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:34:00] CONNECTED 104.225.182.182:39756, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:34:52] DISCONNECTED 104.225.182.182:39756, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:34:56] CONNECTED 104.225.169.128:34934, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:35:52] DISCONNECTED 104.225.169.128:34934, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:35:55] CONNECTED 104.225.169.128:52290, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:36:52] DISCONNECTED 104.225.169.128:52290, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:36:54] CONNECTED 104.225.169.128:60076, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:37:14] CONNECTED 63.236.213.242:38320, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:37:52] DISCONNECTED 104.225.169.128:60076, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:37:55] CONNECTED 104.225.169.128:42036, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:38:52] DISCONNECTED 104.225.169.128:42036, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:38:54] CONNECTED 104.225.169.128:49524, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:39:52] DISCONNECTED 104.225.169.128:49524, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:39:54] CONNECTED 104.225.169.128:45858, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:40:52] DISCONNECTED 104.225.169.128:45858, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:41:10] CONNECTED 104.225.169.128:38330, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:41:52] DISCONNECTED 104.225.169.128:38330, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:41:54] CONNECTED 104.225.169.128:37822, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:42:52] DISCONNECTED 104.225.169.128:37822, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:42:55] CONNECTED 104.225.169.128:33658, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:43:22] CONNECTED 76.190.0.250:60160, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][14:43:52] DISCONNECTED 104.225.169.128:33658, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:43:55] CONNECTED 104.225.169.128:32790, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:44:52] DISCONNECTED 104.225.169.128:32790, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:44:55] CONNECTED 136.228.202.199:34234, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:45:52] DISCONNECTED 136.228.202.199:34234, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:45:54] CONNECTED 136.228.202.199:45394, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:46:52] DISCONNECTED 136.228.202.199:45394, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:46:54] CONNECTED 136.228.202.199:46992, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:47:52] DISCONNECTED 136.228.202.199:46992, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:47:55] CONNECTED 136.228.202.199:35068, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:48:52] DISCONNECTED 136.228.202.199:35068, code: null, reason: "null", name: ""
+[NONE ][14:50:31] DISCONNECTED 63.236.213.242:38320, code: null, reason: "null", name: "brayson is very gay"

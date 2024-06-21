@@ -1,0 +1,724 @@
+=== Started 2023-04-18T11-59-50-835 ===
+[ERROR][11:59:50] Unknown gameserver.ini value: serverWelcome3
+[INFO ][11:59:50] 2 bad words loaded
+[INFO ][11:59:50] 4 user records loaded.
+[INFO ][11:59:50] 0 IP ban records loaded.
+[INFO ][11:59:50] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][11:59:50] WebSocket: ws
+[INFO ][11:59:51] Started stats server on port 1234
+[INFO ][11:59:51] Listening on port 3000
+[INFO ][11:59:51] Current game mode is vFree For All
+[INFO ][11:59:51] Added 4 player bots
+[NONE ][11:59:51]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][12:14:41] CONNECTED 5.150.102.196:42874, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][12:14:57] DISCONNECTED 5.150.102.196:42874, code: 1001, reason: "", name: ""
+[NONE ][12:19:30] CONNECTED 165.166.57.70:54666, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][12:21:26] DISCONNECTED 165.166.57.70:54666, code: 1001, reason: "", name: "hi"
+[ERROR][12:21:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][12:21:36] CONNECTED 165.166.57.70:46334, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][12:23:08] DISCONNECTED 165.166.57.70:46334, code: 1001, reason: "", name: "hi"
+[NONE ][12:43:38] CONNECTED 63.236.213.242:35884, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][12:45:10] CONNECTED 63.236.213.242:41866, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][12:45:43] DISCONNECTED 63.236.213.242:41866, code: 1001, reason: "", name: "DADDYDEUCE"
+[NONE ][12:46:08] DISCONNECTED 63.236.213.242:35884, code: 1001, reason: "", name: "Sex 🤖"
+[NONE ][12:46:13] CONNECTED 63.236.213.242:55884, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][12:46:33] CONNECTED 63.236.213.242:47906, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][12:47:37] DISCONNECTED 63.236.213.242:55884, code: 1001, reason: "", name: "Sex 🤖"
+[NONE ][12:47:38] DISCONNECTED 63.236.213.242:47906, code: 1000, reason: "", name: "you"
+[NONE ][12:47:42] CONNECTED 63.236.213.242:36138, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][12:48:13] CONNECTED 63.236.213.242:51106, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][12:49:01] DISCONNECTED 63.236.213.242:36138, code: 1001, reason: "", name: "Sex 🤖"
+[ERROR][12:49:12] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][12:49:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][12:49:47] DISCONNECTED 63.236.213.242:51106, code: 1001, reason: "", name: "you"
+[NONE ][12:49:49] CONNECTED 63.236.213.242:42048, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][12:49:53] CONNECTED 63.236.213.242:42054, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][12:50:07] DISCONNECTED 63.236.213.242:42054, code: 1001, reason: "", name: "you"
+[NONE ][12:53:11] CONNECTED 63.236.213.242:48766, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][12:53:36] DISCONNECTED 63.236.213.242:48766, code: 1006, reason: "null", name: ""
+[ERROR][12:53:42] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][12:54:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[ERROR][12:55:12] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][12:55:42] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][12:56:12] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][12:56:31] DISCONNECTED 63.236.213.242:42048, code: 1001, reason: "", name: "tyler "
+[ERROR][12:56:42] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][12:56:51] CONNECTED 63.236.213.242:36616, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][12:57:34] DISCONNECTED 63.236.213.242:36616, code: 1001, reason: "", name: "carter🖕🖕"
+[ERROR][12:57:42] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][12:59:18] CONNECTED 63.236.213.242:52096, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][12:59:37] DISCONNECTED 63.236.213.242:52096, code: 1001, reason: "", name: "blaze"
+[NONE ][12:59:53] CONNECTED 63.236.213.242:40234, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][13:01:12] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][13:01:21] CONNECTED 63.236.213.242:46432, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][13:02:12] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:02:42] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][13:03:02] DISCONNECTED 63.236.213.242:40234, code: 1001, reason: "", name: "josiah"
+[ERROR][13:03:12] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][13:04:40] DISCONNECTED 63.236.213.242:46432, code: 1006, reason: "", name: "joseph"
+[NONE ][13:10:37] CONNECTED 63.236.213.242:47666, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:12:13] CONNECTED 63.236.213.242:35890, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:12:22] DISCONNECTED 63.236.213.242:35890, code: 1001, reason: "", name: "egg chad"
+[NONE ][13:12:38] CONNECTED 63.236.213.242:44140, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:13:09] DISCONNECTED 63.236.213.242:47666, code: 1001, reason: "", name: "monkeyman 4.0"
+[ERROR][13:13:13] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][13:13:25] DISCONNECTED 63.236.213.242:44140, code: 1001, reason: "", name: ""
+[ERROR][13:13:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][13:13:51] CONNECTED 63.236.213.242:46652, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:16:25] CONNECTED 63.236.213.242:45554, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:16:29] DISCONNECTED 63.236.213.242:46652, code: 1001, reason: "", name: "carter🖕🖕"
+[ERROR][13:17:13] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:17:43] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:18:13] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][13:18:43] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][13:19:02] DISCONNECTED 63.236.213.242:45554, code: 1001, reason: "", name: "joseph"
+[ERROR][13:19:09] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][13:24:59] CONNECTED 63.236.213.242:60086, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:25:41] DISCONNECTED 63.236.213.242:60086, code: null, reason: "null", name: "hi"
+[NONE ][13:28:13] CONNECTED 63.236.213.242:41286, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:29:40] DISCONNECTED 63.236.213.242:41286, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:29:42] CONNECTED 63.236.213.242:37500, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:30:13] CONNECTED 96.2.247.202:44928, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:30:44] DISCONNECTED 63.236.213.242:37500, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:30:48] CONNECTED 63.236.213.242:36764, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:32:06] DISCONNECTED 63.236.213.242:36764, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:32:10] CONNECTED 63.236.213.242:47626, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:33:08] DISCONNECTED 63.236.213.242:47626, code: null, reason: "null", name: ""
+[NONE ][13:33:08] DISCONNECTED 63.236.213.242:47626, code: null, reason: "null", name: ""
+[NONE ][13:33:21] DISCONNECTED 96.2.247.202:44928, code: 1001, reason: "", name: "Kism"
+[NONE ][13:33:21] CONNECTED 63.236.213.242:57816, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:34:03] DISCONNECTED 63.236.213.242:57816, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:34:05] CONNECTED 63.236.213.242:43012, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:34:44] DISCONNECTED 63.236.213.242:43012, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:34:51] CONNECTED 63.236.213.242:43384, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:35:36] DISCONNECTED 63.236.213.242:43384, code: 1006, reason: "null", name: ""
+[NONE ][13:35:51] CONNECTED 63.236.213.242:46000, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:36:38] DISCONNECTED 63.236.213.242:46000, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:36:40] CONNECTED 63.236.213.242:40202, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:37:38] DISCONNECTED 63.236.213.242:40202, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:37:40] CONNECTED 63.236.213.242:43908, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:38:38] DISCONNECTED 63.236.213.242:43908, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:38:41] CONNECTED 63.236.213.242:55008, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:39:38] DISCONNECTED 63.236.213.242:55008, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][13:39:40] CONNECTED 63.236.213.242:34348, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:39:56] CONNECTED 170.211.157.125:33518, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:40:47] DISCONNECTED 170.211.157.125:33518, code: null, reason: "null", name: "AAAAAAHHHHHHHHh"
+[NONE ][13:41:02] DISCONNECTED 63.236.213.242:34348, code: null, reason: "null", name: ""
+[NONE ][13:41:05] CONNECTED 170.211.157.125:56326, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:41:05] CONNECTED 63.236.213.242:52564, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:41:10] DISCONNECTED 170.211.157.125:56326, code: 1001, reason: "", name: "AAAAAAHHHHHHHHh"
+[NONE ][13:41:39] DISCONNECTED 63.236.213.242:52564, code: 1001, reason: "", name: ""
+[NONE ][13:43:26] CONNECTED 63.236.213.242:53520, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:43:44] DISCONNECTED 63.236.213.242:53520, code: 1001, reason: "", name: "n"
+[NONE ][13:44:10] CONNECTED 63.236.213.242:46452, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:45:57] DISCONNECTED 63.236.213.242:46452, code: 1001, reason: "", name: "carsyn under"
+[NONE ][13:48:35] CONNECTED 50.201.145.131:44326, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:50:37] CONNECTED 146.166.250.122:52530, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:50:53] DISCONNECTED 146.166.250.122:52530, code: 1000, reason: "", name: "Player"
+[NONE ][13:51:04] DISCONNECTED 50.201.145.131:44326, code: 1006, reason: "null", name: "uh oh"
+[NONE ][13:51:08] CONNECTED 146.166.250.122:57688, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][13:51:15] DISCONNECTED 146.166.250.122:57688, code: 1000, reason: "", name: "Player"
+[NONE ][13:55:35] CONNECTED 75.98.203.146:59014, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][13:58:40] DISCONNECTED 75.98.203.146:59014, code: 1001, reason: "", name: "nig bigger"
+[NONE ][14:09:40] CONNECTED 63.236.213.242:41364, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:11:36] DISCONNECTED 63.236.213.242:41364, code: 1001, reason: "", name: "Kaisyn"
+[ERROR][14:11:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][14:11:54] CONNECTED 205.118.123.61:37382, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:12:14] DISCONNECTED 205.118.123.61:37382, code: 1001, reason: "", name: "Player"
+[NONE ][14:18:30] CONNECTED 63.236.213.242:42408, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:20:49] DISCONNECTED 63.236.213.242:42408, code: 1001, reason: "", name: "weslie"
+[NONE ][14:28:47] CONNECTED 63.236.213.242:51192, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:33:32] CONNECTED 63.236.213.242:59534, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][14:34:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][14:34:44] DISCONNECTED 63.236.213.242:51192, code: null, reason: "null", name: ""
+[NONE ][14:34:44] DISCONNECTED 63.236.213.242:51192, code: null, reason: "null", name: ""
+[ERROR][14:34:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:35:15] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][14:36:16] CONNECTED 63.236.213.242:46216, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:36:20] DISCONNECTED 63.236.213.242:59534, code: 1001, reason: "", name: "driany"
+[ERROR][14:36:45] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:37:15] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:37:48] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:39:47] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[ERROR][14:40:54] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:41:45] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:42:18] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][14:42:53] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][14:43:11] DISCONNECTED 63.236.213.242:46216, code: null, reason: "null", name: "driany"
+[NONE ][14:43:11] DISCONNECTED 63.236.213.242:46216, code: null, reason: "null", name: "driany"
+[NONE ][14:43:45] CONNECTED 63.236.213.242:54476, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:44:51] DISCONNECTED 63.236.213.242:54476, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:44:54] CONNECTED 63.236.213.242:57600, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:45:48] DISCONNECTED 63.236.213.242:57600, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:45:51] CONNECTED 63.236.213.242:60128, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:46:23] CONNECTED 63.236.213.242:45916, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:47:11] DISCONNECTED 63.236.213.242:60128, code: 1006, reason: "null", name: ""
+[NONE ][14:47:11] DISCONNECTED 63.236.213.242:45916, code: 1001, reason: "", name: "joseph"
+[ERROR][14:47:16] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][14:47:28] CONNECTED 63.236.213.242:50170, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:47:50] CONNECTED 63.236.213.242:33790, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:48:11] DISCONNECTED 63.236.213.242:50170, code: null, reason: "null", name: ""
+[NONE ][14:48:11] DISCONNECTED 63.236.213.242:50170, code: null, reason: "null", name: ""
+[ERROR][14:48:46] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][14:48:48] DISCONNECTED 63.236.213.242:33790, code: 1001, reason: "", name: "JB"
+[NONE ][14:49:09] CONNECTED 63.236.213.242:40106, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:49:52] DISCONNECTED 63.236.213.242:40106, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:49:55] CONNECTED 63.236.213.242:51398, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:50:52] DISCONNECTED 63.236.213.242:51398, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:50:54] CONNECTED 63.236.213.242:39252, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:52:00] DISCONNECTED 63.236.213.242:39252, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:52:03] CONNECTED 63.236.213.242:59076, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:52:43] DISCONNECTED 63.236.213.242:59076, code: null, reason: "null", name: ""
+[NONE ][14:52:46] CONNECTED 63.236.213.242:36704, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:54:05] DISCONNECTED 63.236.213.242:36704, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:54:08] CONNECTED 63.236.213.242:53016, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:55:00] DISCONNECTED 63.236.213.242:53016, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:55:03] CONNECTED 63.236.213.242:57900, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:55:57] DISCONNECTED 63.236.213.242:57900, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:55:59] CONNECTED 63.236.213.242:36332, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:57:03] DISCONNECTED 63.236.213.242:36332, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:57:06] CONNECTED 63.236.213.242:49246, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:57:58] DISCONNECTED 63.236.213.242:49246, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][14:58:08] CONNECTED 63.236.213.242:48688, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][14:58:54] DISCONNECTED 63.236.213.242:48688, code: 1001, reason: "", name: "driany"
+[NONE ][14:59:02] CONNECTED 63.236.213.242:43340, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][15:01:53] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][15:02:32] DISCONNECTED 63.236.213.242:43340, code: 1001, reason: "", name: "driany"
+[NONE ][15:02:45] CONNECTED 63.236.213.242:56100, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:02:47] DISCONNECTED 63.236.213.242:56100, code: 1001, reason: "", name: ""
+[NONE ][15:03:41] CONNECTED 104.197.44.20:53024, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:06:29] DISCONNECTED 104.197.44.20:53024, code: 1000, reason: "Connection timeout", name: "Player"
+[NONE ][15:06:31] CONNECTED 104.197.44.20:34130, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:07:44] DISCONNECTED 104.197.44.20:34130, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:07:56] CONNECTED 104.197.44.20:33906, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:08:49] DISCONNECTED 104.197.44.20:33906, code: null, reason: "null", name: ""
+[NONE ][15:08:49] DISCONNECTED 104.197.44.20:33906, code: null, reason: "null", name: ""
+[NONE ][15:09:26] CONNECTED 63.236.213.242:42850, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:09:43] DISCONNECTED 63.236.213.242:42850, code: 1001, reason: "", name: "DADDYDEUCE"
+[ERROR][15:09:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][15:11:09] CONNECTED 104.197.44.20:40914, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:11:19] DISCONNECTED 104.197.44.20:40914, code: null, reason: "null", name: ""
+[NONE ][15:11:50] CONNECTED 63.236.213.242:42538, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:12:11] CONNECTED 63.236.213.242:33858, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:12:37] DISCONNECTED 63.236.213.242:42538, code: 1001, reason: "", name: "nba youngboi"
+[NONE ][15:13:25] CONNECTED 35.224.47.85:37790, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][15:14:28] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][15:14:49] DISCONNECTED 35.224.47.85:37790, code: null, reason: "null", name: ""
+[NONE ][15:14:49] DISCONNECTED 35.224.47.85:37790, code: null, reason: "null", name: ""
+[NONE ][15:14:49] DISCONNECTED 63.236.213.242:33858, code: null, reason: "null", name: "yourdaddy"
+[NONE ][15:14:49] DISCONNECTED 63.236.213.242:33858, code: null, reason: "null", name: "yourdaddy"
+[NONE ][15:14:51] CONNECTED 63.236.213.242:52868, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:14:52] CONNECTED 35.224.47.85:58798, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:15:49] DISCONNECTED 35.224.47.85:58798, code: null, reason: "null", name: ""
+[ERROR][15:15:49] [172.31.196.1:58798] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:393:5)
+    at errorBuffer (node:internal/streams/writable:520:31)
+    at afterWrite (node:internal/streams/writable:504:5)
+    at onwrite (node:internal/streams/writable:480:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[NONE ][15:15:49] DISCONNECTED 35.224.47.85:58798, code: null, reason: "null", name: ""
+[NONE ][15:15:49] DISCONNECTED 63.236.213.242:52868, code: null, reason: "null", name: ""
+[NONE ][15:15:49] DISCONNECTED 63.236.213.242:52868, code: null, reason: "null", name: ""
+[NONE ][15:15:54] CONNECTED 35.224.47.85:48824, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:16:49] DISCONNECTED 35.224.47.85:48824, code: null, reason: "null", name: ""
+[NONE ][15:16:49] DISCONNECTED 35.224.47.85:48824, code: null, reason: "null", name: ""
+[NONE ][15:16:52] CONNECTED 63.236.213.242:33060, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:16:57] CONNECTED 35.224.47.85:55600, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:17:49] DISCONNECTED 63.236.213.242:33060, code: null, reason: "null", name: ""
+[ERROR][15:17:49] [172.31.196.1:33060] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:393:5)
+    at errorBuffer (node:internal/streams/writable:520:31)
+    at afterWrite (node:internal/streams/writable:504:5)
+    at onwrite (node:internal/streams/writable:480:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[NONE ][15:17:49] DISCONNECTED 63.236.213.242:33060, code: null, reason: "null", name: ""
+[NONE ][15:18:01] DISCONNECTED 35.224.47.85:55600, code: 1001, reason: "", name: "Player"
+[NONE ][15:18:37] CONNECTED 63.236.213.242:42728, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:19:49] DISCONNECTED 63.236.213.242:42728, code: null, reason: "null", name: ""
+[NONE ][15:19:49] DISCONNECTED 63.236.213.242:42728, code: null, reason: "null", name: ""
+[NONE ][15:20:20] CONNECTED 35.224.47.85:37170, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][15:21:31] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][15:21:49] DISCONNECTED 35.224.47.85:37170, code: 1006, reason: "null", name: ""
+[ERROR][15:21:57] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][15:21:58] CONNECTED 35.224.47.85:59348, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][15:22:31] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][15:22:49] DISCONNECTED 35.224.47.85:59348, code: null, reason: "null", name: ""
+[NONE ][15:22:49] DISCONNECTED 35.224.47.85:59348, code: null, reason: "null", name: ""
+[ERROR][15:23:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][15:23:58] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][15:24:01] CONNECTED 35.224.47.85:50270, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][15:24:42] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][15:24:49] DISCONNECTED 35.224.47.85:50270, code: null, reason: "null", name: ""
+[NONE ][15:24:49] DISCONNECTED 35.224.47.85:50270, code: null, reason: "null", name: ""
+[NONE ][15:25:00] CONNECTED 35.224.47.85:36280, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][15:25:33] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][15:25:49] DISCONNECTED 35.224.47.85:36280, code: null, reason: "null", name: ""
+[NONE ][15:25:49] DISCONNECTED 35.224.47.85:36280, code: null, reason: "null", name: ""
+[NONE ][15:26:00] CONNECTED 35.224.47.85:36656, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][15:26:36] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][15:26:49] DISCONNECTED 35.224.47.85:36656, code: null, reason: "null", name: ""
+[NONE ][15:26:49] DISCONNECTED 35.224.47.85:36656, code: null, reason: "null", name: ""
+[NONE ][15:28:49] CONNECTED 63.236.213.242:48518, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:28:50] DISCONNECTED 63.236.213.242:48518, code: 1001, reason: "", name: ""
+[NONE ][15:41:18] CONNECTED 170.211.157.126:43626, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][15:42:02] DISCONNECTED 170.211.157.126:43626, code: 1001, reason: "", name: "AAAAAAHHHHHHH"
+[NONE ][15:43:43] CONNECTED 63.236.213.242:33012, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][15:45:46] DISCONNECTED 63.236.213.242:33012, code: null, reason: "null", name: "JB"
+[NONE ][15:46:53] CONNECTED 164.166.223.23:40404, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][15:47:02] DISCONNECTED 164.166.223.23:40404, code: 1000, reason: "", name: ""
+[NONE ][16:08:19] CONNECTED 63.236.213.242:57396, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:08:58] DISCONNECTED 63.236.213.242:57396, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:09:00] CONNECTED 63.236.213.242:57772, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:09:59] CONNECTED 63.236.213.242:44080, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:10:00] DISCONNECTED 63.236.213.242:57772, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:10:12] DISCONNECTED 63.236.213.242:44080, code: 1006, reason: "null", name: "DADDYDEUCE"
+[NONE ][16:10:18] CONNECTED 63.236.213.242:59966, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:11:11] DISCONNECTED 63.236.213.242:59966, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:11:14] CONNECTED 63.236.213.242:53484, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:11:55] DISCONNECTED 63.236.213.242:53484, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:11:58] CONNECTED 63.236.213.242:43588, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:12:55] DISCONNECTED 63.236.213.242:43588, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:12:57] CONNECTED 63.236.213.242:56278, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:13:55] DISCONNECTED 63.236.213.242:56278, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:13:58] CONNECTED 63.236.213.242:39046, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:14:55] DISCONNECTED 63.236.213.242:39046, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:14:58] CONNECTED 63.236.213.242:57790, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:15:51] DISCONNECTED 63.236.213.242:57790, code: null, reason: "null", name: ""
+[NONE ][16:37:26] CONNECTED 146.166.250.122:43772, origin: "https://biobit-forked--lxtte.repl.co"
+[NONE ][16:37:57] DISCONNECTED 146.166.250.122:43772, code: 1006, reason: "", name: "Player"
+[ERROR][16:38:00] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][16:38:41] CONNECTED 146.166.250.122:47182, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:40:34] DISCONNECTED 146.166.250.122:47182, code: 1000, reason: "", name: ""
+[NONE ][16:47:18] CONNECTED 63.236.213.242:33188, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:48:08] DISCONNECTED 63.236.213.242:33188, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:48:10] CONNECTED 63.236.213.242:58394, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:49:08] DISCONNECTED 63.236.213.242:58394, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][16:49:11] CONNECTED 63.236.213.242:37426, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:49:50] CONNECTED 66.204.50.55:33174, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:50:38] DISCONNECTED 63.236.213.242:37426, code: null, reason: "null", name: ""
+[NONE ][16:50:38] DISCONNECTED 63.236.213.242:37426, code: null, reason: "null", name: ""
+[ERROR][16:50:39] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][16:50:59] CONNECTED 63.236.213.242:57404, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][16:51:39] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][16:52:09] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][16:52:38] DISCONNECTED 63.236.213.242:57404, code: null, reason: "null", name: ""
+[ERROR][16:52:38] [172.31.196.1:57404] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:393:5)
+    at errorBuffer (node:internal/streams/writable:520:31)
+    at afterWrite (node:internal/streams/writable:504:5)
+    at onwrite (node:internal/streams/writable:480:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[NONE ][16:52:38] DISCONNECTED 63.236.213.242:57404, code: null, reason: "null", name: ""
+[ERROR][16:52:39] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][16:52:49] CONNECTED 63.236.213.242:34762, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:52:50] CONNECTED 63.236.213.242:48060, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:52:52] DISCONNECTED 63.236.213.242:48060, code: null, reason: "null", name: ""
+[NONE ][16:53:27] DISCONNECTED 66.204.50.55:33174, code: null, reason: "null", name: "B@$$b0i"
+[NONE ][16:53:27] DISCONNECTED 66.204.50.55:33174, code: null, reason: "null", name: "B@$$b0i"
+[NONE ][16:53:37] DISCONNECTED 63.236.213.242:34762, code: null, reason: "null", name: ""
+[NONE ][16:53:37] DISCONNECTED 63.236.213.242:34762, code: null, reason: "null", name: ""
+[NONE ][16:53:49] CONNECTED 63.236.213.242:49150, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:54:37] DISCONNECTED 63.236.213.242:49150, code: null, reason: "null", name: ""
+[NONE ][16:54:37] DISCONNECTED 63.236.213.242:49150, code: null, reason: "null", name: ""
+[ERROR][16:54:39] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][16:54:40] CONNECTED 66.204.50.55:40006, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:54:44] CONNECTED 63.236.213.242:51250, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][16:55:09] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][16:55:27] DISCONNECTED 66.204.50.55:40006, code: null, reason: "null", name: ""
+[NONE ][16:55:27] DISCONNECTED 66.204.50.55:40006, code: null, reason: "null", name: ""
+[NONE ][16:55:36] CONNECTED 66.204.50.55:57156, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:55:37] DISCONNECTED 63.236.213.242:51250, code: null, reason: "null", name: ""
+[NONE ][16:55:37] DISCONNECTED 63.236.213.242:51250, code: null, reason: "null", name: ""
+[NONE ][16:55:49] CONNECTED 63.236.213.242:43906, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:56:27] DISCONNECTED 66.204.50.55:57156, code: null, reason: "null", name: ""
+[NONE ][16:56:27] DISCONNECTED 66.204.50.55:57156, code: null, reason: "null", name: ""
+[ERROR][16:56:34] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][16:56:35] CONNECTED 66.204.50.55:32852, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:56:37] DISCONNECTED 63.236.213.242:43906, code: null, reason: "null", name: ""
+[NONE ][16:56:37] DISCONNECTED 63.236.213.242:43906, code: null, reason: "null", name: ""
+[NONE ][16:56:46] CONNECTED 63.236.213.242:43066, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:57:27] DISCONNECTED 66.204.50.55:32852, code: null, reason: "null", name: ""
+[NONE ][16:57:27] DISCONNECTED 66.204.50.55:32852, code: null, reason: "null", name: ""
+[NONE ][16:57:37] CONNECTED 66.204.50.55:43792, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:57:37] DISCONNECTED 63.236.213.242:43066, code: null, reason: "null", name: ""
+[NONE ][16:57:37] DISCONNECTED 63.236.213.242:43066, code: null, reason: "null", name: ""
+[ERROR][16:57:38] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][16:57:45] CONNECTED 63.236.213.242:42080, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][16:58:06] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][16:58:27] DISCONNECTED 66.204.50.55:43792, code: null, reason: "null", name: ""
+[NONE ][16:58:27] DISCONNECTED 66.204.50.55:43792, code: null, reason: "null", name: ""
+[NONE ][16:58:37] DISCONNECTED 63.236.213.242:42080, code: null, reason: "null", name: ""
+[NONE ][16:58:37] DISCONNECTED 63.236.213.242:42080, code: null, reason: "null", name: ""
+[NONE ][16:58:51] CONNECTED 63.236.213.242:55334, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][16:59:07] CONNECTED 66.204.50.55:34576, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][16:59:37] DISCONNECTED 63.236.213.242:55334, code: null, reason: "null", name: ""
+[NONE ][16:59:37] DISCONNECTED 63.236.213.242:55334, code: null, reason: "null", name: ""
+[NONE ][16:59:48] CONNECTED 63.236.213.242:52496, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:00:14] DISCONNECTED 66.204.50.55:34576, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:00:18] CONNECTED 66.204.50.55:49414, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:00:37] DISCONNECTED 63.236.213.242:52496, code: null, reason: "null", name: ""
+[NONE ][17:00:37] DISCONNECTED 63.236.213.242:52496, code: null, reason: "null", name: ""
+[NONE ][17:00:47] CONNECTED 63.236.213.242:36494, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:01:27] DISCONNECTED 66.204.50.55:49414, code: null, reason: "null", name: ""
+[NONE ][17:01:27] DISCONNECTED 66.204.50.55:49414, code: null, reason: "null", name: ""
+[NONE ][17:01:37] DISCONNECTED 63.236.213.242:36494, code: null, reason: "null", name: ""
+[NONE ][17:01:37] DISCONNECTED 63.236.213.242:36494, code: null, reason: "null", name: ""
+[NONE ][17:01:47] CONNECTED 63.236.213.242:51334, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:01:52] CONNECTED 66.204.50.55:38090, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:02:37] DISCONNECTED 63.236.213.242:51334, code: null, reason: "null", name: ""
+[NONE ][17:02:37] DISCONNECTED 63.236.213.242:51334, code: null, reason: "null", name: ""
+[NONE ][17:02:49] CONNECTED 63.236.213.242:41680, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:03:27] DISCONNECTED 66.204.50.55:38090, code: null, reason: "null", name: ""
+[NONE ][17:03:27] DISCONNECTED 66.204.50.55:38090, code: null, reason: "null", name: ""
+[NONE ][17:03:37] DISCONNECTED 63.236.213.242:41680, code: null, reason: "null", name: ""
+[NONE ][17:03:37] DISCONNECTED 63.236.213.242:41680, code: null, reason: "null", name: ""
+[ERROR][17:03:41] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:03:48] CONNECTED 63.236.213.242:42630, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:04:10] CONNECTED 66.204.50.55:38714, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:04:37] DISCONNECTED 63.236.213.242:42630, code: null, reason: "null", name: ""
+[NONE ][17:04:37] DISCONNECTED 63.236.213.242:42630, code: null, reason: "null", name: ""
+[ERROR][17:04:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:04:53] CONNECTED 63.236.213.242:40544, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:05:27] DISCONNECTED 66.204.50.55:38714, code: 1006, reason: "null", name: ""
+[ERROR][17:05:36] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:05:36] CONNECTED 66.204.50.55:60516, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:05:37] DISCONNECTED 63.236.213.242:40544, code: null, reason: "null", name: ""
+[NONE ][17:05:37] DISCONNECTED 63.236.213.242:40544, code: null, reason: "null", name: ""
+[NONE ][17:05:50] CONNECTED 63.236.213.242:39192, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:06:27] DISCONNECTED 66.204.50.55:60516, code: null, reason: "null", name: ""
+[NONE ][17:06:27] DISCONNECTED 66.204.50.55:60516, code: null, reason: "null", name: ""
+[NONE ][17:06:34] CONNECTED 66.204.50.55:50762, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:06:37] DISCONNECTED 63.236.213.242:39192, code: null, reason: "null", name: ""
+[NONE ][17:06:37] DISCONNECTED 63.236.213.242:39192, code: null, reason: "null", name: ""
+[NONE ][17:06:47] CONNECTED 63.236.213.242:47824, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:07:27] DISCONNECTED 66.204.50.55:50762, code: null, reason: "null", name: ""
+[NONE ][17:07:27] DISCONNECTED 66.204.50.55:50762, code: null, reason: "null", name: ""
+[NONE ][17:07:36] CONNECTED 66.204.50.55:59074, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:07:37] DISCONNECTED 63.236.213.242:47824, code: null, reason: "null", name: ""
+[NONE ][17:07:37] DISCONNECTED 63.236.213.242:47824, code: null, reason: "null", name: ""
+[NONE ][17:07:52] CONNECTED 63.236.213.242:48954, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:08:27] DISCONNECTED 66.204.50.55:59074, code: null, reason: "null", name: ""
+[NONE ][17:08:27] DISCONNECTED 66.204.50.55:59074, code: null, reason: "null", name: ""
+[NONE ][17:08:37] DISCONNECTED 63.236.213.242:48954, code: null, reason: "null", name: ""
+[NONE ][17:08:37] DISCONNECTED 63.236.213.242:48954, code: null, reason: "null", name: ""
+[NONE ][17:08:37] CONNECTED 66.204.50.55:57332, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:08:43] CONNECTED 63.236.213.242:51800, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:09:27] DISCONNECTED 66.204.50.55:57332, code: null, reason: "null", name: ""
+[NONE ][17:09:27] DISCONNECTED 66.204.50.55:57332, code: null, reason: "null", name: ""
+[NONE ][17:09:37] DISCONNECTED 63.236.213.242:51800, code: null, reason: "null", name: ""
+[NONE ][17:09:37] DISCONNECTED 63.236.213.242:51800, code: null, reason: "null", name: ""
+[NONE ][17:09:38] CONNECTED 66.204.50.55:35884, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:09:46] CONNECTED 63.236.213.242:56702, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:09:47] CONNECTED 63.236.213.242:45000, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:10:27] DISCONNECTED 66.204.50.55:35884, code: null, reason: "null", name: ""
+[NONE ][17:10:27] DISCONNECTED 66.204.50.55:35884, code: null, reason: "null", name: ""
+[NONE ][17:10:37] DISCONNECTED 63.236.213.242:56702, code: null, reason: "null", name: ""
+[NONE ][17:10:37] DISCONNECTED 63.236.213.242:56702, code: null, reason: "null", name: ""
+[ERROR][17:10:41] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][17:11:11] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][17:11:41] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][17:12:11] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][17:12:41] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:12:46] DISCONNECTED 63.236.213.242:45000, code: null, reason: "null", name: ""
+[NONE ][17:12:58] CONNECTED 66.204.50.55:48874, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][17:13:41] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][17:14:11] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:14:27] DISCONNECTED 66.204.50.55:48874, code: null, reason: "null", name: ""
+[NONE ][17:14:27] DISCONNECTED 66.204.50.55:48874, code: null, reason: "null", name: ""
+[NONE ][17:14:38] CONNECTED 63.236.213.242:54018, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][17:14:41] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:14:42] CONNECTED 66.204.50.55:58730, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][17:15:11] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:15:31] DISCONNECTED 66.204.50.55:58730, code: null, reason: "null", name: ""
+[ERROR][17:15:41] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:15:44] CONNECTED 66.204.50.55:52746, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][17:16:44] DISCONNECTED 66.204.50.55:52746, code: 1006, reason: "null", name: ""
+[NONE ][17:17:00] CONNECTED 63.236.213.242:59028, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:17:01] DISCONNECTED 63.236.213.242:59028, code: null, reason: "null", name: ""
+[NONE ][17:17:07] DISCONNECTED 63.236.213.242:54018, code: 1001, reason: "", name: ""
+[NONE ][17:17:25] CONNECTED 63.236.213.242:43518, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][17:23:11] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:23:18] CONNECTED 204.100.235.125:58234, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:23:37] DISCONNECTED 63.236.213.242:43518, code: 1006, reason: "null", name: ""
+[NONE ][17:24:06] DISCONNECTED 204.100.235.125:58234, code: 1006, reason: "null", name: "Kingston"
+[ERROR][17:24:11] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:24:12] CONNECTED 63.236.213.242:45694, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:25:09] DISCONNECTED 63.236.213.242:45694, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:25:11] CONNECTED 63.236.213.242:37810, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:26:21] DISCONNECTED 63.236.213.242:37810, code: 1000, reason: "Connection timeout", name: ""
+[ERROR][17:26:42] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][17:27:12] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:27:34] CONNECTED 63.236.213.242:48938, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:27:36] CONNECTED 63.236.213.242:41250, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][17:27:37] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[ERROR][17:28:12] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:28:37] DISCONNECTED 63.236.213.242:48938, code: null, reason: "null", name: ""
+[NONE ][17:28:37] DISCONNECTED 63.236.213.242:48938, code: null, reason: "null", name: ""
+[ERROR][17:28:42] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][17:29:21] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:29:25] DISCONNECTED 63.236.213.242:41250, code: 1001, reason: "", name: "jerome"
+[NONE ][17:29:34] CONNECTED 63.236.213.242:59896, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][17:29:35] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:29:36] CONNECTED 63.236.213.242:56918, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:30:28] DISCONNECTED 63.236.213.242:59896, code: null, reason: "null", name: ""
+[NONE ][17:30:28] DISCONNECTED 63.236.213.242:59896, code: null, reason: "null", name: ""
+[NONE ][17:30:36] CONNECTED 63.236.213.242:59910, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][17:30:38] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[ERROR][17:31:16] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:32:31] DISCONNECTED 63.236.213.242:59910, code: null, reason: "null", name: ""
+[NONE ][17:32:40] CONNECTED 63.236.213.242:44292, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:33:07] DISCONNECTED 63.236.213.242:56918, code: 1006, reason: "null", name: ""
+[ERROR][17:33:15] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:33:16] CONNECTED 63.236.213.242:58306, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:34:07] DISCONNECTED 63.236.213.242:58306, code: null, reason: "null", name: ""
+[NONE ][17:34:07] DISCONNECTED 63.236.213.242:58306, code: null, reason: "null", name: ""
+[NONE ][17:34:19] CONNECTED 63.236.213.242:36370, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:35:07] DISCONNECTED 63.236.213.242:36370, code: null, reason: "null", name: ""
+[NONE ][17:35:07] DISCONNECTED 63.236.213.242:36370, code: null, reason: "null", name: ""
+[ERROR][17:35:12] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:35:16] CONNECTED 63.236.213.242:50602, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:36:07] DISCONNECTED 63.236.213.242:50602, code: null, reason: "null", name: ""
+[NONE ][17:36:07] DISCONNECTED 63.236.213.242:50602, code: null, reason: "null", name: ""
+[ERROR][17:36:16] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:36:37] DISCONNECTED 63.236.213.242:44292, code: null, reason: "null", name: ""
+[NONE ][17:36:37] DISCONNECTED 63.236.213.242:44292, code: null, reason: "null", name: ""
+[NONE ][17:37:36] CONNECTED 170.211.157.126:40786, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[ERROR][17:37:37] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:37:44] CONNECTED 63.236.213.242:57052, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:37:45] CONNECTED 63.236.213.242:33692, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][17:38:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][17:38:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:39:07] DISCONNECTED 63.236.213.242:57052, code: null, reason: "null", name: ""
+[ERROR][17:39:08] [172.31.196.1:57052] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:393:5)
+    at errorBuffer (node:internal/streams/writable:520:31)
+    at afterWrite (node:internal/streams/writable:504:5)
+    at onwrite (node:internal/streams/writable:480:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[NONE ][17:39:08] DISCONNECTED 63.236.213.242:57052, code: null, reason: "null", name: ""
+[ERROR][17:39:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][17:39:44] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:39:46] CONNECTED 63.236.213.242:52900, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][17:40:14] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:40:33] DISCONNECTED 170.211.157.126:40786, code: 1006, reason: "", name: "Player"
+[ERROR][17:40:45] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:41:02] DISCONNECTED 63.236.213.242:52900, code: 1006, reason: "null", name: ""
+[ERROR][17:41:12] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:41:14] CONNECTED 63.236.213.242:52186, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][17:41:45] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:42:02] DISCONNECTED 63.236.213.242:52186, code: null, reason: "null", name: ""
+[NONE ][17:42:02] DISCONNECTED 63.236.213.242:52186, code: null, reason: "null", name: ""
+[ERROR][17:42:13] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[ERROR][17:43:09] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:43:10] CONNECTED 63.236.213.242:35180, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:44:02] DISCONNECTED 63.236.213.242:35180, code: null, reason: "null", name: ""
+[NONE ][17:44:02] DISCONNECTED 63.236.213.242:35180, code: null, reason: "null", name: ""
+[NONE ][17:44:37] DISCONNECTED 63.236.213.242:33692, code: 1006, reason: "null", name: "camron"
+[ERROR][17:44:45] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:44:49] CONNECTED 63.236.213.242:42142, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:44:57] CONNECTED 63.236.213.242:52296, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:45:37] DISCONNECTED 63.236.213.242:42142, code: null, reason: "null", name: ""
+[NONE ][17:45:37] DISCONNECTED 63.236.213.242:42142, code: null, reason: "null", name: ""
+[ERROR][17:45:45] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:45:47] CONNECTED 63.236.213.242:58272, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:46:02] DISCONNECTED 63.236.213.242:52296, code: null, reason: "null", name: ""
+[NONE ][17:46:02] DISCONNECTED 63.236.213.242:52296, code: null, reason: "null", name: ""
+[ERROR][17:46:11] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:46:11] CONNECTED 63.236.213.242:49336, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:46:37] DISCONNECTED 63.236.213.242:58272, code: null, reason: "null", name: ""
+[NONE ][17:46:37] DISCONNECTED 63.236.213.242:58272, code: null, reason: "null", name: ""
+[NONE ][17:46:48] CONNECTED 63.236.213.242:60754, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:47:02] DISCONNECTED 63.236.213.242:49336, code: null, reason: "null", name: ""
+[NONE ][17:47:02] DISCONNECTED 63.236.213.242:49336, code: null, reason: "null", name: ""
+[NONE ][17:47:13] CONNECTED 63.236.213.242:33448, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:47:37] DISCONNECTED 63.236.213.242:60754, code: null, reason: "null", name: ""
+[NONE ][17:47:37] DISCONNECTED 63.236.213.242:60754, code: null, reason: "null", name: ""
+[NONE ][17:47:47] CONNECTED 63.236.213.242:42082, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:48:02] DISCONNECTED 63.236.213.242:33448, code: null, reason: "null", name: ""
+[NONE ][17:48:02] DISCONNECTED 63.236.213.242:33448, code: null, reason: "null", name: ""
+[ERROR][17:48:15] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][17:48:37] DISCONNECTED 63.236.213.242:42082, code: null, reason: "null", name: ""
+[NONE ][17:48:37] DISCONNECTED 63.236.213.242:42082, code: null, reason: "null", name: ""
+[ERROR][17:48:41] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][17:48:43] CONNECTED 63.236.213.242:42882, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:49:24] DISCONNECTED 63.236.213.242:42882, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:49:26] CONNECTED 63.236.213.242:36148, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:50:10] DISCONNECTED 63.236.213.242:36148, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:50:14] CONNECTED 63.236.213.242:35748, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:51:16] DISCONNECTED 63.236.213.242:35748, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:51:18] CONNECTED 63.236.213.242:58850, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:52:10] DISCONNECTED 63.236.213.242:58850, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:52:13] CONNECTED 63.236.213.242:36068, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:53:10] DISCONNECTED 63.236.213.242:36068, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:53:13] CONNECTED 63.236.213.242:52516, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:54:14] DISCONNECTED 63.236.213.242:52516, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:54:16] CONNECTED 63.236.213.242:35518, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:55:08] DISCONNECTED 63.236.213.242:35518, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:55:10] CONNECTED 63.236.213.242:42578, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:56:09] DISCONNECTED 63.236.213.242:42578, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:56:11] CONNECTED 63.236.213.242:42800, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:57:11] DISCONNECTED 63.236.213.242:42800, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:57:13] CONNECTED 63.236.213.242:57260, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:58:19] DISCONNECTED 63.236.213.242:57260, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:58:24] CONNECTED 63.236.213.242:57110, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][17:59:13] DISCONNECTED 63.236.213.242:57110, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][17:59:15] CONNECTED 63.236.213.242:51528, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:00:08] DISCONNECTED 63.236.213.242:51528, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:00:11] CONNECTED 63.236.213.242:59340, origin: "https://biobit-forked.lxtte.repl.co"
+[INFO ][18:00:26] Added 4 player bots
+[NONE ][18:00:27] DISCONNECTED 63.236.213.242:59340, code: 1000, reason: "", name: ""
+[NONE ][18:00:29] CONNECTED 63.236.213.242:51204, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:01:10] DISCONNECTED 63.236.213.242:51204, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:01:12] CONNECTED 63.236.213.242:45184, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:02:12] DISCONNECTED 63.236.213.242:45184, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:02:26] CONNECTED 63.236.213.242:58716, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:03:08] DISCONNECTED 63.236.213.242:58716, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:03:11] CONNECTED 63.236.213.242:39740, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:04:08] DISCONNECTED 63.236.213.242:39740, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:04:10] CONNECTED 63.236.213.242:51086, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:05:07] DISCONNECTED 63.236.213.242:51086, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:05:10] CONNECTED 63.236.213.242:41408, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:06:08] DISCONNECTED 63.236.213.242:41408, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:06:10] CONNECTED 63.236.213.242:35966, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:07:07] DISCONNECTED 63.236.213.242:35966, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:07:10] CONNECTED 63.236.213.242:36424, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:08:07] DISCONNECTED 63.236.213.242:36424, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:08:11] CONNECTED 63.236.213.242:52232, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:09:08] DISCONNECTED 63.236.213.242:52232, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:09:10] CONNECTED 63.236.213.242:32978, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:10:08] DISCONNECTED 63.236.213.242:32978, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:10:10] CONNECTED 63.236.213.242:48830, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:11:08] DISCONNECTED 63.236.213.242:48830, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:11:10] CONNECTED 63.236.213.242:47402, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:12:13] DISCONNECTED 63.236.213.242:47402, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:12:15] CONNECTED 63.236.213.242:42324, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:13:25] DISCONNECTED 63.236.213.242:42324, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:13:27] CONNECTED 63.236.213.242:33216, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:14:37] DISCONNECTED 63.236.213.242:33216, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:14:42] CONNECTED 63.236.213.242:40456, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:15:28] DISCONNECTED 63.236.213.242:40456, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:15:30] CONNECTED 63.236.213.242:42630, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:15:30] CONNECTED 63.236.213.242:50368, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][18:16:19] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:16:37] DISCONNECTED 63.236.213.242:50368, code: null, reason: "null", name: ""
+[NONE ][18:16:37] DISCONNECTED 63.236.213.242:50368, code: null, reason: "null", name: ""
+[ERROR][18:16:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:17:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:18:19] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:18:49] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:19:16] DISCONNECTED 63.236.213.242:42630, code: null, reason: "null", name: "monkeywoman"
+[ERROR][18:19:16] [172.31.196.1:42630] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:393:5)
+    at errorBuffer (node:internal/streams/writable:520:31)
+    at afterWrite (node:internal/streams/writable:504:5)
+    at onwrite (node:internal/streams/writable:480:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[NONE ][18:19:16] DISCONNECTED 63.236.213.242:42630, code: null, reason: "null", name: "monkeywoman"
+[ERROR][18:19:19] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:19:50] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:20:21] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:20:29] CONNECTED 63.236.213.242:33724, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:21:16] DISCONNECTED 63.236.213.242:33724, code: null, reason: "null", name: ""
+[NONE ][18:21:16] DISCONNECTED 63.236.213.242:33724, code: null, reason: "null", name: ""
+[ERROR][18:21:21] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:21:29] CONNECTED 63.236.213.242:48928, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:21:32] CONNECTED 63.236.213.242:52510, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][18:21:53] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:22:16] DISCONNECTED 63.236.213.242:48928, code: null, reason: "null", name: ""
+[ERROR][18:22:16] [172.31.196.1:48928] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:393:5)
+    at errorBuffer (node:internal/streams/writable:520:31)
+    at afterWrite (node:internal/streams/writable:504:5)
+    at onwrite (node:internal/streams/writable:480:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[NONE ][18:22:16] DISCONNECTED 63.236.213.242:48928, code: null, reason: "null", name: ""
+[ERROR][18:22:23] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:22:37] DISCONNECTED 63.236.213.242:52510, code: null, reason: "null", name: ""
+[NONE ][18:22:37] DISCONNECTED 63.236.213.242:52510, code: null, reason: "null", name: ""
+[NONE ][18:22:50] CONNECTED 63.236.213.242:60018, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:22:54] CONNECTED 63.236.213.242:52442, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][18:23:23] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:23:37] DISCONNECTED 63.236.213.242:60018, code: null, reason: "null", name: ""
+[NONE ][18:23:37] DISCONNECTED 63.236.213.242:60018, code: null, reason: "null", name: ""
+[NONE ][18:23:56] DISCONNECTED 63.236.213.242:52442, code: null, reason: "null", name: ""
+[ERROR][18:23:57] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:24:05] CONNECTED 63.236.213.242:54030, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:25:09] DISCONNECTED 63.236.213.242:54030, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:25:11] CONNECTED 63.236.213.242:37054, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:26:06] DISCONNECTED 63.236.213.242:37054, code: null, reason: "null", name: ""
+[NONE ][18:26:20] CONNECTED 63.236.213.242:55236, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:27:12] DISCONNECTED 63.236.213.242:55236, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:27:15] CONNECTED 63.236.213.242:54064, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:28:12] DISCONNECTED 63.236.213.242:54064, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:28:15] CONNECTED 63.236.213.242:52876, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:28:26] CONNECTED 63.236.213.242:52070, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:28:32] DISCONNECTED 63.236.213.242:52070, code: null, reason: "null", name: ""
+[NONE ][18:29:17] DISCONNECTED 63.236.213.242:52876, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:29:21] CONNECTED 63.236.213.242:56660, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:29:29] CONNECTED 63.236.213.242:55686, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:29:59] CONNECTED 63.236.213.242:37434, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:30:35] DISCONNECTED 63.236.213.242:56660, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][18:30:50] CONNECTED 63.236.213.242:53440, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:30:57] DISCONNECTED 63.236.213.242:55686, code: null, reason: "null", name: ""
+[NONE ][18:30:57] DISCONNECTED 63.236.213.242:55686, code: null, reason: "null", name: ""
+[NONE ][18:31:00] DISCONNECTED 63.236.213.242:37434, code: null, reason: "null", name: ""
+[NONE ][18:31:00] DISCONNECTED 63.236.213.242:37434, code: null, reason: "null", name: ""
+[ERROR][18:31:24] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:31:33] CONNECTED 63.236.213.242:37694, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:31:41] DISCONNECTED 63.236.213.242:53440, code: null, reason: "null", name: ""
+[NONE ][18:31:41] DISCONNECTED 63.236.213.242:53440, code: null, reason: "null", name: ""
+[NONE ][18:31:54] CONNECTED 63.236.213.242:40136, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:31:59] CONNECTED 63.236.213.242:33772, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][18:32:24] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:32:45] DISCONNECTED 63.236.213.242:33772, code: null, reason: "null", name: ""
+[ERROR][18:32:54] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:32:57] DISCONNECTED 63.236.213.242:40136, code: null, reason: "null", name: ""
+[NONE ][18:32:57] DISCONNECTED 63.236.213.242:40136, code: null, reason: "null", name: ""
+[NONE ][18:33:00] DISCONNECTED 63.236.213.242:37694, code: 1006, reason: "null", name: ""
+[NONE ][18:33:03] CONNECTED 63.236.213.242:48290, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:33:08] CONNECTED 63.236.213.242:58800, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][18:33:54] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:33:57] DISCONNECTED 63.236.213.242:48290, code: null, reason: "null", name: ""
+[NONE ][18:33:57] DISCONNECTED 63.236.213.242:48290, code: null, reason: "null", name: ""
+[NONE ][18:34:00] DISCONNECTED 63.236.213.242:58800, code: null, reason: "null", name: ""
+[ERROR][18:34:00] [172.31.196.1:58800] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:393:5)
+    at errorBuffer (node:internal/streams/writable:520:31)
+    at afterWrite (node:internal/streams/writable:504:5)
+    at onwrite (node:internal/streams/writable:480:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[NONE ][18:34:00] DISCONNECTED 63.236.213.242:58800, code: null, reason: "null", name: ""
+[NONE ][18:34:11] CONNECTED 63.236.213.242:41822, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:34:13] CONNECTED 63.236.213.242:34936, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][18:34:54] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:36:00] DISCONNECTED 63.236.213.242:34936, code: null, reason: "null", name: ""
+[NONE ][18:36:00] DISCONNECTED 63.236.213.242:34936, code: null, reason: "null", name: ""
+[NONE ][18:36:13] CONNECTED 63.236.213.242:39326, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][18:36:55] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:37:25] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:37:43] DISCONNECTED 63.236.213.242:39326, code: null, reason: "null", name: ""
+[ERROR][18:37:56] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[ERROR][18:42:00] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:42:26] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:42:56] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:43:31] CONNECTED 63.236.213.242:38788, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][18:43:57] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:44:27] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:44:39] DISCONNECTED 63.236.213.242:38788, code: 1001, reason: "", name: ""
+[ERROR][18:44:57] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:45:31] CONNECTED 63.236.213.242:47900, origin: "https://biobit-forked.lxtte.repl.co"
+[ERROR][18:45:57] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:46:27] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:46:57] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:47:57] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[ERROR][18:48:27] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl
+[NONE ][18:48:47] DISCONNECTED 63.236.213.242:47900, code: 1006, reason: "null", name: ""
+[ERROR][18:48:55] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo ENOTFOUND ogar.mivabe.nl
+[NONE ][18:48:59] CONNECTED 63.236.213.242:57296, origin: "https://biobit-forked.lxtte.repl.co"
+[NONE ][18:49:19] DISCONNECTED 63.236.213.242:41822, code: 1006, reason: "", name: "joseph"
+[ERROR][18:49:27] [Tracker][ogar.mivabe.nl]: Error: getaddrinfo EAI_AGAIN ogar.mivabe.nl

@@ -1,0 +1,262 @@
+@import url("https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap");
+html,
+body {
+  cursor: crosshair;
+  font-family: Odibee Sans;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  overflow-x: hidden;
+  -webkit-text-size-adjust: none;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  color: dark;
+}
+
+input[type="checkbox"] {
+  cursor: pointer;
+}
+.button5 {
+  background-color: #555555;
+}
+#overlays,
+#connecting {
+  opacity: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 200;
+}
+#connecting {
+  z-index: 100;
+}
+.connectbackup {
+  background-color: #5488f8; /* Blue */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#title {
+  padding: 10px;
+  color: #00000;
+}
+#nick {
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+#skin {
+  width: 33%;
+  float: right;
+}
+#nick,
+#skin {
+  display: inline;
+}
+#gamemode {
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  margin-top: 5px;
+  width: 100%;
+}
+#helloDialog {
+  text-align: center;
+  opacity: .9;
+  filter: blur(.3px);
+  -webkit-filter: blur(.3px);
+  border: none;
+  background-image: url("https://www.patriotathome.org/wp-content/uploads/2016/11/blue-gradient-colors-gradient-blue-color-gradient-background-photoshop-1024x658.png");
+  width: 400px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  background-color: #fff;
+  margin: 10px auto;
+  border-radius: 5px;
+  padding: 5px 15px 5px 15px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#leftPanel {
+  width: 350px;
+  height: 525px;
+  margin: 10px auto;
+  border-radius: 5px;
+  padding: 5px 15px 5px 15px;
+  position: absolute;
+  top: 50%;
+  left: -50%;
+  margin-right: -50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background: linear-gradient(
+    180deg,
+    rgba(48, 91, 191, 0.8) 0%,
+    rgba(48, 158, 191, 0.5) 100%
+  );
+  border: 1px solid rgb(52, 235, 216);
+  visibility: visible;
+}
+
+#rightPanel {
+  font-size: 14.6px;
+  width: 350px;
+  height: 525px;
+  margin: 10px auto;
+  border-radius: 5px;
+  padding: 5px 15px 5px 15px;
+  position: absolute;
+  top: 50%;
+  left: 150%;
+  margin-right: -50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background: linear-gradient(
+    180deg,
+    rgba(48, 91, 191, 0.8) 0%,
+    rgba(48, 158, 191, 0.5) 100%
+  );
+  border: 1px solid rgb(52, 235, 216);
+  visibility: visible;
+}
+
+#chat_textbox {
+  border-radius: 3px;
+  transition: all 0.5s ease-in-out;
+  position: absolute;
+  z-index: 1;
+  bottom: 10px;
+  background: rgba(0, 0, 0, 0.2);
+  border: none;
+  outline: none;
+  color: #fff;
+  height: 30px;
+  text-indent: 12px;
+  left: 10px;
+  width: 300px;
+  font-family: Odibee Sans;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+#chat_textbox:focus {
+  background: rgba(0, 0, 0, 0.5);
+}
+#footer {
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: -10px;
+}
+#play-btn {
+  width: 85%;
+  margin-bottom: 10px;
+  background: #4b2ee7;
+}
+#spectate-btn {
+  width: 13%;
+  float: right;
+  top: 0;
+  background: #a82ee72;
+}
+#play-btn,
+#spectate-button {
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  display: inline;
+}
+#gallery-btn {
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  width: 100%;
+  margin-bottom: 5px;
+  background: #e72ec8;
+}
+#touchpad,
+#touchCircle,
+#splitBtn,
+#ejectBtn {
+  position: fixed;
+}
+#touchpad,
+#splitBtn,
+#ejectBtn {
+  z-index: 2;
+}
+#touchpad {
+  background: #000;
+  opacity: 0.3;
+  width: 20vw;
+  height: 20vh;
+  left: 0;
+  bottom: 0;
+}
+#touchCircle {
+  width: 4vw;
+  height: 4vw;
+  border-radius: 2vw;
+  background: #f00;
+  opacity: 0.3;
+  z-index: 3;
+}
+#splitBtn,
+#ejectBtn {
+  width: 8vw;
+  height: 8vw;
+  border-radius: 4vw;
+  background: #777;
+  opacity: 0.5;
+}
+#splitBtn {
+  right: 18vw;
+  bottom: 0;
+}
+#ejectBtn {
+  bottom: 18vw;
+  right: 0;
+}
+#playSounds:checked + #soundsVolume {
+  display: inline;
+}
+#soundsVolume {
+  display: none;
+  width: 100px;
+  height: 18px;
+  padding: 0; /* IE fix */
+  vertical-align: middle;
+}
+#settings label {
+  margin-right: 10px;
+  user-select: none;
+}
+.header {
+  font-family: Odibee Sans;
+  font-size: 6rem;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-align: center;
+  color: #f35626;
+  background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-animation: hue 10s infinite linear;
+}
+
+@-webkit-keyframes hue {
+  from {
+    -webkit-filter: hue-rotate(0deg);
+  }
+  to {
+    -webkit-filter: hue-rotate(-360deg);
+  }
+}

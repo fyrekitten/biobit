@@ -1,0 +1,75 @@
+=== Started 2023-02-13T18-52-29-370 ===
+[ERROR][18:52:29] Unknown gameserver.ini value: serverWelcome3
+[INFO ][18:52:29] 2 bad words loaded
+[INFO ][18:52:29] 4 user records loaded.
+[INFO ][18:52:29] 0 IP ban records loaded.
+[INFO ][18:52:29] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][18:52:29] WebSocket: ws
+[INFO ][18:52:29] Started stats server on port 1234
+[INFO ][18:52:29] Listening on port 3000
+[INFO ][18:52:29] Current game mode is vFree For All
+[INFO ][18:52:29] Added 4 player bots
+[NONE ][18:52:29]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][18:52:33] CONNECTED 152.157.185.136:34456, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:52:33] Welcome to BioBit v1.0! 
+[NONE ][18:52:33] SERVER
+[NONE ][18:52:33] Hello There! 
+[NONE ][18:52:33] SERVER
+[NONE ][18:52:43] >mass 5 1000
+[NONE ][18:52:43] Set mass of Joe Swansonson to 1000.000
+[NONE ][18:52:49] >speed 5 5
+[NONE ][18:52:49] Set base speed of Joe Swansonson to 5
+[NONE ][18:53:12] >addbot
+[NONE ][18:53:12] Added 1 player bots
+[NONE ][18:53:12] >
+[NONE ][18:53:13] >addbot
+[NONE ][18:53:13] Added 1 player bots
+[NONE ][18:53:13] >addbot
+[NONE ][18:53:13] Added 1 player bots
+[NONE ][18:53:13] >addbot
+[NONE ][18:53:13] Added 1 player bots
+[NONE ][18:53:14] >addbot
+[NONE ][18:53:14] Added 1 player bots
+[NONE ][18:53:14] >addbot
+[NONE ][18:53:14] Added 1 player bots
+[NONE ][18:53:14] >addbot
+[NONE ][18:53:14] Added 1 player bots
+[NONE ][18:53:14] >addbot
+[NONE ][18:53:14] Added 1 player bots
+[NONE ][18:53:15] >addbot
+[NONE ][18:53:15] Added 1 player bots
+[NONE ][18:53:15] >addbot
+[NONE ][18:53:15] Added 1 player bots
+[NONE ][18:53:15] >addbot
+[NONE ][18:53:15] Added 1 player bots
+[NONE ][18:53:15] >addbot
+[NONE ][18:53:15] Added 1 player bots
+[NONE ][18:53:16] >addbot
+[NONE ][18:53:16] Added 1 player bots
+[NONE ][18:53:16] >addbot
+[NONE ][18:53:16] Added 1 player bots
+[NONE ][18:53:16] >addbot
+[NONE ][18:53:16] Added 1 player bots
+[NONE ][18:53:16] >
+[NONE ][18:55:03] ERROR: access denied!
+[NONE ][18:55:03] SERVER
+[NONE ][18:55:09] !mass
+[NONE ][18:55:09] Joe Swansonson
+[NONE ][18:55:29] DISCONNECTED 152.157.185.136:34456, code: null, reason: "null", name: "Joe Swansonson"
+[NONE ][18:55:31] CONNECTED 152.157.185.136:42046, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:55:31] Welcome to BioBit v1.0! 
+[NONE ][18:55:31] SERVER
+[NONE ][18:55:31] Hello There! 
+[NONE ][18:55:31] SERVER
+[NONE ][18:55:31] DISCONNECTED 152.157.185.136:42046, code: 1001, reason: "", name: ""
+[NONE ][18:55:32] CONNECTED 152.157.185.136:42048, origin: "https://34f255ab-3d17-48d9-9f19-a2c64b272861.id.repl.co"
+[NONE ][18:55:33] Welcome to BioBit v1.0! 
+[NONE ][18:55:33] SERVER
+[NONE ][18:55:33] Hello There! 
+[NONE ][18:55:33] SERVER
+[NONE ][18:56:36] DISCONNECTED 152.157.185.136:42048, code: 1006, reason: "null", name: ""
